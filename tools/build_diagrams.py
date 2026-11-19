@@ -624,7 +624,7 @@ SPECS["detective-board"] = dict(
                           "Утверждения принадлежат самому треку; блок утверждения это заявление 1989 года, красные флаги это контрдоводы трека."]}},
 )
 
-# --- Track 6 (OSINT): validation pipeline ----------------------------------------------------
+# --- Track 5 (OSINT): validation pipeline ----------------------------------------------------
 KV = {"step": (BLUE, {"en": "▪ STEP", "ru": "▪ ШАГ"}), "gate": (GOLD, {"en": "▪ GATE", "ru": "▪ КРИТЕРИИ"}),
       "pass": (GREEN, {"en": "✓ PASSES", "ru": "✓ ВЫПОЛНЕНО"}), "fail": (AMBER, {"en": "✕ FAILURE MODE", "ru": "✕ ТИП ОШИБКИ"})}
 SPECS["validation-pipeline"] = dict(
@@ -653,17 +653,17 @@ SPECS["validation-pipeline"] = dict(
            ("R1", "NEW", "s"), ("R2", "NEW", "s"), ("R3", "NEW", "s"), ("R4", "NEW", "s"), ("R5", "NEW", "s"),
            ("G", "ER1", "r"), ("G", "ER2", "r"), ("G", "ER3", "r")],
     legend=[("solid", BLUE, two("sequence", "последовательность")), ("dashed", AMBER, two("what the gate rejects", "что отсеивает проверка"))],
-    text={"en": {"title": "OSINT validation pipeline", "sub": "Seven steps, five acceptance criteria, three failure modes", "tag": "TRACK 6 DIAGRAM",
+    text={"en": {"title": "OSINT validation pipeline", "sub": "Seven steps, five acceptance criteria, three failure modes", "tag": "TRACK 5 DIAGRAM",
                  "desc": "Method scheme, top to bottom. Seven steps in a chain: parameter isolation, threshold search, temporal structure, multi-channel verification, scaling, modelling, hypothesis crash-test. They lead to a gate of five acceptance criteria: reproducible, has threshold, has signature, scales, does not fit the existing model. If all five hold the outcome is a new physical regime. The gate also rejects three failure modes: a single strange signal, ignored noise and artifacts, mixed processes.",
                  "foot": ["Redrawn from osint-intelligence-analysis/diagrams/validation_pipeline.mmd; the previous PNG render stays in the repository.",
                           "A scheme of the track's method, not a result: the picture does not say that any case has passed the gate."]},
-          "ru": {"title": "Конвейер валидации OSINT", "sub": "Семь шагов, пять критериев приёмки, три типа ошибок", "tag": "ДИАГРАММА ТРЕКА 6",
+          "ru": {"title": "Конвейер валидации OSINT", "sub": "Семь шагов, пять критериев приёмки, три типа ошибок", "tag": "ДИАГРАММА ТРЕКА 5",
                  "desc": "Схема метода сверху вниз. Семь шагов в цепочке: изоляция параметров, поиск порога, временная структура, мультиканальная проверка, масштабирование, моделирование, краш-тест гипотезы. Они ведут к проверке по пяти критериям приёмки: воспроизводится, имеет порог, имеет сигнатуру, масштабируется, не укладывается в существующую модель. Если выполнены все пять, итог: новый физический режим. Проверка также отсеивает три типа ошибок: одиночный странный сигнал, неучтённые шум и артефакты, смешение процессов.",
                  "foot": ["Перерисовано из osint-intelligence-analysis/diagrams/validation_pipeline.mmd; прежний PNG остаётся в репозитории.",
                           "Схема метода трека, не результат: рисунок не утверждает, что какой-либо случай прошёл проверку."]}},
 )
 
-# --- Track 5 (people): institutional cluster map ---------------------------------------------
+# --- Track 6 (people): institutional cluster map ---------------------------------------------
 KC = {"lab": (BLUE, {"en": "▪ INSTITUTION", "ru": "▪ УЧРЕЖДЕНИЕ"}), "dis": (GOLD, {"en": "◌ DISAPPEARED", "ru": "◌ ИСЧЕЗ(ЛА)"}),
       "kill": (AMBER, {"en": "✕ KILLED (SUSPECT)", "ru": "✕ УБИТ(А)"}), "died": (VIOLET, {"en": "◧ DIED, UNCLEAR", "ru": "◧ УМЕР(ЛА), ПРИЧИНА НЕЯСНА"}),
       "found": (MUTED, {"en": "▪ FOUND DEAD", "ru": "▪ ТЕЛО НАЙДЕНО"})}
@@ -694,11 +694,11 @@ SPECS["cluster-map"] = dict(
            ("MIT", "P7", "s"), ("CALTECH", "P8", "s"), ("KCNSC", "P9", "s"), ("IFES", "P10", "s"), ("NOVA", "P11", "s")],
     legend=[("dot", BLUE, two("institution", "учреждение")), ("dot", GOLD, two("disappeared", "исчез(ла)")), ("dot", AMBER, two("killed (suspect named)", "убит(а) (назван подозреваемый)")),
             ("dot", VIOLET, two("died, cause unclear", "умер(ла), причина неясна")), ("dot", MUTED, two("found dead in a lake", "найден(а) мёртвым в озере"))],
-    text={"en": {"title": "Institutional cluster map", "sub": "Eleven cases by the institution each person is linked to", "tag": "TRACK 5 DIAGRAM",
+    text={"en": {"title": "Institutional cluster map", "sub": "Eleven cases by the institution each person is linked to", "tag": "TRACK 6 DIAGRAM",
                  "desc": "Eight institutions on the left, eleven numbered cases on the right, persons not named. Los Alamos: cases 1 (disappeared June 2025) and 2 (disappeared May 2025). NASA JPL: case 3 (disappeared 2025), cases 4 and 5 (died, unclear). AFRL: case 6 (disappeared February 2026). MIT Plasma Science and Fusion Center: case 7 (killed, suspect, December 2025). Caltech: case 8 (shot at home, February 2026). Kansas City National Security Campus: case 9 (disappeared 2025). Institute For Exotic Sciences, Alabama: case 10 (died, unclear, 2022). Novarti, Massachusetts: case 11 (found dead in a lake).",
                  "foot": ["Redrawn from people-analysis/diagrams/institutional_cluster_map.mmd; the previous PNG render stays in the repository.",
                           "The persons are numbered, not named (private persons; the names are in the track's own files). Statuses are as recorded in the track, which attributes none of the cases to UAP-related activity; they are not verified here."]},
-          "ru": {"title": "Карта институциональных кластеров", "sub": "Одиннадцать случаев по учреждению, с которым связан человек", "tag": "ДИАГРАММА ТРЕКА 5",
+          "ru": {"title": "Карта институциональных кластеров", "sub": "Одиннадцать случаев по учреждению, с которым связан человек", "tag": "ДИАГРАММА ТРЕКА 6",
                  "desc": "Восемь учреждений слева, одиннадцать пронумерованных случаев справа, люди не названы. Лос-Аламос: случаи 1 (исчез(ла) в июне 2025) и 2 (исчез(ла) в мае 2025). NASA JPL: случай 3 (исчез(ла) в 2025), случаи 4 и 5 (умерли, причина неясна). AFRL: случай 6 (исчез(ла) в феврале 2026). МТИ, Центр науки о плазме и термоядерного синтеза: случай 7 (убит(а), подозреваемый назван, декабрь 2025). Caltech: случай 8 (застрелен(а) дома, февраль 2026). Kansas City National Security Campus: случай 9 (исчез(ла) в 2025). Institute For Exotic Sciences, Алабама: случай 10 (умер(ла), причина неясна, 2022). Novarti, Массачусетс: случай 11 (тело найдено в озере).",
                  "foot": ["Перерисовано из people-analysis/diagrams/institutional_cluster_map.mmd; прежний PNG остаётся в репозитории.",
                           "Люди пронумерованы, а не названы (частные лица; имена есть в собственных файлах трека). Статусы приведены как записаны в треке, который не связывает ни один случай с деятельностью, относящейся к НЛО; здесь они не проверяются."]}},

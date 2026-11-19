@@ -158,7 +158,7 @@ def build(lang):
                   "Каждый рисунок, который отслеживает репозиторий, достижим со страниц: схемы, нарисованные для этих страниц, встроены в руководство, все остальные перечислены здесь, по одной строке на рисунок, по папкам-владельцам. "
                   "Рендеры одной и той же диаграммы в зеркальной папке (`mermaid/`) собраны в одну строку. Исходные фотографии в `data/raw/control-images/` это входные данные, а не рисунки, и здесь не перечислены."),
         "cols": ("| Figure | What it shows | Files | Where shown |\n|---|---|---|---|" if en else "| Рисунок | Что показывает | Файлы | Где показан |\n|---|---|---|---|"),
-        "withheld": "withheld: names of private persons (memory-policy)" if en else "скрыто: имена частных лиц (memory-policy)",
+        "withheld": "withheld: names of private persons (privacy)" if en else "скрыто: имена частных лиц (конфиденциальность)",
     }
     H["withheld"] = "withheld: names of private persons" if en else "скрыто: имена частных лиц"
     if en:

@@ -168,17 +168,17 @@ Subjects that span more than one track are kept at the **root-repository level**
 - **[Cross-archive synthesis](../analysis/cross-archive-synthesis.md)**: documented and contested overlaps between Lazar / Chernobrov / Dubna on three themes: element 115 / Moscovium, gravity-and-space-time, and Soviet aerospace lineage. Visual: redrawn below.
 
 <div align="center">
-<img src="assets/diagrams/uap-taxonomy.en.svg" width="100%" alt="uap taxonomy">
-<br><sub>Original figure: <a href="../charts/mermaid/uap_taxonomy.png"><code>charts/mermaid/uap_taxonomy.png</code></a></sub>
-</div>
-
-
-<div align="center">
 <img src="assets/diagrams/cross-archive-links.en.svg" width="100%" alt="cross archive links">
 <br><sub>Original figure: <a href="../charts/mermaid/cross_archive_links.png"><code>charts/mermaid/cross_archive_links.png</code></a></sub>
 </div>
 
 - **[UAP origin taxonomy](../analysis/uap-taxonomy.md)**: Denis Banchenko's 3-category origin framework (interstellar / parallel-reality / temporal) and how each archive maps onto it; the ECP artifact under study (Track 1) is tentatively placed in the temporal category as a working hypothesis. Visual: redrawn below. The taxonomy calls itself a vocabulary, not a research finding.
+
+<div align="center">
+<img src="assets/diagrams/uap-taxonomy.en.svg" width="100%" alt="uap taxonomy">
+<br><sub>Original figure: <a href="../charts/mermaid/uap_taxonomy.png"><code>charts/mermaid/uap_taxonomy.png</code></a></sub>
+</div>
+
 - **[External podcasts and documentaries](../analysis/external-podcasts.md)**: JRE #2416 (Dan Farah, RU dub) with 7 cataloged claims; *Age of Disclosure* 2025 (deferred); 1991 Lazar Tape Russian dub (cross-link to Track 2).
 
 ## Literature catalog

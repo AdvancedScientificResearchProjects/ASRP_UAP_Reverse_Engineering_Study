@@ -25,7 +25,7 @@ Inconsistencies inside the repository are listed here and not corrected: the sou
 | 9 | Control image count | The README says "14 reference images"; the test uses <!--n:control_images-->13<!--/n--> controls plus the artifact photo (a copy of it is the 14th file) | `data/raw/control-images/` |
 | 10 | Source photograph | `data/raw/UAP-FRAG-001.jpg` is required by the pipeline and absent (Issue #4), so the pipeline cannot be re-run from this clone | `pipeline/README.md` |
 | 11 | Patent vs graph | The graph links the FBHFS application to "UAP-adjacent oncology"; the README says no patent underlies this study; the only oncology text is speculation in a Chernobrov book extract | `graph/uap_kumu.json`, `chernobrov-archive/analysis/books/chunks/TPV-01_part2_extract.md` |
-| 12 | ASRP.drift number | The README writes "KZ 413554" in the Application column. Other ASRP records may treat it as an incoming number; not verified here | `archive/README_2026-11-19_pre-showcase.md` |
+| 12 | ASRP.drift number | The README writes "KZ 413554" in the Application column; not verified here | `archive/README_2026-11-19_pre-showcase.md` |
 | 13 | Graph-only outreach | DoE / Los Alamos, Stanford, NCI, Cortical Labs, Boeing and the DARPA portal exist only as graph nodes without sources | [Evidence](EVIDENCE.md#claims-found-only-in-the-graph) |
 | 14 | FBI date | 2026-04-19 rests on a single-author YouTube recap, graded as such in the track README. Not verified | `people-analysis/README.md` |
 | 15 | Dubna interview in two places | The ASRP.media interview is archived in Track 4 and, separately, in the Lazar archive catalog; the tracks do not cross-link | `bob-lazar-archive/catalog/asrp_media_115_interview.md` |

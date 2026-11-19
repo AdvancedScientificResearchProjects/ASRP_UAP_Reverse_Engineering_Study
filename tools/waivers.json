@@ -3,17 +3,17 @@
   {
    "check": "H3_numbers_missing",
    "match": "\"2026-04-04-001\"",
-   "reason": "PII — memory-policy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
+   "reason": "PII — privacy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
   },
   {
    "check": "H3_numbers_missing",
    "match": "\"2026-04-04-002\"",
-   "reason": "PII — memory-policy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
+   "reason": "PII — privacy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
   },
   {
    "check": "H3_numbers_missing",
    "match": "\"2026-04-04-003\"",
-   "reason": "PII — memory-policy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
+   "reason": "PII — privacy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
   },
   {
    "check": "S1_names_missing",
@@ -38,7 +38,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"Belousova Ekaterina\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
@@ -48,7 +48,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"Burilova Tatyana\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
@@ -108,7 +108,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"HSP Percipient\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
@@ -203,7 +203,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"Semiletov Vladislav\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
@@ -233,12 +233,12 @@
   {
    "check": "S1_names_missing",
    "match": "\"Белоусова Екатерина\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
    "match": "\"Бурилова Татьяна\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
@@ -308,7 +308,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"Перципиент ВСКЧ\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
@@ -333,7 +333,7 @@
   {
    "check": "S1_names_missing",
    "match": "\"Семилетов Владислав\"",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
@@ -508,7 +508,7 @@
   {
    "check": "S2_low_coverage_segments",
    "match": "Present only in Tatyana's wording / Присутствует только в фо",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3). The hypothesis is kept as 'one percipient's wording'."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3). The hypothesis is kept as 'one percipient's wording'."
   },
   {
    "check": "S2_low_coverage_segments",
@@ -548,22 +548,22 @@
   {
    "check": "S2_low_coverage_segments",
    "match": "Belousova Ekaterina / Белоусова Екатерина",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S2_low_coverage_segments",
    "match": "HSP Percipient / Перципиент ВСКЧ",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S2_low_coverage_segments",
    "match": "Semiletov Vladislav / Семилетов Владислав",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S2_low_coverage_segments",
    "match": "Burilova Tatyana / Бурилова Татьяна",
-   "reason": "PII — memory-policy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S2_low_coverage_segments",
