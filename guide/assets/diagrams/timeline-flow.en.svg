@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1676 311" width="1676" height="311" role="img" aria-labelledby="t d">
+<title id="t">Timeline</title>
+<desc id="d">Chain of six steps, left to right: ECP session 2026-04-04, cross-comparison 2026-04-06, validation 2026-04-06, AI pipeline 2026-04-07, LLM analysis 2026-04-07, report published 2026-04-07. The first and the last are marked.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1676' height='311' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Timeline</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Six steps, 4 to 7 April 2026</text>
+<text x='1652' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ORIGINAL FIGURE 5</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M200.0,41.5 C242.0,41.5 242.0,41.5 284.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M484.0,41.5 C526.0,41.5 526.0,41.5 568.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M768.0,41.5 C810.0,41.5 810.0,41.5 852.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1052.0,41.5 C1094.0,41.5 1094.0,41.5 1136.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1336.0,41.5 C1378.0,41.5 1378.0,41.5 1420.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<rect x='0.0' y='0.0' width='200' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='100.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-04</text>
+<text x='100.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>ECP Session</text>
+<text x='100.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ FIRST OR LAST STEP</text>
+<rect x='284.0' y='10.5' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='384.0' y='39.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-06</text>
+<text x='384.0' y='59.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Cross-comparison</text>
+<rect x='568.0' y='10.5' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='668.0' y='39.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-06</text>
+<text x='668.0' y='59.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Validation</text>
+<rect x='852.0' y='10.5' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='952.0' y='39.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-07</text>
+<text x='952.0' y='59.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>AI Pipeline</text>
+<rect x='1136.0' y='10.5' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1236.0' y='39.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-07</text>
+<text x='1236.0' y='59.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>LLM Analysis</text>
+<rect x='1420.0' y='0.0' width='200' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1520.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-07</text>
+<text x='1520.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Report Published</text>
+<text x='1520.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ FIRST OR LAST STEP</text>
+</g>
+<circle cx='30' cy='217.0' r='5' fill='#6f9bff'/>
+<text x='44' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>step</text>
+<circle cx='109.12' cy='217.0' r='5' fill='#34d399'/>
+<text x='123.12' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>first or last step</text>
+<text x='24' y='243.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Redrawn from the Mermaid source `charts/mermaid/root_5.mmd`; the</text>
+<text x='24' y='265.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>previous PNG render stays in the repository.</text>
+</svg>

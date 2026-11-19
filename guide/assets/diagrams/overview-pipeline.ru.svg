@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1007" width="1100" height="1007" role="img" aria-labelledby="t d">
+<title id="t">Обзор исследования</title>
+<desc id="d">Схема потока. Изображение артефакта UAP-FRAG-001 даёт три ветви: ИИ-анализ визуальных и материальных характеристик ведёт к гипотезам о материале и структуре; архивный и сравнительный анализ ведёт к гипотезам о контексте и происхождении; КП-сеансы перципиентов ведут к трём отчётам, сравнению ответов и валидации по референсу. Все три ветви сходятся в межконвейерном синтезе.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1100' height='1007' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Обзор исследования</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Сквозная карта конвейера трека 1</text>
+<text x='1076' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ИСХОДНАЯ СХЕМА 1</text>
+<g transform='translate(134.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M416.0,62.0 C416.0,104.0 130.0,104.0 130.0,146.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M416.0,62.0 C416.0,109.5 416.0,109.5 416.0,157.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M416.0,62.0 C416.0,115.0 702.0,115.0 702.0,168.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M702.0,210.0 C702.0,268.2 702.0,268.2 702.0,326.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M702.0,390.5 C702.0,437.8 534.0,437.8 534.0,485.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M130.0,232.0 C130.0,274.0 130.0,274.0 130.0,316.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M416.0,221.0 C416.0,268.5 416.0,268.5 416.0,316.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M534.0,527.0 C534.0,569.0 534.0,569.0 534.0,611.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M130.0,401.0 C130.0,453.5 340.0,453.5 340.0,506.0 C340.0,569.0 340.0,569.0 340.0,632.0 C340.0,684.5 416.0,684.5 416.0,737.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M416.0,401.0 C416.0,453.5 374.0,453.5 374.0,506.0 C374.0,569.0 374.0,569.0 374.0,632.0 C374.0,684.5 416.0,684.5 416.0,737.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M534.0,653.0 C534.0,695.0 416.0,695.0 416.0,737.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<rect x='286.0' y='0.0' width='260' height='62' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='416.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>UAP-FRAG-001</text>
+<text x='416.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>изображение артефакта</text>
+<rect x='0.0' y='146.0' width='260' height='86' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='130.0' y='175.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ИИ-анализ визуальных и</text>
+<text x='130.0' y='197.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>материальных</text>
+<text x='130.0' y='219.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>характеристик</text>
+<rect x='286.0' y='157.0' width='260' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='416.0' y='186.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Архивный и сравнительный</text>
+<text x='416.0' y='208.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>анализ</text>
+<rect x='572.0' y='168.0' width='260' height='42' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='702.0' y='197.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>КП-сеансы перципиентов</text>
+<rect x='572.0' y='326.5' width='260' height='64' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='702.0' y='355.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Три зафиксированных</text>
+<text x='702.0' y='377.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>отчёта перципиентов</text>
+<rect x='404.0' y='485.0' width='260' height='42' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='534.0' y='514.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Сравнение ответов</text>
+<rect x='0.0' y='316.0' width='260' height='85' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='130.0' y='345.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Гипотезы о материале и</text>
+<text x='130.0' y='367.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>структуре</text>
+<text x='130.0' y='388.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ ГИПОТЕЗА</text>
+<rect x='286.0' y='316.0' width='260' height='85' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='416.0' y='345.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Гипотезы о контексте и</text>
+<text x='416.0' y='367.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>происхождении</text>
+<text x='416.0' y='388.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ ГИПОТЕЗА</text>
+<rect x='404.0' y='611.0' width='260' height='42' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='534.0' y='640.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Валидация по референсу</text>
+<rect x='286.0' y='737.0' width='260' height='42' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='416.0' y='766.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Межконвейерный синтез</text>
+</g>
+<circle cx='30' cy='913.0' r='5' fill='#4ecdc4'/>
+<text x='44' y='917.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>исходный объект</text>
+<circle cx='196.99999999999997' cy='913.0' r='5' fill='#6f9bff'/>
+<text x='210.99999999999997' y='917.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>шаг анализа</text>
+<circle cx='332.79999999999995' cy='913.0' r='5' fill='#a78bfa'/>
+<text x='346.79999999999995' y='917.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>гипотеза, не результат</text>
+<circle cx='542.6999999999999' cy='913.0' r='5' fill='#ffcf5c'/>
+<text x='556.6999999999999' y='917.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>синтез</text>
+<text x='24' y='939.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перерисовано из Mermaid-источника charts/mermaid/root_1.mmd; прежний</text>
+<text x='24' y='961.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>PNG остаётся в репозитории.</text>
+</svg>

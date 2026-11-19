@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 2043" width="1100" height="2043" role="img" aria-labelledby="t d">
+<title id="t">Контур топливоснабжения</title>
+<desc id="d">Граф вокруг одной гипотезы. Лазар называет работодателем EG&amp;G, а топливом реактора S-4 элемент 115. Элемент 115 (московий) синтезирован в 2003 и 2004 в ОИЯИ (Дубна) с мишенью америций-243 от LLNL, что задокументировано в Phys. Rev. C 69 (2004). LLNS LLC управляет LLNL, Amentum входит в консорциум. EG&amp;G (1947) стала URS (2002), AECOM (2014) и Amentum, что замыкает контур к EG&amp;G. Оценки уверенности принадлежат исходной схеме.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1100' height='2043' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Контур топливоснабжения</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Дубна, Лазар, Amentum, LLNL: замкнутое прочтение по трекам 2, 4, 7</text>
+<text x='1076' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ДИАГРАММА ТРЕКА 7</text>
+<g transform='translate(149.8,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M248.5,306.0 C248.5,355.2 435.0,355.2 435.0,404.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M248.5,306.0 C248.5,355.0 125.0,355.0 125.0,404.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M125.0,508.0 C125.0,572.8 195.9,572.8 195.9,637.5 C195.9,711.0 195.9,711.0 195.9,784.5 C195.9,863.0 264.5,863.0 264.5,941.5 C264.5,1037.0 264.5,1037.0 264.5,1132.5 C264.5,1228.0 302.3,1228.0 302.3,1323.5 C302.3,1414.0 302.3,1414.0 302.3,1504.5 C302.3,1574.2 444.0,1574.2 444.0,1644.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M491.3,1546.0 C491.3,1595.0 444.0,1595.0 444.0,1644.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M491.3,1365.0 C491.3,1414.0 491.3,1414.0 491.3,1463.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M675.3,104.0 C675.3,184.2 626.5,184.2 626.5,264.5 C626.5,360.2 658.0,360.2 658.0,456.0 C658.0,546.8 641.9,546.8 641.9,637.5 C641.9,711.0 641.9,711.0 641.9,784.5 C641.9,863.0 642.5,863.0 642.5,941.5 C642.5,1037.0 642.5,1037.0 642.5,1132.5 C642.5,1228.0 646.3,1228.0 646.3,1323.5 C646.3,1414.0 646.3,1414.0 646.3,1504.5 C646.3,1574.2 444.0,1574.2 444.0,1644.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M453.5,1184.0 C453.5,1233.0 491.3,1233.0 491.3,1282.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M453.5,983.0 C453.5,1032.0 453.5,1032.0 453.5,1081.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M435.0,507.5 C435.0,556.8 384.9,556.8 384.9,606.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M384.9,669.0 C384.9,711.0 384.9,711.0 384.9,753.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M384.9,816.0 C384.9,858.0 453.5,858.0 453.5,900.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<defs><marker id='ka78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M399.3,125.0 C399.3,174.0 248.5,174.0 248.5,223.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 403.5,194.8 403.5,264.5 C403.5,360.2 280.0,360.2 280.0,456.0 C280.0,546.8 229.9,546.8 229.9,637.5 C229.9,711.0 229.9,711.0 229.9,784.5 C229.9,863.0 298.5,863.0 298.5,941.5 C298.5,1037.0 298.5,1037.0 298.5,1132.5 C298.5,1228.0 336.3,1228.0 336.3,1323.5 C336.3,1414.0 336.3,1414.0 336.3,1504.5 C336.3,1574.2 444.0,1574.2 444.0,1644.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 592.5,194.8 592.5,264.5 C592.5,360.2 624.0,360.2 624.0,456.0 C624.0,546.8 607.9,546.8 607.9,637.5 C607.9,711.0 607.9,711.0 607.9,784.5 C607.9,863.0 608.5,863.0 608.5,941.5 C608.5,1037.0 608.5,1037.0 608.5,1132.5 C608.5,1207.2 491.3,1207.2 491.3,1282.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 558.5,194.8 558.5,264.5 C558.5,360.2 590.0,360.2 590.0,456.0 C590.0,546.8 573.9,546.8 573.9,637.5 C573.9,711.0 573.9,711.0 573.9,784.5 C573.9,842.2 453.5,842.2 453.5,900.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 437.5,194.8 437.5,264.5 C437.5,334.5 435.0,334.5 435.0,404.5' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M435.0,507.5 C435.0,572.5 539.9,572.5 539.9,637.5 C539.9,711.0 539.9,711.0 539.9,784.5 C539.9,842.2 453.5,842.2 453.5,900.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-start='url(#ka78bfa)' stroke-opacity='0.9'/>
+<rect x='241.9' y='343.8' width='199.8' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='341.8' y='359.8' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>называет работодателем</text>
+<rect x='107.7' y='343.5' width='158.1' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='186.8' y='359.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>называет топливом</text>
+<rect x='164.6' y='1121.0' width='199.8' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='264.5' y='1137.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>утверждение про топливо</text>
+<rect x='388.6' y='1583.5' width='158.1' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='467.7' y='1599.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>совместный синтез</text>
+<rect x='416.4' y='1402.5' width='149.7' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='491.3' y='1418.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>поставила мишень</text>
+<rect x='553.0' y='930.0' width='178.9' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='642.5' y='946.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>документирует синтез</text>
+<rect x='428.8' y='1221.5' width='87.1' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='472.4' y='1237.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>управляет</text>
+<rect x='380.7' y='1020.5' width='145.5' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='453.5' y='1036.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>член консорциума</text>
+<rect x='463.0' y='773.0' width='153.9' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='539.9' y='789.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>замыкает контур к</text>
+<rect x='274.30000000000007' y='0.0' width='250' height='125' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='399.3' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Гипотеза цепочки</text>
+<text x='399.3' y='51.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>топливоснабжения</text>
+<text x='399.3' y='71.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(замкнутое прочтение по</text>
+<text x='399.3' y='91.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>трекам 2 / 4 / 7)</text>
+<text x='399.3' y='112.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ ГИПОТЕЗА</text>
+<rect x='123.5' y='223.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='248.5' y='252.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Боб Лазар (трек 2)</text>
+<text x='248.5' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>показания о S-4, 1989+</text>
+<text x='248.5' y='293.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◇ ОПОРА: ПОКАЗАНИЯ</text>
+<rect x='0.0' y='404.0' width='250' height='104' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='125.0' y='433.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Нарратив реактора S-4</text>
+<text x='125.0' y='453.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>утверждение: 115 = топливо</text>
+<text x='125.0' y='474.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◌ НИЗКАЯ УВЕРЕННОСТЬ</text>
+<text x='125.0' y='495.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>(УТВЕРЖДЕНИЕ)</text>
+<rect x='319.03809523809525' y='1644.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='444.0' y='1673.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Элемент 115 / московий</text>
+<text x='444.0' y='1693.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(синтезирован 2003-2004)</text>
+<text x='444.0' y='1714.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ ВЫСОКАЯ УВЕРЕННОСТЬ</text>
+<rect x='366.28809523809525' y='1463.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='491.3' y='1492.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ОИЯИ (Дубна)</text>
+<text x='491.3' y='1512.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Лаборатория Флёрова</text>
+<text x='491.3' y='1533.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ ВЫСОКАЯ УВЕРЕННОСТЬ</text>
+<rect x='366.28809523809525' y='1282.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='491.3' y='1311.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLNL</text>
+<text x='491.3' y='1331.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>поставщик мишени 243Am</text>
+<text x='491.3' y='1352.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ ВЫСОКАЯ УВЕРЕННОСТЬ</text>
+<rect x='550.3000000000001' y='21.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='675.3' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Phys. Rev. C 69 (2004)</text>
+<text x='675.3' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>статья о синтезе JINR+LLNL</text>
+<text x='675.3' y='91.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ ВЫСОКАЯ УВЕРЕННОСТЬ</text>
+<rect x='328.4880952380953' y='1081.0' width='250' height='103' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='453.5' y='1110.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Консорциум LLNS LLC</text>
+<text x='453.5' y='1130.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Bechtel + UC + Battelle + BWXT +</text>
+<text x='453.5' y='1150.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>AECOM (ныне Amentum)</text>
+<text x='453.5' y='1171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>◧ СРЕДНЯЯ УВЕРЕННОСТЬ</text>
+<rect x='328.4880952380953' y='900.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='453.5' y='929.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Amentum (NYSE: AMTM)</text>
+<text x='453.5' y='949.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>преемник EG&amp;G</text>
+<text x='453.5' y='970.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ ВЫСОКАЯ УВЕРЕННОСТЬ</text>
+<rect x='310.00000000000006' y='404.5' width='250' height='103' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='435.0' y='433.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>EG&amp;G (1947)</text>
+<text x='435.0' y='453.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>заявленный работодатель</text>
+<text x='435.0' y='473.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Лазара (трек 7)</text>
+<text x='435.0' y='494.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ ИСТОРИЧЕСКАЯ ЛИНИЯ</text>
+<rect x='259.91666666666674' y='606.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='384.9' y='635.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>URS (2002)</text>
+<text x='384.9' y='656.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ ИСТОРИЧЕСКАЯ ЛИНИЯ</text>
+<rect x='259.91666666666674' y='753.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='384.9' y='782.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>AECOM (2014)</text>
+<text x='384.9' y='803.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ ИСТОРИЧЕСКАЯ ЛИНИЯ</text>
+</g>
+<line x1='24' y1='1861.0' x2='64' y2='1861.0' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)'/>
+<text x='74' y='1865.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>связь</text>
+<line x1='143.0' y1='1861.0' x2='183.0' y2='1861.0' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)'/>
+<text x='193.0' y='1865.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>гипотеза читает их как один контур</text>
+<text x='24' y='1887.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перерисовано из</text>
+<text x='24' y='1909.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>corporate-economic-analysis/diagrams/</text>
+<text x='24' y='1931.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>dubna_lazar_amentum_llnl_fuel_loop.mmd;</text>
+<text x='24' y='1953.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>прежний PNG остаётся в репозитории.</text>
+<text x='24' y='1975.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Контур это гипотеза исходной схемы; оценки уверенности её</text>
+<text x='24' y='1997.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>собственные, репозиторий их не проверяет.</text>
+</svg>

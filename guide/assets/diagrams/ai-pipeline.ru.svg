@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1642 585" width="1642" height="585" role="img" aria-labelledby="t d">
+<title id="t">Сводка конвейера ИИ</title>
+<desc id="d">Схема слева направо. Входное фото сегментируется (IoU 0.977). Сегмент идёт в три метода: SigLIP2 (коралл или окаменелый морской ёж, 0.98 sigmoid), EfficientAD (аномалий поверхности нет) и Depth Anything (карта относительной глубины). SigLIP2 ведёт к шагу LLM Visual (совпадение Cidaridae), он ведёт к блоку межметодной конвергенции, AI + ECP: coral-like.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1642' height='585' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Сводка конвейера ИИ</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Методы, применённые к фото UAP-FRAG-001</text>
+<text x='1618' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ИСХОДНАЯ СХЕМА 4</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M250.0,147.2 C292.0,147.2 292.0,147.2 334.0,147.2' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,147.2 C626.0,147.2 626.0,52.5 668.0,52.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,147.2 C626.0,147.2 626.0,150.5 668.0,150.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,147.2 C626.0,147.2 626.0,238.5 668.0,238.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M918.0,52.5 C960.0,52.5 960.0,52.5 1002.0,52.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1252.0,52.5 C1294.0,52.5 1294.0,52.5 1336.0,52.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<rect x='0.0' y='116.16666666666669' width='250' height='62' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='125.0' y='145.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>UAP-FRAG-001</text>
+<text x='125.0' y='165.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Входное фото</text>
+<rect x='334.0' y='116.16666666666669' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='459.0' y='145.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Сегментация</text>
+<text x='459.0' y='165.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>IoU 0.977</text>
+<rect x='668.0' y='11.500000000000014' width='250' height='82' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='793.0' y='40.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>SigLIP2</text>
+<text x='793.0' y='60.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>коралл/окаменелость</text>
+<text x='793.0' y='80.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0.98 sigmoid</text>
+<rect x='668.0' y='119.5' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='793.0' y='148.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>EfficientAD</text>
+<text x='793.0' y='168.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Аномалий не обнаружено</text>
+<rect x='668.0' y='207.5' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='793.0' y='236.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Depth Anything</text>
+<text x='793.0' y='256.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Карта глубины</text>
+<rect x='1002.0' y='21.500000000000014' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1127.0' y='50.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM Visual</text>
+<text x='1127.0' y='70.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Совпадение Cidaridae</text>
+<rect x='1336.0' y='1.4210854715202004e-14' width='250' height='105' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1461.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Межметодная</text>
+<text x='1461.0' y='51.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>конвергенция</text>
+<text x='1461.0' y='71.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>AI + ECP: coral-like</text>
+<text x='1461.0' y='92.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ ЗАЯВЛЕННАЯ КОНВЕРГЕНЦИЯ</text>
+</g>
+<circle cx='30' cy='403.5' r='5' fill='#4ecdc4'/>
+<text x='44' y='407.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>вход</text>
+<circle cx='111.2' cy='403.5' r='5' fill='#6f9bff'/>
+<text x='125.2' y='407.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>метод и его результат</text>
+<circle cx='317.19999999999993' cy='403.5' r='5' fill='#a78bfa'/>
+<text x='331.19999999999993' y='407.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>утверждение исходной схемы</text>
+<text x='24' y='429.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перерисовано из Mermaid-источника charts/mermaid/root_4.mmd; прежний</text>
+<text x='24' y='451.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>PNG остаётся в репозитории.</text>
+<text x='24' y='473.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>0.98 это оценка на обрезанном фото; полное фото в контрольном тесте</text>
+<text x='24' y='495.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>получает 0.89 (см. рисунок контрольного теста ИИ). Блок конвергенции</text>
+<text x='24' y='517.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>это утверждение исходной схемы; ослепление нарушено у 2 из 3</text>
+<text x='24' y='539.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>перципиентов.</text>
+</svg>

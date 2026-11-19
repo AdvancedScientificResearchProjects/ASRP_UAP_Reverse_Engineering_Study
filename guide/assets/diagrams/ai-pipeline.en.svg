@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1642 574" width="1642" height="574" role="img" aria-labelledby="t d">
+<title id="t">AI pipeline summary</title>
+<desc id="d">Flow diagram, left to right. The input photo is segmented (IoU 0.977). The segment goes to three methods: SigLIP2 (coral or sea urchin fossil, 0.98 sigmoid), EfficientAD (no surface anomalies) and Depth Anything (relative depth map). SigLIP2 feeds the LLM visual step (Cidaridae match), which leads to the box cross-method convergence, AI plus ECP: coral-like.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1642' height='574' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>AI pipeline summary</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Methods run on the UAP-FRAG-001 photo</text>
+<text x='1618' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ORIGINAL FIGURE 4</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M250.0,136.2 C292.0,136.2 292.0,136.2 334.0,136.2' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,136.2 C626.0,136.2 626.0,41.5 668.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,136.2 C626.0,136.2 626.0,139.5 668.0,139.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,136.2 C626.0,136.2 626.0,227.5 668.0,227.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M918.0,41.5 C960.0,41.5 960.0,41.5 1002.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1252.0,41.5 C1294.0,41.5 1294.0,41.5 1336.0,41.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<rect x='0.0' y='105.16666666666669' width='250' height='62' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='125.0' y='134.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>UAP-FRAG-001</text>
+<text x='125.0' y='154.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Input photo</text>
+<rect x='334.0' y='105.16666666666669' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='459.0' y='134.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Segmentation</text>
+<text x='459.0' y='154.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>IoU 0.977</text>
+<rect x='668.0' y='0.5000000000000142' width='250' height='82' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='793.0' y='29.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>SigLIP2</text>
+<text x='793.0' y='49.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>coral/sea urchin fossil</text>
+<text x='793.0' y='69.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0.98 sigmoid</text>
+<rect x='668.0' y='108.5' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='793.0' y='137.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>EfficientAD</text>
+<text x='793.0' y='157.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>No surface anomalies</text>
+<rect x='668.0' y='196.5' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='793.0' y='225.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Depth Anything</text>
+<text x='793.0' y='245.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Relative depth map</text>
+<rect x='1002.0' y='10.500000000000014' width='250' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1127.0' y='39.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM Visual</text>
+<text x='1127.0' y='59.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Cidaridae match</text>
+<rect x='1336.0' y='1.4210854715202004e-14' width='250' height='83' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1461.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Cross-method convergence</text>
+<text x='1461.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>AI + ECP: coral-like</text>
+<text x='1461.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ CLAIMED CONVERGENCE</text>
+</g>
+<circle cx='30' cy='392.5' r='5' fill='#4ecdc4'/>
+<text x='44' y='396.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>input</text>
+<circle cx='113.02000000000001' cy='392.5' r='5' fill='#6f9bff'/>
+<text x='127.02000000000001' y='396.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>method and its output</text>
+<circle cx='306.80000000000007' cy='392.5' r='5' fill='#a78bfa'/>
+<text x='320.80000000000007' y='396.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>claim of the original figure</text>
+<text x='24' y='418.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Redrawn from the Mermaid source charts/mermaid/root_4.mmd; the</text>
+<text x='24' y='440.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>previous PNG render stays in the repository.</text>
+<text x='24' y='462.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The 0.98 is a score on the cropped photo; the full photo scores 0.89</text>
+<text x='24' y='484.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>in the control test (see the AI control figure). The convergence box</text>
+<text x='24' y='506.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>is the original figure's claim; blinding was compromised for 2 of 3</text>
+<text x='24' y='528.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>percipients.</text>
+</svg>

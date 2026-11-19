@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1503" width="1100" height="1503" role="img" aria-labelledby="t d">
+<title id="t">Institutional cluster map</title>
+<desc id="d">Eight institutions on the left, eleven cases on the right. Los Alamos: Cassias (disappeared June 2025) and Chavez (disappeared May 2025). NASA JPL: Hassen-Tores (disappeared 2025), Maiwald and Higgs (died, unclear). AFRL: McCasland (disappeared February 2026). MIT Plasma Science and Fusion Center: Loureiro (killed, suspect, December 2025). Caltech: Grillmar (shot at home, February 2026). Kansas City National Security Campus: Garcia (disappeared 2025). Institute For Exotic Sciences, Alabama: Eskridge (died, unclear, 2022). Novarti, Massachusetts: Thomas (found dead in a lake).</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1100' height='1503' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Institutional cluster map</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Eleven cases by the institution each person is linked to</text>
+<text x='1076' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>TRACK 5 DIAGRAM</text>
+<g transform='translate(258.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M250.0,55.8 C292.0,55.8 292.0,31.5 334.0,31.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,55.8 C292.0,55.8 292.0,120.5 334.0,120.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,456.2 C292.0,456.2 292.0,387.5 334.0,387.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,456.2 C292.0,456.2 292.0,476.5 334.0,476.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,456.2 C292.0,456.2 292.0,565.5 334.0,565.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,745.2 C292.0,745.2 292.0,743.5 334.0,743.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,634.2 C292.0,634.2 292.0,654.5 334.0,654.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,845.2 C292.0,845.2 292.0,842.5 334.0,842.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,945.2 C292.0,945.2 292.0,941.5 334.0,941.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,1056.2 C292.0,1056.2 292.0,1030.5 334.0,1030.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,1156.2 C292.0,1156.2 292.0,1129.5 334.0,1129.5' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<rect x='0.0' y='13.25' width='250' height='85' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='42.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Los Alamos National Lab</text>
+<text x='125.0' y='64.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>(LANL)</text>
+<text x='125.0' y='85.2' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='0.0' y='414.74999999999994' width='250' height='83' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='443.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>NASA JPL</text>
+<text x='125.0' y='463.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Jet Propulsion Lab</text>
+<text x='125.0' y='484.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='0.0' y='591.7499999999999' width='250' height='85' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='620.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>MIT Plasma Science &amp;</text>
+<text x='125.0' y='642.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Fusion Center</text>
+<text x='125.0' y='663.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='0.0' y='702.7499999999999' width='250' height='85' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='731.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Air Force Research Lab</text>
+<text x='125.0' y='753.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>(AFRL)</text>
+<text x='125.0' y='774.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='0.0' y='813.7499999999999' width='250' height='63' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='842.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Caltech</text>
+<text x='125.0' y='863.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='0.0' y='902.7499999999999' width='250' height='85' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='931.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Kansas City National</text>
+<text x='125.0' y='953.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Security Campus</text>
+<text x='125.0' y='974.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='0.0' y='1013.75' width='250' height='85' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='1042.8' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Institute For Exotic</text>
+<text x='125.0' y='1064.8' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Sciences (Alabama)</text>
+<text x='125.0' y='1085.8' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='0.0' y='1124.75' width='250' height='63' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='125.0' y='1153.8' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Novarti (Massachusetts)</text>
+<text x='125.0' y='1174.8' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ INSTITUTION</text>
+<rect x='334.0' y='0.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='459.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Cassias 06.2025</text>
+<text x='459.0' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ DISAPPEARED</text>
+<rect x='334.0' y='89.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='459.0' y='118.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Chavez 05.2025</text>
+<text x='459.0' y='139.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ DISAPPEARED</text>
+<rect x='334.0' y='355.9999999999999' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='459.0' y='385.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Hassen-Tores 2025</text>
+<text x='459.0' y='406.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ DISAPPEARED</text>
+<rect x='334.0' y='444.9999999999999' width='250' height='63' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='459.0' y='474.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Maiwald</text>
+<text x='459.0' y='495.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ DIED, UNCLEAR</text>
+<rect x='334.0' y='533.9999999999999' width='250' height='63' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='459.0' y='563.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Higgs</text>
+<text x='459.0' y='584.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ DIED, UNCLEAR</text>
+<rect x='334.0' y='711.9999999999999' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='459.0' y='741.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>McCasland 02.2026</text>
+<text x='459.0' y='762.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ DISAPPEARED</text>
+<rect x='334.0' y='622.9999999999999' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='459.0' y='652.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Loureiro 12.2025</text>
+<text x='459.0' y='673.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ KILLED (SUSPECT)</text>
+<rect x='334.0' y='800.9999999999999' width='250' height='83' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='459.0' y='830.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Grillmar 02.2026</text>
+<text x='459.0' y='850.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>shot at home</text>
+<text x='459.0' y='871.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ KILLED (SUSPECT)</text>
+<rect x='334.0' y='909.9999999999999' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='459.0' y='939.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Garcia 2025</text>
+<text x='459.0' y='960.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ DISAPPEARED</text>
+<rect x='334.0' y='999.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='459.0' y='1028.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Eskridge 2022</text>
+<text x='459.0' y='1049.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ DIED, UNCLEAR</text>
+<rect x='334.0' y='1088.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='459.0' y='1117.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Thomas</text>
+<text x='459.0' y='1137.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>found dead in lake</text>
+<text x='459.0' y='1158.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ FOUND DEAD</text>
+</g>
+<circle cx='30' cy='1321.75' r='5' fill='#6f9bff'/>
+<text x='44' y='1325.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>institution</text>
+<circle cx='149.94' cy='1321.75' r='5' fill='#ffcf5c'/>
+<text x='163.94' y='1325.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>disappeared</text>
+<circle cx='276.64000000000004' cy='1321.75' r='5' fill='#ffa657'/>
+<text x='290.64000000000004' y='1325.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>killed (suspect named)</text>
+<circle cx='474.3200000000001' cy='1321.75' r='5' fill='#a78bfa'/>
+<text x='488.3200000000001' y='1325.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>died, cause unclear</text>
+<circle cx='645.7400000000001' cy='1321.75' r='5' fill='#8ea0d6'/>
+<text x='659.7400000000001' y='1325.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>found dead in a lake</text>
+<text x='24' y='1347.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Redrawn from</text>
+<text x='24' y='1369.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>people-analysis/diagrams/institutional_cluster_map.mmd;</text>
+<text x='24' y='1391.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the previous PNG render stays in the repository.</text>
+<text x='24' y='1413.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Statuses are as recorded in the track; the track attributes none of</text>
+<text x='24' y='1435.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the cases to UAP-related activity. Individual cases are not verified</text>
+<text x='24' y='1457.75' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>on these pages.</text>
+</svg>

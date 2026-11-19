@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2158 1944" width="2158" height="1944" role="img" aria-labelledby="t d">
+<title id="t">OSINT validation pipeline</title>
+<desc id="d">Method scheme, top to bottom. Seven steps in a chain: parameter isolation, threshold search, temporal structure, multi-channel verification, scaling, modelling, hypothesis crash-test. They lead to a gate of five acceptance criteria: reproducible, has threshold, has signature, scales, does not fit the existing model. If all five hold the outcome is a new physical regime. The gate also rejects three failure modes: a single strange signal, ignored noise and artifacts, mixed processes.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='2158' height='1944' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>OSINT validation pipeline</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Seven steps, five acceptance criteria, three failure modes</text>
+<text x='2134' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>TRACK 6 DIAGRAM</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M1051.0,83.0 C1051.0,125.0 1051.0,125.0 1051.0,167.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,270.0 C1051.0,312.0 1051.0,312.0 1051.0,354.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,437.0 C1051.0,479.0 1051.0,479.0 1051.0,521.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,626.0 C1051.0,668.0 1051.0,668.0 1051.0,710.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,813.0 C1051.0,855.0 1051.0,855.0 1051.0,897.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,1000.0 C1051.0,1042.0 1051.0,1042.0 1051.0,1084.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,1187.0 C1051.0,1229.0 1051.0,1229.0 1051.0,1271.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,1334.0 C1051.0,1381.5 120.0,1381.5 120.0,1429.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,1334.0 C1051.0,1381.5 386.0,1381.5 386.0,1429.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,1334.0 C1051.0,1381.5 652.0,1381.5 652.0,1429.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,1334.0 C1051.0,1381.5 918.0,1381.5 918.0,1429.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1051.0,1334.0 C1051.0,1376.0 1184.0,1376.0 1184.0,1418.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M120.0,1492.0 C120.0,1539.5 652.0,1539.5 652.0,1587.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M386.0,1492.0 C386.0,1539.5 652.0,1539.5 652.0,1587.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M652.0,1492.0 C652.0,1539.5 652.0,1539.5 652.0,1587.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M918.0,1492.0 C918.0,1539.5 652.0,1539.5 652.0,1587.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1184.0,1503.0 C1184.0,1545.0 652.0,1545.0 652.0,1587.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<defs><marker id='kffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M1051.0,1334.0 C1051.0,1381.5 1450.0,1381.5 1450.0,1429.0' fill='none' stroke='#ffa657' stroke-width='2.6' stroke-dasharray='7 6' marker-end='url(#kffa657)' stroke-opacity='0.9'/>
+<path d='M1051.0,1334.0 C1051.0,1381.5 1716.0,1381.5 1716.0,1429.0' fill='none' stroke='#ffa657' stroke-width='2.6' stroke-dasharray='7 6' marker-end='url(#kffa657)' stroke-opacity='0.9'/>
+<path d='M1051.0,1334.0 C1051.0,1381.5 1982.0,1381.5 1982.0,1429.0' fill='none' stroke='#ffa657' stroke-width='2.6' stroke-dasharray='7 6' marker-end='url(#kffa657)' stroke-opacity='0.9'/>
+<rect x='931.0' y='0.0' width='240' height='83' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1051.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>1. Parameter isolation</text>
+<text x='1051.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>change one variable at a time</text>
+<text x='1051.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ STEP</text>
+<rect x='931.0' y='167.0' width='240' height='103' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1051.0' y='196.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2. Threshold search</text>
+<text x='1051.0' y='216.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>sharp transition at specific</text>
+<text x='1051.0' y='236.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>value?</text>
+<text x='1051.0' y='257.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ STEP</text>
+<rect x='931.0' y='354.0' width='240' height='83' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1051.0' y='383.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>3. Temporal structure</text>
+<text x='1051.0' y='403.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>stable signature?</text>
+<text x='1051.0' y='424.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ STEP</text>
+<rect x='931.0' y='521.0' width='240' height='105' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1051.0' y='550.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>4. Multi-channel</text>
+<text x='1051.0' y='572.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>verification</text>
+<text x='1051.0' y='592.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>EM, optics, current, mechanics</text>
+<text x='1051.0' y='613.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ STEP</text>
+<rect x='931.0' y='710.0' width='240' height='103' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1051.0' y='739.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>5. Scaling</text>
+<text x='1051.0' y='759.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>structure preserved as</text>
+<text x='1051.0' y='779.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>energy/size grows?</text>
+<text x='1051.0' y='800.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ STEP</text>
+<rect x='931.0' y='897.0' width='240' height='103' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1051.0' y='926.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>6. Modelling</text>
+<text x='1051.0' y='946.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>plasma / EM / nonlinear</text>
+<text x='1051.0' y='966.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>dynamics</text>
+<text x='1051.0' y='987.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ STEP</text>
+<rect x='931.0' y='1084.0' width='240' height='103' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1051.0' y='1113.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>7. Hypothesis crash-test</text>
+<text x='1051.0' y='1133.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>change medium / material /</text>
+<text x='1051.0' y='1153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>frequency</text>
+<text x='1051.0' y='1174.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ STEP</text>
+<rect x='931.0' y='1271.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1051.0' y='1300.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>5 acceptance criteria gate</text>
+<text x='1051.0' y='1321.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>▪ GATE</text>
+<rect x='0.0' y='1429.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='120.0' y='1458.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Reproducible</text>
+<text x='120.0' y='1479.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>✓ PASSES</text>
+<rect x='266.0' y='1429.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='386.0' y='1458.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Has threshold</text>
+<text x='386.0' y='1479.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>✓ PASSES</text>
+<rect x='532.0' y='1429.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='652.0' y='1458.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Has signature</text>
+<text x='652.0' y='1479.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>✓ PASSES</text>
+<rect x='798.0' y='1429.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='918.0' y='1458.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Scales</text>
+<text x='918.0' y='1479.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>✓ PASSES</text>
+<rect x='1064.0' y='1418.0' width='240' height='85' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1184.0' y='1447.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Does NOT fit existing</text>
+<text x='1184.0' y='1469.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>model</text>
+<text x='1184.0' y='1490.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>✓ PASSES</text>
+<rect x='532.0' y='1587.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='652.0' y='1616.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>New physical regime</text>
+<text x='652.0' y='1637.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>✓ OUTCOME</text>
+<rect x='1330.0' y='1429.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1450.0' y='1458.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Single strange signal</text>
+<text x='1450.0' y='1479.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ FAILURE MODE</text>
+<rect x='1596.0' y='1429.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1716.0' y='1458.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Ignored noise/artifacts</text>
+<text x='1716.0' y='1479.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ FAILURE MODE</text>
+<rect x='1862.0' y='1429.0' width='240' height='63' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1982.0' y='1458.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Mixed processes</text>
+<text x='1982.0' y='1479.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ FAILURE MODE</text>
+</g>
+<line x1='24' y1='1784.0' x2='64' y2='1784.0' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)'/>
+<text x='74' y='1788.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>sequence</text>
+<line x1='162.24' y1='1784.0' x2='202.24' y2='1784.0' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#kffa657)'/>
+<text x='212.24' y='1788.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>what the gate rejects</text>
+<text x='24' y='1810.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Redrawn from</text>
+<text x='24' y='1832.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>osint-intelligence-analysis/diagrams/validation_pipeline.mmd;</text>
+<text x='24' y='1854.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the previous PNG render stays in the repository.</text>
+<text x='24' y='1876.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>A scheme of the track's method, not a result: the picture does not</text>
+<text x='24' y='1898.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>say that any case has passed the gate.</text>
+</svg>

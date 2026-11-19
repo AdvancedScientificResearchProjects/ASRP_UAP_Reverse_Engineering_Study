@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 2042" width="1100" height="2042" role="img" aria-labelledby="t d">
+<title id="t">Fuel-supply-chain loop: Dubna, Lazar, Amentum, LLNL</title>
+<desc id="d">Graph around one hypothesis. Lazar names EG&amp;G as employer and element 115 as the S-4 reactor fuel. Element 115 (moscovium) was synthesised in 2003 and 2004 by JINR Dubna with an americium-243 target from LLNL, documented in Phys. Rev. C 69 (2004). LLNS LLC operates LLNL and Amentum is a consortium member. EG&amp;G (1947) became URS (2002), AECOM (2014) and Amentum, which closes the loop back to EG&amp;G. Confidence grades are the original figure's.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1100' height='2042' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Fuel-supply-chain loop: Dubna, Lazar, Amentum, LLNL</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>A closed-loop reading across Tracks 2, 4 and 7</text>
+<text x='1076' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>TRACK 7 DIAGRAM</text>
+<g transform='translate(149.8,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M248.5,306.0 C248.5,355.0 435.0,355.0 435.0,404.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M248.5,306.0 C248.5,360.0 125.0,360.0 125.0,414.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M125.0,497.0 C125.0,566.8 195.9,566.8 195.9,636.5 C195.9,710.0 195.9,710.0 195.9,783.5 C195.9,862.0 264.5,862.0 264.5,940.5 C264.5,1036.0 264.5,1036.0 264.5,1131.5 C264.5,1227.0 302.3,1227.0 302.3,1322.5 C302.3,1413.0 302.3,1413.0 302.3,1503.5 C302.3,1573.2 444.0,1573.2 444.0,1643.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M491.3,1545.0 C491.3,1594.0 444.0,1594.0 444.0,1643.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M491.3,1364.0 C491.3,1413.0 491.3,1413.0 491.3,1462.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M675.3,104.0 C675.3,184.2 626.5,184.2 626.5,264.5 C626.5,360.0 658.0,360.0 658.0,455.5 C658.0,546.0 641.9,546.0 641.9,636.5 C641.9,710.0 641.9,710.0 641.9,783.5 C641.9,862.0 642.5,862.0 642.5,940.5 C642.5,1036.0 642.5,1036.0 642.5,1131.5 C642.5,1227.0 646.3,1227.0 646.3,1322.5 C646.3,1413.0 646.3,1413.0 646.3,1503.5 C646.3,1573.2 444.0,1573.2 444.0,1643.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M453.5,1183.0 C453.5,1232.0 491.3,1232.0 491.3,1281.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M453.5,982.0 C453.5,1031.0 453.5,1031.0 453.5,1080.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M435.0,507.0 C435.0,556.0 384.9,556.0 384.9,605.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M384.9,668.0 C384.9,710.0 384.9,710.0 384.9,752.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M384.9,815.0 C384.9,857.0 453.5,857.0 453.5,899.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<defs><marker id='ka78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M399.3,125.0 C399.3,174.0 248.5,174.0 248.5,223.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 403.5,194.8 403.5,264.5 C403.5,360.0 280.0,360.0 280.0,455.5 C280.0,546.0 229.9,546.0 229.9,636.5 C229.9,710.0 229.9,710.0 229.9,783.5 C229.9,862.0 298.5,862.0 298.5,940.5 C298.5,1036.0 298.5,1036.0 298.5,1131.5 C298.5,1227.0 336.3,1227.0 336.3,1322.5 C336.3,1413.0 336.3,1413.0 336.3,1503.5 C336.3,1573.2 444.0,1573.2 444.0,1643.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 592.5,194.8 592.5,264.5 C592.5,360.0 624.0,360.0 624.0,455.5 C624.0,546.0 607.9,546.0 607.9,636.5 C607.9,710.0 607.9,710.0 607.9,783.5 C607.9,862.0 608.5,862.0 608.5,940.5 C608.5,1036.0 608.5,1036.0 608.5,1131.5 C608.5,1206.2 491.3,1206.2 491.3,1281.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 558.5,194.8 558.5,264.5 C558.5,360.0 590.0,360.0 590.0,455.5 C590.0,546.0 573.9,546.0 573.9,636.5 C573.9,710.0 573.9,710.0 573.9,783.5 C573.9,841.2 453.5,841.2 453.5,899.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M399.3,125.0 C399.3,194.8 437.5,194.8 437.5,264.5 C437.5,334.2 435.0,334.2 435.0,404.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M435.0,507.0 C435.0,571.8 539.9,571.8 539.9,636.5 C539.9,710.0 539.9,710.0 539.9,783.5 C539.9,841.2 453.5,841.2 453.5,899.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-start='url(#ka78bfa)' stroke-opacity='0.9'/>
+<rect x='270.2' y='343.5' width='143.0' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='341.8' y='359.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>names as employer</text>
+<rect x='133.2' y='348.5' width='107.1' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='186.8' y='364.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>names as fuel</text>
+<rect x='224.4' y='1120.0' width='80.2' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='264.5' y='1136.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>fuel claim</text>
+<rect x='408.9' y='1582.5' width='117.4' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='467.7' y='1598.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>co-synthesised</text>
+<rect x='405.0' y='1401.5' width='172.5' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='491.3' y='1417.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>supplied target 243Am</text>
+<rect x='563.7' y='929.0' width='157.5' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='642.5' y='945.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>documents synthesis</text>
+<rect x='435.2' y='1220.5' width='74.3' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='472.4' y='1236.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>operates</text>
+<rect x='377.8' y='1019.5' width='151.4' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='453.5' y='1035.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>consortium member</text>
+<rect x='469.0' y='772.0' width='141.9' height='23' rx='6' fill='#0d1530' fill-opacity='0.92'/>
+<text x='539.9' y='788.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>closes loop back to</text>
+<rect x='274.30000000000007' y='0.0' width='250' height='125' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='399.3' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Fuel-supply-chain</text>
+<text x='399.3' y='51.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>hypothesis</text>
+<text x='399.3' y='71.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(closed-loop reading across</text>
+<text x='399.3' y='91.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Tracks 2 / 4 / 7)</text>
+<text x='399.3' y='112.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ HYPOTHESIS</text>
+<rect x='123.5' y='223.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='248.5' y='252.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Bob Lazar (Track 2)</text>
+<text x='248.5' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>S-4 testimony 1989+</text>
+<text x='248.5' y='293.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◇ TESTIMONY ANCHOR</text>
+<rect x='0.0' y='414.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='125.0' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>S-4 reactor narrative</text>
+<text x='125.0' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>115 = fuel claim</text>
+<text x='125.0' y='484.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◌ LOW CONFIDENCE (CLAIM)</text>
+<rect x='319.03809523809525' y='1643.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='444.0' y='1672.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Element 115 / Moscovium</text>
+<text x='444.0' y='1692.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(synthesised 2003-2004)</text>
+<text x='444.0' y='1713.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ HIGH CONFIDENCE</text>
+<rect x='366.28809523809525' y='1462.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='491.3' y='1491.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>JINR (Dubna)</text>
+<text x='491.3' y='1511.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Flerov Lab</text>
+<text x='491.3' y='1532.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ HIGH CONFIDENCE</text>
+<rect x='366.28809523809525' y='1281.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='491.3' y='1310.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLNL</text>
+<text x='491.3' y='1330.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>243Am target supplier</text>
+<text x='491.3' y='1351.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ HIGH CONFIDENCE</text>
+<rect x='550.3000000000001' y='21.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='675.3' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Phys. Rev. C 69 (2004)</text>
+<text x='675.3' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>JINR+LLNL synthesis paper</text>
+<text x='675.3' y='91.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ HIGH CONFIDENCE</text>
+<rect x='328.4880952380953' y='1080.0' width='250' height='103' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='453.5' y='1109.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLNS LLC consortium</text>
+<text x='453.5' y='1129.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Bechtel + UC + Battelle + BWXT +</text>
+<text x='453.5' y='1149.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>AECOM-now-Amentum</text>
+<text x='453.5' y='1170.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>◧ MEDIUM CONFIDENCE</text>
+<rect x='328.4880952380953' y='899.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='453.5' y='928.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Amentum (NYSE: AMTM)</text>
+<text x='453.5' y='948.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>EG&amp;G successor</text>
+<text x='453.5' y='969.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ HIGH CONFIDENCE</text>
+<rect x='310.00000000000006' y='404.0' width='250' height='103' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='435.0' y='433.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>EG&amp;G (1947)</text>
+<text x='435.0' y='453.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Lazar's stated employer (Track</text>
+<text x='435.0' y='473.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>7)</text>
+<text x='435.0' y='494.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ HISTORICAL LINEAGE</text>
+<rect x='259.91666666666674' y='605.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='384.9' y='634.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>URS (2002)</text>
+<text x='384.9' y='655.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ HISTORICAL LINEAGE</text>
+<rect x='259.91666666666674' y='752.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='384.9' y='781.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>AECOM (2014)</text>
+<text x='384.9' y='802.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ HISTORICAL LINEAGE</text>
+</g>
+<line x1='24' y1='1860.0' x2='64' y2='1860.0' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)'/>
+<text x='74' y='1864.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>link</text>
+<line x1='126.36' y1='1860.0' x2='166.36' y2='1860.0' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)'/>
+<text x='176.36' y='1864.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the hypothesis reads these as one loop</text>
+<text x='24' y='1886.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Redrawn from</text>
+<text x='24' y='1908.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>corporate-economic-analysis/diagrams/</text>
+<text x='24' y='1930.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>dubna_lazar_amentum_llnl_fuel_loop.mmd;</text>
+<text x='24' y='1952.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the previous PNG render stays in the repository.</text>
+<text x='24' y='1974.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The loop is a hypothesis of the original figure; confidence grades</text>
+<text x='24' y='1996.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>are its own and the repository does not verify them.</text>
+</svg>
