@@ -111,6 +111,11 @@ def layout(nodes, edges, direction, lang, w, kinds, gap_main=84):
             csz[d], msz[d] = 8, 0
             path.append(d)
         path.append(b)
+        if e["lab"] and len(path) > 2:
+            lines = e["lab"][lang]
+            lw = max(text_width(l, FS_SMALL, True) for l in lines) + 16
+            lh = 17 * len(lines) + 12
+            csz[path[len(path) // 2]] = (lh if direction == "LR" else lw)
         chains.append(path)
     allrank = dict(rank)
     allrank.update(dummy_rank)
@@ -217,6 +222,49 @@ def layout(nodes, edges, direction, lang, w, kinds, gap_main=84):
     return rects, routes, (w_, h_), lr
 
 
+def layout_manual(spec, lang):
+    """Fixed grid placement for dense diagrams: spec["manual"] = {id: (column, row)}; rows are global."""
+    nodes, kinds, w = spec["nodes"], spec["kinds"], spec["w"]
+    pitch = w + 26
+    size = {i: (w, measure(nodes[i], lang, w, kinds)) for i in nodes}
+    rows = sorted({r for _, r in spec["manual"].values()})
+    rh = {r: max(size[i][1] for i, (c, rr) in spec["manual"].items() if rr == r) for r in rows}
+    top = {}
+    y = 64
+    for r in rows:
+        top[r] = y + spec.get("row_gap", {}).get(r, 0)
+        y = top[r] + rh[r] + 42
+    rects = {}
+    for i, (c, r) in spec["manual"].items():
+        x = 20 + c * pitch
+        rects[i] = (x, top[r] + (rh[r] - size[i][1]) / 2, w, size[i][1])
+    gw = max(x + ww for x, _, ww, _ in rects.values()) + 20
+    gh = max(yy + hh for _, yy, _, hh in rects.values()) + 20
+    routes = []
+    for a, b, sty, *lab in spec["edges"]:
+        ra, rb = rects[a], rects[b]
+        ca, cb = ra[1] + ra[3] / 2, rb[1] + rb[3] / 2
+        if abs(ca - cb) < 5:
+            sx = ra[0] + ra[2] if rb[0] > ra[0] else ra[0]
+            tx = rb[0] if rb[0] > ra[0] else rb[0] + rb[2]
+            pts = [(sx, ca), (tx, cb)]
+            e_lr = True
+        elif cb > ca:
+            pts = [(ra[0] + ra[2] / 2, ra[1] + ra[3]), (rb[0] + rb[2] / 2, rb[1])]
+        else:
+            pts = [(ra[0] + ra[2] / 2, ra[1]), (rb[0] + rb[2] / 2, rb[1] + rb[3])]
+        routes.append(({"a": a, "b": b, "s": sty, "lab": lab[0] if lab else None, "both": False}, pts, False))
+    panels = []
+    for lab_en, lab_ru, color, members in spec["panels"]:
+        rs = [rects[m] for m in members]
+        x0 = min(r[0] for r in rs) - 14
+        y0 = min(r[1] for r in rs) - 40
+        x1 = max(r[0] + r[2] for r in rs) + 14
+        y1 = max(r[1] + r[3] for r in rs) + 14
+        panels.append(((lab_en, lab_ru), color, x0, y0, x1, y1))
+    return rects, routes, (gw, gh), False, panels
+
+
 def curve(pts, lr):
     d = "M%.1f,%.1f" % pts[0]
     for a, b in zip(pts, pts[1:]):
@@ -239,7 +287,10 @@ def mid_of(pts):
 def draw(spec, lang):
     t = spec["text"][lang]
     nodes, kinds = spec["nodes"], spec["kinds"]
-    rects, routes, (gw, gh), lr = layout(nodes, spec["edges"], spec["dir"], lang, spec["w"], kinds)
+    if "manual" in spec:
+        rects, routes, (gw, gh), lr, panels = layout_manual(spec, lang)
+    else:
+        (rects, routes, (gw, gh), lr), panels = layout(nodes, spec["edges"], spec["dir"], lang, spec["w"], kinds), []
     # legend rows and foot lines
     leg_rows = []
     row, used = [], 0
@@ -271,6 +322,9 @@ def draw(spec, lang):
     cv = Canvas(W, H, t["title"], t["desc"], t["title"], t["sub"], t["tag"])
     ox = (W - gw) / 2
     cv.o.append("<g transform='translate(%.1f,%.1f)'>" % (ox, y0))
+    for (lab_en, lab_ru), color, x0, y0, x1, y1 in panels:
+        cv.o.append("<rect x='%.1f' y='%.1f' width='%.1f' height='%.1f' rx='14' fill='%s' fill-opacity='0.55' stroke='%s' stroke-opacity='0.7'/>" % (x0, y0, x1 - x0, y1 - y0, PANEL, color))
+        cv.o.append(text("%.1f" % (x0 + 14), "%.1f" % (y0 + 26), lab_en if lang == "en" else lab_ru, FS_KICKER, color, "start", 800, 0.6, x1 - x0 - 28))
     # edges first
     labels = []
     for e, pts, flip in routes:
@@ -624,30 +678,120 @@ SPECS["cluster-map"] = dict(
         "KCNSC": N("lab", ["Kansas City National Security Campus"]),
         "IFES": N("lab", ["Institute For Exotic Sciences (Alabama)"]),
         "NOVA": N("lab", ["Novarti (Massachusetts)"]),
-        "P1": N("dis", ["Cassias 06.2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗЛА")),
-        "P2": N("dis", ["Chavez 05.2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ")),
-        "P3": N("dis", ["Hassen-Tores 2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗЛА")),
-        "P4": N("died", ["Maiwald"], st=("◧ DIED, UNCLEAR", "◧ УМЕР, ПРИЧИНА НЕЯСНА")),
-        "P5": N("died", ["Higgs"], st=("◧ DIED, UNCLEAR", "◧ УМЕР, ПРИЧИНА НЕЯСНА")),
-        "P6": N("dis", ["McCasland 02.2026"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ")),
-        "P7": N("kill", ["Loureiro 12.2025"], st=("✕ KILLED (SUSPECT)", "✕ УБИТ")),
-        "P8": N("kill", ["Grillmar 02.2026", "shot at home"], ["Grillmar 02.2026", "застрелен"], st=("✕ KILLED (SUSPECT)", "✕ УБИТ")),
-        "P9": N("dis", ["Garcia 2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ")),
-        "P10": N("died", ["Eskridge 2022"], st=("◧ DIED, UNCLEAR", "◧ УМЕРЛА, ПРИЧИНА НЕЯСНА")),
-        "P11": N("found", ["Thomas", "found dead in lake"], ["Thomas", "тело в озере"], st=("▪ FOUND DEAD", "▪ ТЕЛО НАЙДЕНО")),
+        "P1": N("dis", ["Case 1 · 06.2025"], ["Случай 1 · 06.2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ(ЛА)")),
+        "P2": N("dis", ["Case 2 · 05.2025"], ["Случай 2 · 05.2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ(ЛА)")),
+        "P3": N("dis", ["Case 3 · 2025"], ["Случай 3 · 2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ(ЛА)")),
+        "P4": N("died", ["Case 4"], ["Случай 4"], st=("◧ DIED, UNCLEAR", "◧ УМЕР(ЛА), ПРИЧИНА НЕЯСНА")),
+        "P5": N("died", ["Case 5"], ["Случай 5"], st=("◧ DIED, UNCLEAR", "◧ УМЕР(ЛА), ПРИЧИНА НЕЯСНА")),
+        "P6": N("dis", ["Case 6 · 02.2026"], ["Случай 6 · 02.2026"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ(ЛА)")),
+        "P7": N("kill", ["Case 7 · 12.2025"], ["Случай 7 · 12.2025"], st=("✕ KILLED (SUSPECT)", "✕ УБИТ(А)")),
+        "P8": N("kill", ["Case 8 · 02.2026", "shot at home"], ["Случай 8 · 02.2026", "застрелен(а) дома"], st=("✕ KILLED (SUSPECT)", "✕ УБИТ(А)")),
+        "P9": N("dis", ["Case 9 · 2025"], ["Случай 9 · 2025"], st=("◌ DISAPPEARED", "◌ ИСЧЕЗ(ЛА)")),
+        "P10": N("died", ["Case 10 · 2022"], ["Случай 10 · 2022"], st=("◧ DIED, UNCLEAR", "◧ УМЕР(ЛА), ПРИЧИНА НЕЯСНА")),
+        "P11": N("found", ["Case 11", "found dead in lake"], ["Случай 11", "тело в озере"], st=("▪ FOUND DEAD", "▪ ТЕЛО НАЙДЕНО")),
     },
     edges=[("LANL", "P1", "s"), ("LANL", "P2", "s"), ("JPL", "P3", "s"), ("JPL", "P4", "s"), ("JPL", "P5", "s"), ("AFRL", "P6", "s"),
            ("MIT", "P7", "s"), ("CALTECH", "P8", "s"), ("KCNSC", "P9", "s"), ("IFES", "P10", "s"), ("NOVA", "P11", "s")],
     legend=[("dot", BLUE, two("institution", "учреждение")), ("dot", GOLD, two("disappeared", "исчез(ла)")), ("dot", AMBER, two("killed (suspect named)", "убит(а) (назван подозреваемый)")),
             ("dot", VIOLET, two("died, cause unclear", "умер(ла), причина неясна")), ("dot", MUTED, two("found dead in a lake", "найден(а) мёртвым в озере"))],
     text={"en": {"title": "Institutional cluster map", "sub": "Eleven cases by the institution each person is linked to", "tag": "TRACK 5 DIAGRAM",
-                 "desc": "Eight institutions on the left, eleven cases on the right. Los Alamos: Cassias (disappeared June 2025) and Chavez (disappeared May 2025). NASA JPL: Hassen-Tores (disappeared 2025), Maiwald and Higgs (died, unclear). AFRL: McCasland (disappeared February 2026). MIT Plasma Science and Fusion Center: Loureiro (killed, suspect, December 2025). Caltech: Grillmar (shot at home, February 2026). Kansas City National Security Campus: Garcia (disappeared 2025). Institute For Exotic Sciences, Alabama: Eskridge (died, unclear, 2022). Novarti, Massachusetts: Thomas (found dead in a lake).",
+                 "desc": "Eight institutions on the left, eleven numbered cases on the right, persons not named. Los Alamos: cases 1 (disappeared June 2025) and 2 (disappeared May 2025). NASA JPL: case 3 (disappeared 2025), cases 4 and 5 (died, unclear). AFRL: case 6 (disappeared February 2026). MIT Plasma Science and Fusion Center: case 7 (killed, suspect, December 2025). Caltech: case 8 (shot at home, February 2026). Kansas City National Security Campus: case 9 (disappeared 2025). Institute For Exotic Sciences, Alabama: case 10 (died, unclear, 2022). Novarti, Massachusetts: case 11 (found dead in a lake).",
                  "foot": ["Redrawn from people-analysis/diagrams/institutional_cluster_map.mmd; the previous PNG render stays in the repository.",
-                          "Statuses are as recorded in the track; the track attributes none of the cases to UAP-related activity. Individual cases are not verified on these pages."]},
+                          "The persons are numbered, not named (private persons; the names are in the track's own files). Statuses are as recorded in the track, which attributes none of the cases to UAP-related activity; they are not verified here."]},
           "ru": {"title": "Карта институциональных кластеров", "sub": "Одиннадцать случаев по учреждению, с которым связан человек", "tag": "ДИАГРАММА ТРЕКА 5",
-                 "desc": "Восемь учреждений слева, одиннадцать случаев справа. Лос-Аламос: Cassias (исчезла в июне 2025) и Chavez (исчез в мае 2025). NASA JPL: Hassen-Tores (исчезла в 2025), Maiwald и Higgs (умерли, причина неясна). AFRL: McCasland (исчез в феврале 2026). МТИ, Центр науки о плазме и термоядерного синтеза: Loureiro (убит, подозреваемый назван, декабрь 2025). Caltech: Grillmar (застрелен дома, февраль 2026). Kansas City National Security Campus: Garcia (исчез в 2025). Institute For Exotic Sciences, Алабама: Eskridge (умерла, причина неясна, 2022). Novarti, Массачусетс: Thomas (тело найдено в озере).",
+                 "desc": "Восемь учреждений слева, одиннадцать пронумерованных случаев справа, люди не названы. Лос-Аламос: случаи 1 (исчез(ла) в июне 2025) и 2 (исчез(ла) в мае 2025). NASA JPL: случай 3 (исчез(ла) в 2025), случаи 4 и 5 (умерли, причина неясна). AFRL: случай 6 (исчез(ла) в феврале 2026). МТИ, Центр науки о плазме и термоядерного синтеза: случай 7 (убит(а), подозреваемый назван, декабрь 2025). Caltech: случай 8 (застрелен(а) дома, февраль 2026). Kansas City National Security Campus: случай 9 (исчез(ла) в 2025). Institute For Exotic Sciences, Алабама: случай 10 (умер(ла), причина неясна, 2022). Novarti, Массачусетс: случай 11 (тело найдено в озере).",
                  "foot": ["Перерисовано из people-analysis/diagrams/institutional_cluster_map.mmd; прежний PNG остаётся в репозитории.",
-                          "Статусы приведены как записаны в треке; трек не связывает ни один случай с деятельностью, относящейся к НЛО. Отдельные случаи на этих страницах не проверяются."]}},
+                          "Люди пронумерованы, а не названы (частные лица; имена есть в собственных файлах трека). Статусы приведены как записаны в треке, который не связывает ни один случай с деятельностью, относящейся к НЛО; здесь они не проверяются."]}},
+)
+
+
+# --- Track 1: cross-archive links (parsed from the Mermaid source) ----------------------------
+def parse_cross():
+    import re as _re
+    src = open(os.path.join(ROOT, "charts/mermaid/cross_archive_links.mmd"), encoding="utf-8").read()
+    cyr = _re.compile("[А-Яа-яЁё]")
+
+    def halves(label):
+        lines = label.split("<br/>")
+        k = next((i for i, l in enumerate(lines) if cyr.search(l)), len(lines))
+        if k > 0 and k < len(lines) and lines[k - 1] == lines[0] and k - 1 > 0:
+            k -= 1
+        en, ru = lines[:k], lines[k:]
+        if ru and not cyr.search(lines[0]) and lines[0].startswith("«"):
+            ru = [lines[0]] + ru
+        return [x for x in en if x], [x for x in ru if x] or [x for x in en if x]
+    nodes = {}
+    for m in _re.finditer(r'^\s+(\w+)\["(.+?)"\]:::(\w+)', src, _re.M):
+        en, ru = halves(m.group(2))
+        nodes[m.group(1)] = {"k": m.group(3), "en": en, "ru": ru}
+    edges = []
+    for m in _re.finditer(r'^\s+(\w+) (==>|-\.->)(?:\|"(.+?)"\|)? (\w+)\s*$', src, _re.M):
+        a, arrow, lab, b = m.groups()
+        if lab:
+            en, ru = halves(lab)
+            lab = {"en": en, "ru": ru}
+        edges.append((a, b, "t" if arrow == "==>" else "d") + ((lab,) if lab else ()))
+    return nodes, edges
+
+
+CROSS_POS = {
+    "L1": (0.5, 0), "L2": (0, 1), "L3": (1, 1), "L4": (0.5, 2), "L5": (1.5, 2),
+    "C4": (3.5, 0), "C1": (3.5, 1), "C2": (3, 2), "C3": (4, 2),
+    "D3": (6, 0), "D1": (6, 1), "D2": (5.5, 2), "D4": (6.5, 2), "D5": (6, 3),
+    "G2": (9, 0), "G3": (9, 1), "G4": (9, 2), "G5": (9, 3), "G1": (8, 1.5),
+    "T1": (1, 6), "T2": (3.5, 6), "T3": (6, 6), "T4": (8, 6), "T5": (9.5, 6),
+    "P1": (5, 8), "P2": (3.5, 9), "P3": (4.5, 9), "P4": (5.5, 9), "P5": (6.5, 9), "P6": (3.5, 10), "P7": (4.5, 10), "P8": (5.5, 10), "P9": (6.5, 10),
+}
+
+
+def _cross():
+    nodes, edges = parse_cross()
+    kinds = {"lazar": (AMBER, {"en": "▪ LAZAR ARCHIVE", "ru": "▪ АРХИВ ЛАЗАРА"}), "cherno": (GOLD, {"en": "▪ CHERNOBROV ARCHIVE", "ru": "▪ АРХИВ ЧЕРНОБРОВА"}),
+             "dubna": (BLUE, {"en": "▪ DUBNA ARCHIVE", "ru": "▪ АРХИВ ДУБНЫ"}), "pursue": (GREEN, {"en": "▪ PURSUE ARCHIVE", "ru": "▪ АРХИВ PURSUE"}),
+             "gershtein": (TEAL, {"en": "▪ GERSHTEIN ARCHIVE", "ru": "▪ АРХИВ ГЕРШТЕЙНА"}), "theme": (VIOLET, {"en": "◇ THEME (HYPOTHESIS MAP)", "ru": "◇ ТЕМА (КАРТА ГИПОТЕЗ)"})}
+    return dict(
+        dir="TB", w=230, kinds=kinds, nodes=nodes, edges=edges, manual=CROSS_POS,
+        row_gap={6: 70, 8: 70},
+        panels=[("Lazar archive", "Архив Лазара", AMBER, ["L1", "L2", "L3", "L4", "L5"]), ("Chernobrov archive", "Архив Черноброва", GOLD, ["C1", "C2", "C3", "C4"]),
+                ("Dubna archive", "Архив Дубны", BLUE, ["D1", "D2", "D3", "D4", "D5"]), ("Gershtein archive", "Архив Герштейна", TEAL, ["G1", "G2", "G3", "G4", "G5"]),
+                ("PURSUE archive R01 + R02", "Архив PURSUE R01 + R02", GREEN, ["P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "P9"])],
+        legend=[("thick", TEAL, two("link inside one archive", "связь внутри одного архива")), ("dashed", VIOLET, two("thematic or institutional link, labelled", "тематическая или институциональная связь, с подписью"))],
+        text={"en": {"title": "Cross-archive links", "sub": "Five archives and five themes of the synthesis", "tag": "TRACK 8 DIAGRAM",
+                     "desc": "Graph of five archives (Lazar, Chernobrov, Dubna, PURSUE R01 and R02, Gershtein) and five themes: element 115 and moscovium, time and space-time, Soviet aerospace lineage, US federal disclosure lineage, plasma phenomena in the US, UK and USSR. Solid thick edges link items inside one archive; labelled dashed edges link archive items to themes and to items of other archives. The links are the synthesis page's own thematic readings.",
+                     "foot": ["Redrawn from charts/mermaid/cross_archive_links.mmd; the previous PNG render stays in the repository.", "Links are thematic or institutional readings of the synthesis page, not proofs of a common source."]},
+              "ru": {"title": "Кросс-архивные связи", "sub": "Пять архивов и пять тем синтеза", "tag": "ДИАГРАММА ТРЕКА 8",
+                     "desc": "Граф пяти архивов (Лазар, Чернобров, Дубна, PURSUE R01 и R02, Герштейн) и пяти тем: элемент 115 и московий, время и пространство-время, советская аэрокосмическая линия, линия федерального раскрытия США, плазменные явления США, Великобритании и СССР. Толстые сплошные рёбра связывают элементы одного архива; подписанные пунктирные рёбра связывают элементы архивов с темами и с элементами других архивов. Связи это тематические прочтения страницы синтеза.",
+                     "foot": ["Перерисовано из charts/mermaid/cross_archive_links.mmd; прежний PNG остаётся в репозитории.", "Связи это тематические или институциональные прочтения страницы синтеза, а не доказательства общего источника."]}},
+    )
+
+
+SPECS["cross-archive-links"] = _cross()
+
+# --- Track 8: UAP origin taxonomy -------------------------------------------------------------
+KT = {"root": (GOLD, None), "c1": (AMBER, {"en": "◇ CATEGORY", "ru": "◇ КАТЕГОРИЯ"}), "c2": (VIOLET, {"en": "◇ CATEGORY", "ru": "◇ КАТЕГОРИЯ"}),
+      "c3": (BLUE, {"en": "◇ CATEGORY", "ru": "◇ КАТЕГОРИЯ"}), "arc": (GREEN, {"en": "▪ ARCHIVE MAPPING", "ru": "▪ ОТНЕСЕНИЕ АРХИВА"}),
+      "ecp": (AMBER, {"en": "◇ WORKING HYPOTHESIS", "ru": "◇ РАБОЧАЯ ГИПОТЕЗА"})}
+SPECS["uap-taxonomy"] = dict(
+    dir="TB", w=270, kinds=KT,
+    nodes={
+        "ROOT": N("root", ["UAP", "base term, replaces UFO", "+ AIT framing"], ["ОАП", "базовый термин, заменяет НЛО / UFO", "+ рамка AIT"]),
+        "C1": N("c1", ["Interstellar", "from other star systems"], ["Межзвёздные", "из других звёздных систем"]),
+        "C2": N("c2", ["Parallel-reality", "from parallel branches of reality"], ["Параллельная реальность", "из параллельных веток реальности"]),
+        "C3": N("c3", ["Temporal", "moving in time"], ["Темпоральные", "двигаются во времени"]),
+        "L": N("arc", ["Lazar archive", "S-4 / Sport Model", "claimed alien craft"], ["Архив Лазара", "S-4 / Sport Model", "заявленный инопланетный аппарат"]),
+        "CH1": N("arc", ["Chernobrov archive", "anomalous-zone field work", "Lukino, Medveditskaya"], ["Архив Черноброва", "полевая работа в аномальных зонах", "Лукино, Медведицкая"]),
+        "CH2": N("arc", ["Chernobrov archive", "machine-of-time experiments", "time-traveller hypothesis"], ["Архив Черноброва", "эксперименты с машиной времени", "гипотеза путешественника во времени"]),
+        "DUBNA": N("arc", ["Dubna archive", "partial: element-115 narrative only"], ["Архив Дубны", "частично: только нарратив об элементе 115"]),
+        "ECP": N("ecp", ["ECP artifact", "'we are tracking an object in time'"], ["ECP-артефакт", "«мы следуем во времени объекта»"]),
+    },
+    edges=[("ROOT", "C1", "t"), ("ROOT", "C2", "t"), ("ROOT", "C3", "t"), ("C1", "L", "t"), ("C1", "DUBNA", "d"), ("C2", "CH1", "t"), ("C3", "CH2", "t"), ("C3", "ECP", "rt")],
+    legend=[("thick", TEAL, two("category to archive", "категория к архиву")), ("dashed", VIOLET, two("partial mapping", "частичное отнесение")), ("thick", AMBER, two("category to the ECP working hypothesis", "категория к рабочей гипотезе ECP"))],
+    text={"en": {"title": "UAP origin taxonomy", "sub": "Three origin categories and how each archive maps onto them", "tag": "TRACK 8 DIAGRAM",
+                 "desc": "Tree. The base term UAP, with the AIT framing, splits into three origin categories: interstellar, parallel-reality and temporal. Interstellar maps to the Lazar archive and partially to the Dubna archive (element-115 narrative only). Parallel-reality maps to Chernobrov anomalous-zone field work. Temporal maps to Chernobrov time-machine experiments and to the ECP artifact as a working hypothesis.",
+                 "foot": ["Redrawn from charts/mermaid/uap_taxonomy.mmd; the previous PNG render stays in the repository.", "The taxonomy calls itself a vocabulary, not a research finding; the ECP placement is a working hypothesis."]},
+          "ru": {"title": "Таксономия происхождения ОАП", "sub": "Три категории происхождения и отнесение к ним архивов", "tag": "ДИАГРАММА ТРЕКА 8",
+                 "desc": "Дерево. Базовый термин ОАП с рамкой AIT делится на три категории происхождения: межзвёздные, параллельная реальность и темпоральные. Межзвёздные относятся к архиву Лазара и частично к архиву Дубны (только нарратив об элементе 115). Параллельная реальность относится к полевой работе Черноброва в аномальных зонах. Темпоральные относятся к экспериментам Черноброва с машиной времени и к ECP-артефакту как рабочей гипотезе.",
+                 "foot": ["Перерисовано из charts/mermaid/uap_taxonomy.mmd; прежний PNG остаётся в репозитории.", "Таксономия называет себя словарём, а не результатом исследования; отнесение ECP это рабочая гипотеза."]}},
 )
 
 

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1510 730" width="1510" height="730" role="img" aria-labelledby="t d">
+<title id="t">UAP origin taxonomy</title>
+<desc id="d">Tree. The base term UAP, with the AIT framing, splits into three origin categories: interstellar, parallel-reality and temporal. Interstellar maps to the Lazar archive and partially to the Dubna archive (element-115 narrative only). Parallel-reality maps to Chernobrov anomalous-zone field work. Temporal maps to Chernobrov time-machine experiments and to the ECP artifact as a working hypothesis.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1510' height='730' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>UAP origin taxonomy</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Three origin categories and how each archive maps onto them</text>
+<text x='1486' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>TRACK 8 DIAGRAM</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M727.0,82.0 C727.0,124.0 283.0,124.0 283.0,166.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M727.0,82.0 C727.0,124.0 727.0,124.0 727.0,166.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M727.0,82.0 C727.0,124.0 1171.0,124.0 1171.0,166.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M283.0,249.0 C283.0,291.0 135.0,291.0 135.0,333.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<defs><marker id='ka78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M283.0,249.0 C283.0,296.0 431.0,296.0 431.0,343.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M727.0,249.0 C727.0,291.0 727.0,291.0 727.0,333.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M1171.0,249.0 C1171.0,291.0 1023.0,291.0 1023.0,333.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<defs><marker id='kffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M1171.0,249.0 C1171.0,296.0 1319.0,296.0 1319.0,343.0' fill='none' stroke='#ffa657' stroke-width='3.5' marker-end='url(#kffa657)' stroke-opacity='0.9'/>
+<rect x='592.0' y='0.0' width='270' height='82' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='727.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>UAP</text>
+<text x='727.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>base term, replaces UFO</text>
+<text x='727.0' y='69.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>+ AIT framing</text>
+<rect x='148.0' y='166.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='283.0' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Interstellar</text>
+<text x='283.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>from other star systems</text>
+<text x='283.0' y='236.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◇ CATEGORY</text>
+<rect x='592.0' y='166.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='727.0' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Parallel-reality</text>
+<text x='727.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>from parallel branches of reality</text>
+<text x='727.0' y='236.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ CATEGORY</text>
+<rect x='1036.0' y='166.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1171.0' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Temporal</text>
+<text x='1171.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>moving in time</text>
+<text x='1171.0' y='236.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>◇ CATEGORY</text>
+<rect x='0.0' y='333.0' width='270' height='103' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='135.0' y='362.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Lazar archive</text>
+<text x='135.0' y='382.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>S-4 / Sport Model</text>
+<text x='135.0' y='402.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>claimed alien craft</text>
+<text x='135.0' y='423.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ARCHIVE MAPPING</text>
+<rect x='592.0' y='333.0' width='270' height='103' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='727.0' y='362.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Chernobrov archive</text>
+<text x='727.0' y='382.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>anomalous-zone field work</text>
+<text x='727.0' y='402.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Lukino, Medveditskaya</text>
+<text x='727.0' y='423.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ARCHIVE MAPPING</text>
+<rect x='888.0' y='333.0' width='270' height='103' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1023.0' y='362.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Chernobrov archive</text>
+<text x='1023.0' y='382.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>machine-of-time experiments</text>
+<text x='1023.0' y='402.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>time-traveller hypothesis</text>
+<text x='1023.0' y='423.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ARCHIVE MAPPING</text>
+<rect x='296.0' y='343.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='431.0' y='372.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Dubna archive</text>
+<text x='431.0' y='392.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>partial: element-115 narrative only</text>
+<text x='431.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ARCHIVE MAPPING</text>
+<rect x='1184.0' y='343.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1319.0' y='372.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ECP artifact</text>
+<text x='1319.0' y='392.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>'we are tracking an object in time'</text>
+<text x='1319.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◇ WORKING HYPOTHESIS</text>
+</g>
+<line x1='24' y1='570.0' x2='64' y2='570.0' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)'/>
+<text x='74' y='574.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>category to archive</text>
+<line x1='232.18000000000004' y1='570.0' x2='272.18000000000006' y2='570.0' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)'/>
+<text x='282.18000000000006' y='574.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>partial mapping</text>
+<line x1='412.2800000000001' y1='570.0' x2='452.2800000000001' y2='570.0' stroke='#ffa657' stroke-width='3.5' marker-end='url(#kffa657)'/>
+<text x='462.2800000000001' y='574.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>category to the ECP working hypothesis</text>
+<text x='24' y='596.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Redrawn from</text>
+<text x='24' y='618.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>charts/mermaid/uap_taxonomy.mmd;</text>
+<text x='24' y='640.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the previous PNG render stays in the repository.</text>
+<text x='24' y='662.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The taxonomy calls itself a vocabulary, not a research finding; the</text>
+<text x='24' y='684.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ECP placement is a working hypothesis.</text>
+</svg>

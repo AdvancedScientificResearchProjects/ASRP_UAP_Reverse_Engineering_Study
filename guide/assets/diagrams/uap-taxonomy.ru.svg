@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1510 770" width="1510" height="770" role="img" aria-labelledby="t d">
+<title id="t">Таксономия происхождения ОАП</title>
+<desc id="d">Дерево. Базовый термин ОАП с рамкой AIT делится на три категории происхождения: межзвёздные, параллельная реальность и темпоральные. Межзвёздные относятся к архиву Лазара и частично к архиву Дубны (только нарратив об элементе 115). Параллельная реальность относится к полевой работе Черноброва в аномальных зонах. Темпоральные относятся к экспериментам Черноброва с машиной времени и к ECP-артефакту как рабочей гипотезе.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1510' height='770' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Таксономия происхождения ОАП</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Три категории происхождения и отнесение к ним архивов</text>
+<text x='1486' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ДИАГРАММА ТРЕКА 8</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M727.0,102.0 C727.0,144.0 283.0,144.0 283.0,186.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M727.0,102.0 C727.0,144.0 727.0,144.0 727.0,186.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M727.0,102.0 C727.0,144.0 1171.0,144.0 1171.0,186.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M283.0,269.0 C283.0,316.0 135.0,316.0 135.0,363.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<defs><marker id='ka78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M283.0,269.0 C283.0,316.0 431.0,316.0 431.0,363.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)' stroke-opacity='0.9'/>
+<path d='M727.0,269.0 C727.0,311.0 727.0,311.0 727.0,353.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<path d='M1171.0,269.0 C1171.0,311.0 1023.0,311.0 1023.0,353.0' fill='none' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)' stroke-opacity='0.9'/>
+<defs><marker id='kffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M1171.0,269.0 C1171.0,321.0 1319.0,321.0 1319.0,373.0' fill='none' stroke='#ffa657' stroke-width='3.5' marker-end='url(#kffa657)' stroke-opacity='0.9'/>
+<rect x='592.0' y='0.0' width='270' height='102' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='727.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ОАП</text>
+<text x='727.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>базовый термин, заменяет НЛО /</text>
+<text x='727.0' y='69.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>UFO</text>
+<text x='727.0' y='89.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>+ рамка AIT</text>
+<rect x='148.0' y='186.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='283.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Межзвёздные</text>
+<text x='283.0' y='235.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>из других звёздных систем</text>
+<text x='283.0' y='256.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◇ КАТЕГОРИЯ</text>
+<rect x='592.0' y='186.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='727.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Параллельная реальность</text>
+<text x='727.0' y='235.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>из параллельных веток реальности</text>
+<text x='727.0' y='256.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ КАТЕГОРИЯ</text>
+<rect x='1036.0' y='186.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1171.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Темпоральные</text>
+<text x='1171.0' y='235.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>двигаются во времени</text>
+<text x='1171.0' y='256.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>◇ КАТЕГОРИЯ</text>
+<rect x='0.0' y='363.0' width='270' height='103' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='135.0' y='392.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Архив Лазара</text>
+<text x='135.0' y='412.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>S-4 / Sport Model</text>
+<text x='135.0' y='432.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>заявленный инопланетный аппарат</text>
+<text x='135.0' y='453.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ОТНЕСЕНИЕ АРХИВА</text>
+<rect x='592.0' y='353.0' width='270' height='123' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='727.0' y='382.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Архив Черноброва</text>
+<text x='727.0' y='402.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>полевая работа в аномальных</text>
+<text x='727.0' y='422.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>зонах</text>
+<text x='727.0' y='442.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Лукино, Медведицкая</text>
+<text x='727.0' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ОТНЕСЕНИЕ АРХИВА</text>
+<rect x='888.0' y='353.0' width='270' height='123' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1023.0' y='382.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Архив Черноброва</text>
+<text x='1023.0' y='402.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>эксперименты с машиной времени</text>
+<text x='1023.0' y='422.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>гипотеза путешественника во</text>
+<text x='1023.0' y='442.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>времени</text>
+<text x='1023.0' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ОТНЕСЕНИЕ АРХИВА</text>
+<rect x='296.0' y='363.0' width='270' height='103' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='431.0' y='392.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Архив Дубны</text>
+<text x='431.0' y='412.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>частично: только нарратив об</text>
+<text x='431.0' y='432.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>элементе 115</text>
+<text x='431.0' y='453.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>▪ ОТНЕСЕНИЕ АРХИВА</text>
+<rect x='1184.0' y='373.0' width='270' height='83' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1319.0' y='402.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ECP-артефакт</text>
+<text x='1319.0' y='422.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>«мы следуем во времени объекта»</text>
+<text x='1319.0' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◇ РАБОЧАЯ ГИПОТЕЗА</text>
+</g>
+<line x1='24' y1='610.0' x2='64' y2='610.0' stroke='#4ecdc4' stroke-width='3.5' marker-end='url(#k4ecdc4)'/>
+<text x='74' y='614.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>категория к архиву</text>
+<line x1='236.59999999999997' y1='610.0' x2='276.59999999999997' y2='610.0' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ka78bfa)'/>
+<text x='286.59999999999997' y='614.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>частичное отнесение</text>
+<line x1='460.8999999999999' y1='610.0' x2='500.8999999999999' y2='610.0' stroke='#ffa657' stroke-width='3.5' marker-end='url(#kffa657)'/>
+<text x='510.8999999999999' y='614.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>категория к рабочей гипотезе ECP</text>
+<text x='24' y='636.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перерисовано из</text>
+<text x='24' y='658.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>charts/mermaid/uap_taxonomy.mmd;</text>
+<text x='24' y='680.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>прежний PNG остаётся в репозитории.</text>
+<text x='24' y='702.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Таксономия называет себя словарём, а не результатом исследования;</text>
+<text x='24' y='724.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>отнесение ECP это рабочая гипотеза.</text>
+</svg>

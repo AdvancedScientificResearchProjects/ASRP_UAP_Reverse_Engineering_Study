@@ -30,13 +30,13 @@ AREAS = [  # key, folders (owner first, mirrors after), EN title, RU title
 ]
 WITHHELD_STEMS = {"retry_1"}
 WITHHELD_FILES = {"charts/ecp_response_agreement_matrix.svg", "charts/ecp_reference_validation_matrix.svg"}
-PRIVATE_PERSON_STEMS = {"affiliation_graph", "investigation_status", "timeline_2022_2026", "cardillo_gabriella_framework"}
+PRIVATE_PERSON_STEMS = {"fbi11_to_track7_employer_overlay", "affiliation_graph", "investigation_status", "timeline_2022_2026", "cardillo_gabriella_framework"}
 REDRAWN = {  # stem -> new svg slug (EN/RU pair under guide/assets/diagrams)
     "root_1": "overview-pipeline", "root_3": "evidence-flow", "root_4": "ai-pipeline", "root_5": "timeline-flow",
     "detective_board": "detective-board", "validation_pipeline": "validation-pipeline", "institutional_cluster_map": "cluster-map",
-    "lazar_s4_contractor_bridge": "s4-contractor-bridge", "dubna_lazar_amentum_llnl_fuel_loop": "fuel-loop",
+    "lazar_s4_contractor_bridge": "s4-contractor-bridge", "cross_archive_links": "cross-archive-links", "uap_taxonomy": "uap-taxonomy", "dubna_lazar_amentum_llnl_fuel_loop": "fuel-loop",
 }
-SHOWN_LINK = {"cross_archive_links": "TRACKS", "uap_taxonomy": "TRACKS"}
+SHOWN_LINK = {}
 CYR = re.compile("[А-Яа-яЁё]")
 
 
@@ -80,40 +80,63 @@ def describe(files, lang):
             m = re.search(r'^%% Source: README.md section "(.+?)"', t, re.M)
             if m:
                 return pick(clean(m.group(1)), lang)
-            labels = [clean(x) for x in re.findall(r'\["?([^\]"]+)"?\]|\(\("?([^)"]+)', t) for x in x if x]
-            if labels:
-                return ("First labels: " if lang == "en" else "Первые подписи: ") + "; ".join(pick(l.split(" / ")[0] if False else l, lang) for l in labels[:3])
+            found = []
+            for m in re.finditer(r'\["?([^\]"]+)"?\]|\(\("?([^)"]+)', t):
+                lines = (m.group(1) or m.group(2)).split("<br/>")
+                en = next((tidy(l) for l in lines if not CYR.search(l) and len(tidy(l)) >= 4), "")
+                ru = next((tidy(l) for l in lines if CYR.search(l)), "")
+                v = (ru or en) if lang == "ru" else en
+                if v and v not in found:
+                    found.append(v)
+            if found:
+                return ("First boxes: " if lang == "en" else "Первые блоки: ") + "; ".join(found[:3])
     for f in files:
         if f.endswith(".svg"):
             t = source_text(f)
             m = re.search(r"<title[^>]*>([^<]+)</title>", t)
-            if m:
-                return pick(clean(m.group(1)), lang)
+            if m and langpick(clean(m.group(1)), lang):
+                return langpick(clean(m.group(1)), lang)
             texts = [clean(x) for x in re.findall(r"<text[^>]*>([^<]+)</text>", t)]
             texts = [x for x in texts if len(x) > 3]
             if texts:
-                return ("Labels in the figure: " if lang == "en" else "Подписи на рисунке: ") + "; ".join(texts[:3])
+                good = [x for x in (langpick(y, lang) for y in texts) if len(x) >= 6]
+                if good:
+                    return ("Labels in the figure: " if lang == "en" else "Подписи на рисунке: ") + "; ".join(good[:3])
     return ""
 
 
+EMOJI = re.compile("[\U00010000-\U0010ffff\u2600-\u27bf\u2b00-\u2bff\ufe0f\u200d]")
+
+
+def tidy(x):
+    x = EMOJI.sub("", x)
+    x = re.sub(r"\s+", " ", x).strip(" /·-—:;,")
+    while x.endswith(")") and x.count(")") > x.count("("):
+        x = x[:-1].strip()
+    while x.startswith("(") and x.count("(") > x.count(")"):
+        x = x[1:].strip()
+    if x.count("(") > x.count(")"):
+        x = x[: x.rindex("(")].strip(" /·-—:;,")
+    return x
+
+
+def langpick(label, lang):
+    """One language of a (possibly bilingual) label; '' when the label has none in `lang`."""
+    parts = [tidy(p) for p in re.split(r"\s+[/·]\s+", label)]
+    parts = [p for p in parts if p]
+    if len(parts) > 1:
+        want = [p for p in parts if bool(CYR.search(p)) == (lang == "ru")]
+        if want:
+            return want[0]
+    one = tidy(label)
+    if lang == "en":
+        return "" if CYR.search(one) else one
+    return one if CYR.search(one) else ""
+
+
 def onlylang(s, lang):
-    """Keep one language in a quoted label: drop Cyrillic tokens (EN) or lower-case Latin words (RU)."""
-    out = []
-    for lab in s.split("; "):
-        parts = re.split(r"\s+[/·—]\s+", lab)
-        if len(parts) > 1:
-            want = [x for x in parts if bool(CYR.search(x)) == (lang == "ru")]
-            if want:
-                lab = " · ".join(want)
-        toks = lab.split(" ")
-        if lang == "en":
-            toks = [t for t in toks if not CYR.search(t)]
-        elif any(CYR.search(t) for t in toks):
-            toks = [t for t in toks if CYR.search(t) or not re.fullmatch(r"[A-Za-z][a-z']+[,.:]?", t)]
-        lab = " ".join(toks).strip(" /·-:")
-        if lab:
-            out.append(lab)
-    return "; ".join(out)
+    out = [langpick(x, lang) for x in s.split("; ")]
+    return "; ".join(x for x in out if len(x) >= 6)
 
 
 def rel(f):
@@ -171,7 +194,7 @@ def build(lang):
                 n_withheld += 1
                 n_rows += 1
                 continue
-            desc = onlylang(describe(fl, lang), lang)
+            desc = describe(fl, lang)
             if stem in PRIVATE_PERSON_STEMS:
                 desc = ("names individual persons; linked, not described on these pages" if en else "называет отдельных людей; ссылка без описания на этих страницах")
             if not desc:

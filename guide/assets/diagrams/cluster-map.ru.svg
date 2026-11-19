@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1538" width="1100" height="1538" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1560" width="1100" height="1560" role="img" aria-labelledby="t d">
 <title id="t">Карта институциональных кластеров</title>
-<desc id="d">Восемь учреждений слева, одиннадцать случаев справа. Лос-Аламос: Cassias (исчезла в июне 2025) и Chavez (исчез в мае 2025). NASA JPL: Hassen-Tores (исчезла в 2025), Maiwald и Higgs (умерли, причина неясна). AFRL: McCasland (исчез в феврале 2026). МТИ, Центр науки о плазме и термоядерного синтеза: Loureiro (убит, подозреваемый назван, декабрь 2025). Caltech: Grillmar (застрелен дома, февраль 2026). Kansas City National Security Campus: Garcia (исчез в 2025). Institute For Exotic Sciences, Алабама: Eskridge (умерла, причина неясна, 2022). Novarti, Массачусетс: Thomas (тело найдено в озере).</desc>
+<desc id="d">Восемь учреждений слева, одиннадцать пронумерованных случаев справа, люди не названы. Лос-Аламос: случаи 1 (исчез(ла) в июне 2025) и 2 (исчез(ла) в мае 2025). NASA JPL: случай 3 (исчез(ла) в 2025), случаи 4 и 5 (умерли, причина неясна). AFRL: случай 6 (исчез(ла) в феврале 2026). МТИ, Центр науки о плазме и термоядерного синтеза: случай 7 (убит(а), подозреваемый назван, декабрь 2025). Caltech: случай 8 (застрелен(а) дома, февраль 2026). Kansas City National Security Campus: случай 9 (исчез(ла) в 2025). Institute For Exotic Sciences, Алабама: случай 10 (умер(ла), причина неясна, 2022). Novarti, Массачусетс: случай 11 (тело найдено в озере).</desc>
 <defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
-<rect width='1100' height='1538' rx='18' fill='url(#bg)'/>
+<rect width='1100' height='1560' rx='18' fill='url(#bg)'/>
 
 <text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Карта институциональных кластеров</text>
 <text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Одиннадцать случаев по учреждению, с которым связан человек</text>
@@ -50,38 +50,38 @@
 <text x='125.0' y='1162.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Novarti (Massachusetts)</text>
 <text x='125.0' y='1183.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>▪ УЧРЕЖДЕНИЕ</text>
 <rect x='334.0' y='0.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
-<text x='459.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Cassias 06.2025</text>
-<text x='459.0' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗЛА</text>
+<text x='459.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 1 · 06.2025</text>
+<text x='459.0' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ(ЛА)</text>
 <rect x='334.0' y='89.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
-<text x='459.0' y='118.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Chavez 05.2025</text>
-<text x='459.0' y='139.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ</text>
+<text x='459.0' y='118.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 2 · 05.2025</text>
+<text x='459.0' y='139.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ(ЛА)</text>
 <rect x='334.0' y='356.0000000000001' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
-<text x='459.0' y='385.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Hassen-Tores 2025</text>
-<text x='459.0' y='406.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗЛА</text>
+<text x='459.0' y='385.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 3 · 2025</text>
+<text x='459.0' y='406.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ(ЛА)</text>
 <rect x='334.0' y='445.0000000000001' width='250' height='63' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
-<text x='459.0' y='474.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Maiwald</text>
-<text x='459.0' y='495.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ УМЕР, ПРИЧИНА НЕЯСНА</text>
+<text x='459.0' y='474.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 4</text>
+<text x='459.0' y='495.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ УМЕР(ЛА), ПРИЧИНА НЕЯСНА</text>
 <rect x='334.0' y='534.0000000000001' width='250' height='63' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
-<text x='459.0' y='563.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Higgs</text>
-<text x='459.0' y='584.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ УМЕР, ПРИЧИНА НЕЯСНА</text>
+<text x='459.0' y='563.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 5</text>
+<text x='459.0' y='584.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ УМЕР(ЛА), ПРИЧИНА НЕЯСНА</text>
 <rect x='334.0' y='712.0000000000001' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
-<text x='459.0' y='741.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>McCasland 02.2026</text>
-<text x='459.0' y='762.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ</text>
+<text x='459.0' y='741.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 6 · 02.2026</text>
+<text x='459.0' y='762.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ(ЛА)</text>
 <rect x='334.0' y='623.0000000000001' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
-<text x='459.0' y='652.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Loureiro 12.2025</text>
-<text x='459.0' y='673.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ УБИТ</text>
+<text x='459.0' y='652.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 7 · 12.2025</text>
+<text x='459.0' y='673.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ УБИТ(А)</text>
 <rect x='334.0' y='801.0000000000001' width='250' height='83' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
-<text x='459.0' y='830.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Grillmar 02.2026</text>
-<text x='459.0' y='850.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>застрелен</text>
-<text x='459.0' y='871.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ УБИТ</text>
+<text x='459.0' y='830.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 8 · 02.2026</text>
+<text x='459.0' y='850.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>застрелен(а) дома</text>
+<text x='459.0' y='871.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ УБИТ(А)</text>
 <rect x='334.0' y='910.0000000000001' width='250' height='63' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
-<text x='459.0' y='939.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Garcia 2025</text>
-<text x='459.0' y='960.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ</text>
+<text x='459.0' y='939.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 9 · 2025</text>
+<text x='459.0' y='960.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◌ ИСЧЕЗ(ЛА)</text>
 <rect x='334.0' y='999.0' width='250' height='63' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
-<text x='459.0' y='1028.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Eskridge 2022</text>
-<text x='459.0' y='1049.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ УМЕРЛА, ПРИЧИНА НЕЯСНА</text>
+<text x='459.0' y='1028.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 10 · 2022</text>
+<text x='459.0' y='1049.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◧ УМЕР(ЛА), ПРИЧИНА НЕЯСНА</text>
 <rect x='334.0' y='1088.0' width='250' height='83' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
-<text x='459.0' y='1117.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Thomas</text>
+<text x='459.0' y='1117.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай 11</text>
 <text x='459.0' y='1137.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>тело в озере</text>
 <text x='459.0' y='1158.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='800'>▪ ТЕЛО НАЙДЕНО</text>
 </g>
@@ -98,7 +98,8 @@
 <text x='24' y='1382.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перерисовано из</text>
 <text x='24' y='1404.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>people-analysis/diagrams/institutional_cluster_map.mmd;</text>
 <text x='24' y='1426.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>прежний PNG остаётся в репозитории.</text>
-<text x='24' y='1448.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Статусы приведены как записаны в треке; трек не связывает ни один</text>
-<text x='24' y='1470.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>случай с деятельностью, относящейся к НЛО. Отдельные случаи на этих</text>
-<text x='24' y='1492.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>страницах не проверяются.</text>
+<text x='24' y='1448.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Люди пронумерованы, а не названы (частные лица; имена есть в</text>
+<text x='24' y='1470.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>собственных файлах трека). Статусы приведены как записаны в треке,</text>
+<text x='24' y='1492.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>который не связывает ни один случай с деятельностью, относящейся к</text>
+<text x='24' y='1514.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>НЛО; здесь они не проверяются.</text>
 </svg>
