@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 664" width="1200" height="664" role="img" aria-labelledby="t d">
+<title id="t">Eleven tracks in four kinds</title>
+<desc id="d">Eleven track cards in four kinds. Experiment (gold): Track 1, the artifact UAP-FRAG-001 with one percipient session of 3 percipients, 3 AI reports and a 10-stage vision pipeline. Archives of external material (teal): Track 2 Lazar (26 transcripts), Track 3 Chernobrov (22), Track 4 Dubna, Track 10 Gershtein (62), Track 11 PURSUE (225 records, 284 transcripts). Analysis layers (violet): Track 5 OSINT method, Track 6 people, Track 7 corporate, Track 8 synthesis. Catalog (blue): Track 9 literature. Every card ends with a state word.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='664' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Eleven tracks in four kinds</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Only Track 1 is an experiment; the rest record or analyse</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>TRACKS</text>
+<rect x='24' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='38' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>1 · Artifact + ECP session</text>
+<text x='38' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>One object, one session of 3</text>
+<text x='38' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>percipients, 3 AI reports, 10 CV</text>
+<text x='38' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>stages</text>
+<text x='38' y='212.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='start' font-weight='800'>◧ PRELIMINARY</text>
+<rect x='318' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='332' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2 · Bob Lazar archive</text>
+<text x='332' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>26 transcripts 1989-2026: S-4,</text>
+<text x='332' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>element 115. Single-witness claims</text>
+<text x='332' y='192.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>◇ CLAIMS RECORDED</text>
+<rect x='612' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='626' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>3 · Chernobrov archive</text>
+<text x='626' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>22 transcripts 1988-2017: time</text>
+<text x='626' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>machine, anomalous zones. Recorded</text>
+<text x='626' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>claims</text>
+<text x='626' y='212.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>◇ CLAIMS RECORDED</text>
+<rect x='906' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='920' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>4 · Dubna / Element 115</text>
+<text x='920' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>JINR interview, 9 diagrams; the</text>
+<text x='920' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>2004 synthesis is a published result</text>
+<text x='920' y='192.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>✓ COMMITTED</text>
+<rect x='24' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='38' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>5 · OSINT method</text>
+<text x='38' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>5 pages: how to filter ordinary</text>
+<text x='38' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>physics from novelty</text>
+<text x='38' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>✓ COMMITTED</text>
+<rect x='318' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='332' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>6 · People analysis</text>
+<text x='332' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>11 public-source profiles; no cause</text>
+<text x='332' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>of death, no attribution</text>
+<text x='332' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>✓ COMMITTED</text>
+<rect x='612' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='626' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>7 · Corporate analysis</text>
+<text x='626' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>EG&amp;G to Amentum lineage; fuel loop</text>
+<text x='626' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>is a hypothesis map, not a pipeline</text>
+<text x='626' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ HYPOTHESIS MAP</text>
+<rect x='906' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='920' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>8 · Cross-archive synthesis</text>
+<text x='920' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>3 pages at the repository root:</text>
+<text x='920' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>overlaps, taxonomy, podcasts</text>
+<text x='920' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>✓ COMMITTED</text>
+<rect x='24' y='412' width='270' height='142' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='38' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>9 · Literature catalog</text>
+<text x='38' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>49 pages of public-source</text>
+<text x='38' y='483.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>provenance; claims not validated</text>
+<text x='38' y='504.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='start' font-weight='800'>✓ COMMITTED</text>
+<rect x='318' y='412' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='332' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>10 · Gershtein archive</text>
+<text x='332' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>62 interviews: Soviet programs,</text>
+<text x='332' y='483.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>plasma, NDE</text>
+<text x='332' y='504.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>◇ CLAIMS RECORDED</text>
+<rect x='612' y='412' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='626' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>11 · PURSUE releases</text>
+<text x='626' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>225 declassified records, 222 cards;</text>
+<text x='626' y='483.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>claims not imported</text>
+<text x='626' y='504.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>✓ COMMITTED</text>
+<text x='906' y='434' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>KINDS</text>
+<rect x='906' y='452' width='16' height='16' rx='4' fill='#ffcf5c'/>
+<text x='932' y='466' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>experiment</text>
+<rect x='906' y='478' width='16' height='16' rx='4' fill='#4ecdc4'/>
+<text x='932' y='492' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>archive of external material</text>
+<rect x='906' y='504' width='16' height='16' rx='4' fill='#a78bfa'/>
+<text x='932' y='518' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>analysis layer</text>
+<rect x='906' y='530' width='16' height='16' rx='4' fill='#6f9bff'/>
+<text x='932' y='544' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>catalog</text>
+<text x='24' y='630' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Eight tracks are archives of external material; the one experiment</text>
+<text x='24' y='650' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>is Track 1.</text>
+</svg>

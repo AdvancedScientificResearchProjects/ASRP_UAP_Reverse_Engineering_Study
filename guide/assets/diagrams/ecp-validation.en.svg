@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 854" width="1200" height="854" role="img" aria-labelledby="t d">
+<title id="t">Responses against the disclosed reference</title>
+<desc id="d">Ten reference parameters in rows, three percipient columns P1 to P3 (exact, partial, incorrect, no data) and a summary. Beacon: 2 exact, 1 partial. System: 3 exact. No consciousness: 3 exact. Terrain: 1 exact. Non-terrestrial: 3 exact. Stationary: 1 incorrect. Temporal navigation: 1 indirect. Biometal: 3 partial. Variable radioactivity: not detected. Courier: 2 exact. Totals: 7 of 10 with an exact match, 2 partial, 1 miss. Descriptive only because blinding was compromised.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='854' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Responses against the disclosed reference</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>7 exact, 2 partial, 1 miss of 10 parameters; descriptive only</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>VALIDATION</text>
+<text x='24' y='118' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>REFERENCE PARAMETER</text>
+<text x='501.0' y='118' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>P1</text>
+<text x='639.0' y='118' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>P2</text>
+<text x='777.0' y='118' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='middle' font-weight='700'>P3</text>
+<text x='858' y='118' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>SUMMARY</text>
+<text x='24' y='165.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Beacon or signal device</text>
+<rect x='436' y='132' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='501.0' y='165.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='574' y='132' width='130' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='639.0' y='165.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>◧ partial</text>
+<rect x='712' y='132' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='777.0' y='165.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='858' y='132' width='318' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='870' y='165.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>2 exact, 1 partial</text>
+<text x='24' y='227.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Part of a larger system</text>
+<rect x='436' y='194' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='501.0' y='227.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='574' y='194' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='639.0' y='227.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='712' y='194' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='777.0' y='227.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='858' y='194' width='318' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='870' y='227.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>3 exact</text>
+<text x='24' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>No own consciousness</text>
+<rect x='436' y='256' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='501.0' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='574' y='256' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='639.0' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='712' y='256' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='777.0' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='858' y='256' width='318' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='870' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>3 exact</text>
+<text x='24' y='351.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Mountains, desert terrain</text>
+<rect x='436' y='318' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='501.0' y='351.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='574' y='318' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='639.0' y='351.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='712' y='318' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='777.0' y='351.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='858' y='318' width='318' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='870' y='351.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>1 exact</text>
+<text x='24' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Non-terrestrial origin</text>
+<rect x='436' y='380' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='501.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='574' y='380' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='639.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='712' y='380' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='777.0' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='858' y='380' width='318' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='870' y='413.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>3 exact</text>
+<text x='24' y='475.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Stationary, never flew</text>
+<rect x='436' y='442' width='130' height='56' rx='8' fill='#ffa657' fill-opacity='0.10' stroke='#ffa657'/>
+<text x='501.0' y='475.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>✕ incorrect</text>
+<rect x='574' y='442' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='639.0' y='475.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='712' y='442' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='777.0' y='475.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='858' y='442' width='318' height='56' rx='8' fill='#ffa657' fill-opacity='0.10' stroke='#ffa657'/>
+<text x='870' y='475.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>1 incorrect</text>
+<text x='24' y='537.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Temporal navigation</text>
+<rect x='436' y='504' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='501.0' y='537.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='574' y='504' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='639.0' y='537.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='712' y='504' width='130' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='777.0' y='537.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>◧ partial</text>
+<rect x='858' y='504' width='318' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='870' y='537.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>1 indirect</text>
+<text x='24' y='599.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Biometal</text>
+<rect x='436' y='566' width='130' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='501.0' y='599.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>◧ partial</text>
+<rect x='574' y='566' width='130' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='639.0' y='599.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>◧ partial</text>
+<rect x='712' y='566' width='130' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='777.0' y='599.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>◧ partial</text>
+<rect x='858' y='566' width='318' height='56' rx='8' fill='#ffcf5c' fill-opacity='0.10' stroke='#ffcf5c'/>
+<text x='870' y='599.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>3 partial</text>
+<text x='24' y='661.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Variable radioactivity</text>
+<rect x='436' y='628' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='501.0' y='661.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='574' y='628' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='639.0' y='661.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='712' y='628' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='777.0' y='661.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='858' y='628' width='318' height='56' rx='8' fill='#ffa657' fill-opacity='0.10' stroke='#ffa657'/>
+<text x='870' y='661.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>not detected</text>
+<text x='24' y='723.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Courier, passive carrier</text>
+<rect x='436' y='690' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='501.0' y='723.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='574' y='690' width='130' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='639.0' y='723.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>■ exact</text>
+<rect x='712' y='690' width='130' height='56' rx='8' fill='#8ea0d6' fill-opacity='0.10' stroke='#8ea0d6'/>
+<text x='777.0' y='723.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>· no data</text>
+<rect x='858' y='690' width='318' height='56' rx='8' fill='#34d399' fill-opacity='0.10' stroke='#34d399'/>
+<text x='870' y='723.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>2 exact</text>
+<text x='24' y='780' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The ten parameters were scored after the reference was disclosed; no</text>
+<text x='24' y='800' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>chance baseline is computed.</text>
+<text x='24' y='820' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Blinding was compromised for P2 and P3. Source:</text>
+<text x='24' y='840' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>analysis/ecp_validation_report.md, section 4.1.</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>ecosystem and IP</title>
+<desc>Navigation icon: ecosystem and IP.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#6f9bff" stroke-width="3"/>
+<g fill='none' stroke='#6f9bff' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><circle cx='32' cy='32' r='6'/><circle cx='32' cy='14' r='4'/><circle cx='48' cy='41' r='4'/><circle cx='16' cy='41' r='4'/><path d='M32 26V18M37 35l8 4M27 35l-8 4'/></g>
+</svg>

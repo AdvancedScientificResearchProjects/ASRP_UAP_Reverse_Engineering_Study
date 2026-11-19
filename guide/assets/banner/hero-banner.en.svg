@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-labelledby="t d">
+<title id="t">UAP Reverse Engineering</title>
+<desc id="d">Generated illustration, not a screenshot. A central hub with 11 numbered dots for the 11 tracks: gold for the one experiment (Track 1), teal for archives of external material, violet for analysis layers, blue for the literature catalog. Title, and three figures computed from the repository: 11 tracks and 1517 files, one percipient session with 3 percipients, blinding compromised for 2 of 3.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='330' rx='18' fill='url(#bg)'/>
+
+<path d='M270.0,57.0 L351.1,74.1 L406.4,120.1 L418.5,180.4 L383.4,235.7 L312.3,268.6 L227.7,268.6 L156.6,235.7 L121.5,180.4 L133.6,120.1 L188.9,74.1 Z' fill='none' stroke='#2a3b78' stroke-opacity='0.5'/>
+<line x1='270' y1='165' x2='270.0' y2='57.0' stroke='#ffcf5c' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='2.2s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='351.1' y2='74.1' stroke='#4ecdc4' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='2.4s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='406.4' y2='120.1' stroke='#4ecdc4' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='2.6s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='418.5' y2='180.4' stroke='#4ecdc4' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='2.8s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='383.4' y2='235.7' stroke='#a78bfa' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.0s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='312.3' y2='268.6' stroke='#a78bfa' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.2s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='227.7' y2='268.6' stroke='#a78bfa' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.4s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='156.6' y2='235.7' stroke='#a78bfa' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.6s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='121.5' y2='180.4' stroke='#6f9bff' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.8s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='133.6' y2='120.1' stroke='#4ecdc4' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='4.0s' repeatCount='indefinite'/></line>
+<line x1='270' y1='165' x2='188.9' y2='74.1' stroke='#4ecdc4' stroke-width='1.4' stroke-opacity='0.7' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='4.2s' repeatCount='indefinite'/></line>
+<circle cx='270' cy='165' r='38' fill='#0b1430' stroke='#4ecdc4' stroke-width='2' filter='url(#glow)'/>
+<text x='270' y='171' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='18' fill='#e6ecff' text-anchor='middle' font-weight='800' letter-spacing='1'>UAP</text>
+<circle cx='270.0' cy='57.0' r='15' fill='#070b18' stroke='#ffcf5c' stroke-width='2.4'/>
+<text x='270.0' y='62.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>1</text>
+<circle cx='351.1' cy='74.1' r='15' fill='#070b18' stroke='#4ecdc4' stroke-width='2.4'/>
+<text x='351.1' y='79.1' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>2</text>
+<circle cx='406.4' cy='120.1' r='15' fill='#070b18' stroke='#4ecdc4' stroke-width='2.4'/>
+<text x='406.4' y='125.1' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>3</text>
+<circle cx='418.5' cy='180.4' r='15' fill='#070b18' stroke='#4ecdc4' stroke-width='2.4'/>
+<text x='418.5' y='185.4' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>4</text>
+<circle cx='383.4' cy='235.7' r='15' fill='#070b18' stroke='#a78bfa' stroke-width='2.4'/>
+<text x='383.4' y='240.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>5</text>
+<circle cx='312.3' cy='268.6' r='15' fill='#070b18' stroke='#a78bfa' stroke-width='2.4'/>
+<text x='312.3' y='273.6' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>6</text>
+<circle cx='227.7' cy='268.6' r='15' fill='#070b18' stroke='#a78bfa' stroke-width='2.4'/>
+<text x='227.7' y='273.6' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>7</text>
+<circle cx='156.6' cy='235.7' r='15' fill='#070b18' stroke='#a78bfa' stroke-width='2.4'/>
+<text x='156.6' y='240.7' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>8</text>
+<circle cx='121.5' cy='180.4' r='15' fill='#070b18' stroke='#6f9bff' stroke-width='2.4'/>
+<text x='121.5' y='185.4' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>9</text>
+<circle cx='133.6' cy='120.1' r='15' fill='#070b18' stroke='#4ecdc4' stroke-width='2.4'/>
+<text x='133.6' y='125.1' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>10</text>
+<circle cx='188.9' cy='74.1' r='15' fill='#070b18' stroke='#4ecdc4' stroke-width='2.4'/>
+<text x='188.9' y='79.1' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>11</text>
+<text x='480' y='66' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700' letter-spacing='2'>REVERSE ENGINEERING HUB</text>
+<text x='1164' y='36' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='end' font-weight='700' letter-spacing='2'>PUBLIC · EXPLORATORY · FINDINGS PRELIMINARY</text>
+<text x='480' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='46' fill='#e6ecff' text-anchor='start' font-weight='800'>UAP Reverse Engineering</text>
+<text x='480' y='172' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#8ea0d6' text-anchor='start' font-weight='400'>One small experiment, ten archives and layers:</text>
+<text x='480' y='200' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#8ea0d6' text-anchor='start' font-weight='400'>what is recorded, what is only claimed</text>
+<rect x='480.0' y='246' width='186.1' height='38' rx='19' fill='#ffcf5c' fill-opacity='0.08' stroke='#ffcf5c'/>
+<text x='573.0' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>11 tracks · 1517 files</text>
+<rect x='674.1' y='246' width='200.2' height='38' rx='19' fill='#4ecdc4' fill-opacity='0.08' stroke='#4ecdc4'/>
+<text x='774.2' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>1 session · 3 percipients</text>
+<rect x='882.2' y='246' width='183.4' height='38' rx='19' fill='#ffa657' fill-opacity='0.08' stroke='#ffa657'/>
+<text x='973.9' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>blinding broken: 2 of 3</text>
+<text x='24' y='316' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>gold experiment · teal archive · violet analysis · blue catalog</text>
+</svg>

@@ -1,0 +1,704 @@
+{
+ "waivers": [
+  {
+   "check": "H3_numbers_missing",
+   "match": "\"2026-04-04-001\"",
+   "reason": "PII — privacy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
+  },
+  {
+   "check": "H3_numbers_missing",
+   "match": "\"2026-04-04-002\"",
+   "reason": "PII — privacy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
+  },
+  {
+   "check": "H3_numbers_missing",
+   "match": "\"2026-04-04-003\"",
+   "reason": "PII — privacy: these numbers belong to the file names of the percipient reports, which contain participant names; the old folder tree is replaced by the generated tree without those names."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"AI Pipeline Summary\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ASRP ECOSYSTEM\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ASRP Ecosystem\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Artifact Investigation\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Belousova Ekaterina\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Bob Lazar Archive\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Burilova Tatyana\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"CONTACT INFORMATION\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"CV Analysis Results\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Corporate HSP\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Cross-archive Synthesis\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Current Status\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Data Classification\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"EDUCATIONAL PROGRAM\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Economic Analysis\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Evidence Synthesis Flow\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Gershtein Archive\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"HSP GROUP\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"HSP Percipient\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Key AI Findings\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Key Metrics\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"NAVIGATION INDEX\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Navigation Index\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"OSF PREREGISTRATION\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"OSF Preregistration\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"PATENT CONNECTION\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Patent Connection\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"People Analysis\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"RESEARCH PIPELINES\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"RESEARCH TEAM\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"RESEARCH TRACKS\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Reference Validation Map\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Research At\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Research Overview\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Research Pipelines\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Research Tracks\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Response Agreement Map\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Semiletov Vladislav\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Session Blinding Sequence\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"TABLE OF CONTENTS\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Vadim Chernobrov Archive\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Visual Evidence\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Working Hypotheses\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Белоусова Екатерина\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Бурилова Татьяна\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Валидация КП Трека\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Визуализация Трека\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ГРУППА ВСКЧ\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Дампы Perplexity\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ИССЛЕДОВАТЕЛЬСКАЯ КОМАНДА\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ИССЛЕДОВАТЕЛЬСКИЕ КОНВЕЙЕРЫ\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ИССЛЕДОВАТЕЛЬСКИЕ ТРЕКИ\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"КОНТАКТНАЯ ИНФОРМАЦИЯ\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"НАВИГАЦИОННЫЙ ИНДЕКС\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ОБРАЗОВАТЕЛЬНАЯ ПРОГРАММА\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Отчёты Трека\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ПРЕДВАРИТЕЛЬНАЯ РЕГИСТРАЦИЯ OSF\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Перципиент ВСКЧ\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Подразделы Трека\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Протокол HSP-скана\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"СВЯЗЬ С ПАТЕНТОМ\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Сводка ИИ-конвейера\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Семилетов Владислав\"",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Транскрипт YouTube\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ЭКОСИСТЕМА ASRP\"",
+   "reason": "Not a loss: heading, label or tree comment of the old README renamed, split by language or regenerated (tools/tree.py, tools/build_legacy_map.py); the legacy anchor of every old heading is kept in README.md (check H6)."
+  },
+  {
+   "check": "S4_numbers_missing_in_en",
+   "match": "\"19.04.2026\"",
+   "reason": "The English pages write this date in ISO form (2026-04-19); the Russian pages keep the dd.mm.yyyy form of the old Russian text."
+  },
+  {
+   "check": "S4_numbers_missing_in_en",
+   "match": "\"26.04.2026\"",
+   "reason": "The English pages write this date in ISO form (2026-04-26); the Russian pages keep the dd.mm.yyyy form of the old Russian text."
+  },
+  {
+   "check": "S4_numbers_missing_in_ru",
+   "match": "\"2026-04-26\"",
+   "reason": "The Russian pages write this date as 26.04.2026, as the old Russian text did."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "1. [Overview / Обзор](#overview--обзор)",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "2. [Research Tracks / Исследовательские треки](#research-tra",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "13. [Track 11 — PURSUE Declassification / Трек 11 — Рассекре",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "14. [Team / Команда](#research-team--исследовательская-коман",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "15. [Structure / Структура](#structure--структура)",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "16. [Security / Безопасность](#security--безопасность)",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "17. [Research Pipelines / Исследовательские конвейеры](#rese",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "18. [OSF Preregistration / Предварительная регистрация OSF](",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "19. [ASRP Ecosystem / Экосистема ASRP](#asrp-ecosystem--экос",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "20. [Contact / Контакты](#corporate-contact--корпоративные-к",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "21. [Disclaimer / Отказ от ответственности](#disclaimer--отк",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "22. [Navigation Index / Навигационный индекс](#navigation-in",
+   "reason": "Table of contents of the old README: replaced by the 'On this page' line and the Quick navigation table; every old heading anchor is kept (H6)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "The README below is a **navigation hub**: the tracks index i",
+   "reason": "Self-reference to the old README layout; the pages say so in the past tense (guide/STUDY*.md) and the old README is archived."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "README ниже — это **навигационный хаб**: индекс треков — цен",
+   "reason": "Self-reference to the old README layout; the pages say so in the past tense (guide/STUDY*.md) and the old README is archived."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "(see Track 1 sections below / см. разделы Трека 1 ниже)",
+   "reason": "Lead-file cell of Track 1: replaced by a link to guide/EXPERIMENT*.md."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Track 1 sub-sections / Подразделы Трека 1",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Sub-section / Подраздел",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Purpose / Назначение",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Numeric summary of UAP-FRAG-001 study / Числовая сводка по U",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Cross-percipient and reference metrics / Межперципиентные и ",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Supported / partial / open hypotheses / Поддержанные / части",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "[Visual Evidence / Визуализация](#visual-evidence--визуализа",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Diagrams and matrices / Диаграммы и матрицы",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "AI pipeline summary and key findings / Сводка ИИ-конвейера и",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Session and analysis chronology / Хронология сеанса и анализ",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "LLM-based visual identification / LLM-визуальная идентификац",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Research At a Glance / Исследование в цифрах",
+   "reason": "Table of Track 1 sub-sections of the old README: replaced by the sections of guide/EXPERIMENT*.md and its 'Where the Track 1 files are' table; bilingual cells are split by language."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Artifact ID / ID артефакта",
+   "reason": "Bilingual heading or table cell split by language into the two page sets; the legacy anchor is kept."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Current Status / Текущий статус",
+   "reason": "Bilingual heading or table cell split by language into the two page sets; the legacy anchor is kept."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Present only in Tatyana's wording / Присутствует только в фо",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3). The hypothesis is kept as 'one percipient's wording'."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Visual Evidence / Визуализация данных",
+   "reason": "Bilingual label or table cell split by language across the EN and RU page sets."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Response Agreement Map / Карта согласованности ответов",
+   "reason": "Bilingual label or table cell split by language across the EN and RU page sets."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "![ECP response agreement matrix](charts/ecp_response_agreeme",
+   "reason": "Image of the old README that names the percipients in its column heads: redrawn without names as guide/assets/diagrams/ecp-agreement and ecp-validation (EN/RU); the original file stays in charts/ and is named in guide/EXPERIMENT*.md."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "EN:** This matrix visualizes repeated themes in the recorded",
+   "reason": "Caption of a matrix image: the redrawn diagrams carry the same caution in their subtitle and footer."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "RU:** Эта матрица визуализирует только повторяющиеся темы в ",
+   "reason": "Caption of a matrix image: the redrawn diagrams carry the same caution in their subtitle and footer."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Reference Validation Map / Карта валидации по референсу",
+   "reason": "Bilingual label or table cell split by language across the EN and RU page sets."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "![ECP reference validation matrix](charts/ecp_reference_vali",
+   "reason": "Image of the old README that names the percipients in its column heads: redrawn without names as guide/assets/diagrams/ecp-agreement and ecp-validation (EN/RU); the original file stays in charts/ and is named in guide/EXPERIMENT*.md."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Belousova Ekaterina / Белоусова Екатерина",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "HSP Percipient / Перципиент ВСКЧ",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Semiletov Vladislav / Семилетов Владислав",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "Burilova Tatyana / Бурилова Татьяна",
+   "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "├── README.md                          # Hub entry point / Т",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── cross_comparison.md            # Track 1 cross-pipel",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── ecp_validation_report.md       # Track 1 ECP validat",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── diagrams/rendered/             # 9 rendered diagrams",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── analysis/                      # 4 analysis files / ",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── diagrams/rendered/             # 4 diagrams / 4 диаг",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── diagrams/rendered/             # 5 diagrams / 5 диаг",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── analysis/                      # 8 analysis files + ",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── companies/                     # 8 company profiles ",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── people/_scan-targets/          # 2 HSP scan dossiers",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── diagrams/rendered/             # 9 diagrams (3 v1 + ",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "├── charts/                            # Track 1 visual evid",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── mermaid/                       # Mermaid-rendered di",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── protocol_ecp.md                # ECP protocol v2.0 /",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── protocol_corporate_scan.md     # Corporate HSP scan ",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "├── reports/                           # Track 1 research re",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── percipient_reports/            # Percipient reports ",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   │   ├── ECP-2026-04-04-001-vladislav.md",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   │   ├── ECP-2026-04-04-002-ekaterina.md",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   │   └── ECP-2026-04-04-003-tatyana.md",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── ai_reports/                    # AI analysis reports",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   ├── raw/                           # Raw input data / Не",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "│   └── processed/                     # Pipeline output / Р",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "├── docs/                              # Documentation / Док",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "├── hardware/                          # Hardware documentat",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "└── pipeline/                          # Analysis pipeline c",
+   "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
+  },
+  {
+   "check": "S2_low_coverage_segments",
+   "match": "CONTACT INFORMATION / КОНТАКТНАЯ ИНФОРМАЦИЯ",
+   "reason": "Bilingual heading or table cell split by language into the two page sets; the legacy anchor is kept."
+  }
+ ]
+}

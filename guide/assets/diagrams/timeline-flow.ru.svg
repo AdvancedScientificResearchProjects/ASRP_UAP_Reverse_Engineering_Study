@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1676 332" width="1676" height="332" role="img" aria-labelledby="t d">
+<title id="t">Временная шкала</title>
+<desc id="d">Цепочка из шести шагов слева направо: сеанс КП 2026-04-04, сравнение 2026-04-06, валидация 2026-04-06, ИИ-конвейер 2026-04-07, LLM-анализ 2026-04-07, отчёт опубликован 2026-04-07. Первый и последний шаги отмечены.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1676' height='332' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Временная шкала</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Шесть шагов, 4-7 апреля 2026</text>
+<text x='1652' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ИСХОДНАЯ СХЕМА 5</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M200.0,52.0 C242.0,52.0 242.0,52.0 284.0,52.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M484.0,52.0 C526.0,52.0 526.0,52.0 568.0,52.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M768.0,52.0 C810.0,52.0 810.0,52.0 852.0,52.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1052.0,52.0 C1094.0,52.0 1094.0,52.0 1136.0,52.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1336.0,52.0 C1378.0,52.0 1378.0,52.0 1420.0,52.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<rect x='0.0' y='0.0' width='200' height='104' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='100.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-04</text>
+<text x='100.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Сеанс КП</text>
+<text x='100.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ ПЕРВЫЙ ИЛИ</text>
+<text x='100.0' y='91.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>ПОСЛЕДНИЙ ШАГ</text>
+<rect x='284.0' y='21.0' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='384.0' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-06</text>
+<text x='384.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Сравнение</text>
+<rect x='568.0' y='21.0' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='668.0' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-06</text>
+<text x='668.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Валидация</text>
+<rect x='852.0' y='21.0' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='952.0' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-07</text>
+<text x='952.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>ИИ Конвейер</text>
+<rect x='1136.0' y='21.0' width='200' height='62' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1236.0' y='50.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-07</text>
+<text x='1236.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>LLM Анализ</text>
+<rect x='1420.0' y='0.0' width='200' height='104' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1520.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-04-07</text>
+<text x='1520.0' y='49.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Отчёт Опубликован</text>
+<text x='1520.0' y='70.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>■ ПЕРВЫЙ ИЛИ</text>
+<text x='1520.0' y='91.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>ПОСЛЕДНИЙ ШАГ</text>
+</g>
+<circle cx='30' cy='238.0' r='5' fill='#6f9bff'/>
+<text x='44' y='242.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>шаг</text>
+<circle cx='107.3' cy='238.0' r='5' fill='#34d399'/>
+<text x='121.3' y='242.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>первый или последний шаг</text>
+<text x='24' y='264.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перерисовано из Mermaid-источника charts/mermaid/root_5.mmd; прежний</text>
+<text x='24' y='286.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>PNG остаётся в репозитории.</text>
+</svg>

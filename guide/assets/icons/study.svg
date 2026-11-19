@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>the study</title>
+<desc>Navigation icon: the study.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#4ecdc4" stroke-width="3"/>
+<g fill='none' stroke='#4ecdc4' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><circle cx='32' cy='32' r='16'/><circle cx='32' cy='32' r='5'/><path d='M32 12v8M32 44v8M12 32h8M44 32h8'/></g>
+</svg>

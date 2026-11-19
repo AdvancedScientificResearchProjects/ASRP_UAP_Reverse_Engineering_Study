@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>claimed versus shown</title>
+<desc>Navigation icon: claimed versus shown.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#ffcf5c" stroke-width="3"/>
+<g fill='none' stroke='#ffcf5c' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><circle cx='28' cy='28' r='13'/><path d='M38 38l12 12M23 28l4 4 7-8'/></g>
+</svg>

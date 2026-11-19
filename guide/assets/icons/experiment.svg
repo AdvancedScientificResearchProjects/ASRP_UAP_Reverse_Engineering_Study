@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>the experiment</title>
+<desc>Navigation icon: the experiment.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#ffa657" stroke-width="3"/>
+<g fill='none' stroke='#ffa657' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><path d='M26 12h12M29 12v14L17 48a4 4 0 0 0 4 6h22a4 4 0 0 0 4-6L35 26V12'/><path d='M23 40h18'/></g>
+</svg>

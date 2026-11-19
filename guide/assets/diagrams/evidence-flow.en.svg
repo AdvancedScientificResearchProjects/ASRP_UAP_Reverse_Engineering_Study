@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1642 338" width="1642" height="338" role="img" aria-labelledby="t d">
+<title id="t">Evidence synthesis flow</title>
+<desc id="d">Flow diagram, left to right. Raw percipient statements become normalized themes, then cross-response agreement, then reference validation, then repository-level hypotheses. A second path runs from the raw statements through the primary reports into the cross-response agreement.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1642' height='338' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Evidence synthesis flow</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>From raw statements to repository-level hypotheses</text>
+<text x='1618' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ORIGINAL FIGURE 3</text>
+<g transform='translate(28.0,108.0)'>
+<defs><marker id='k6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M250.0,55.0 C292.0,55.0 292.0,21.0 334.0,21.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,21.0 C626.0,21.0 626.0,55.0 668.0,55.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M918.0,55.0 C960.0,55.0 960.0,55.0 1002.0,55.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M1252.0,55.0 C1294.0,55.0 1294.0,55.0 1336.0,55.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M250.0,55.0 C292.0,55.0 292.0,89.0 334.0,89.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<path d='M584.0,89.0 C626.0,89.0 626.0,55.0 668.0,55.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#k6f9bff)' stroke-opacity='0.9'/>
+<rect x='0.0' y='34.0' width='250' height='42' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='125.0' y='63.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Raw percipient statements</text>
+<rect x='334.0' y='0.0' width='250' height='42' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='459.0' y='29.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Normalized themes</text>
+<rect x='668.0' y='34.0' width='250' height='42' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='793.0' y='63.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Cross-response agreement</text>
+<rect x='1002.0' y='34.0' width='250' height='42' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1127.0' y='63.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Reference validation</text>
+<rect x='1336.0' y='12.5' width='250' height='85' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1461.0' y='41.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Repository-level</text>
+<text x='1461.0' y='63.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>hypotheses</text>
+<text x='1461.0' y='84.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ HYPOTHESIS</text>
+<rect x='334.0' y='68.0' width='250' height='42' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='459.0' y='97.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Primary reports</text>
+</g>
+<circle cx='30' cy='244.0' r='5' fill='#4ecdc4'/>
+<text x='44' y='248.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>input</text>
+<circle cx='113.02000000000001' cy='244.0' r='5' fill='#6f9bff'/>
+<text x='127.02000000000001' y='248.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>analysis step</text>
+<circle cx='247.52000000000004' cy='244.0' r='5' fill='#a78bfa'/>
+<text x='261.52000000000004' y='248.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>hypothesis, not a result</text>
+<text x='24' y='270.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Redrawn from the Mermaid source `charts/mermaid/root_3.mmd`; the</text>
+<text x='24' y='292.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>previous PNG render stays in the repository.</text>
+</svg>

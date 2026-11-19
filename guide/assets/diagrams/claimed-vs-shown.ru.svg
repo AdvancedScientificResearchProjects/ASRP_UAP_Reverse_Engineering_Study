@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1052" width="1200" height="1052" role="img" aria-labelledby="t d">
+<title id="t">Что заявлено и что показывает репозиторий</title>
+<desc id="d">Восемь строк слева направо: тема, что заявлено, что показывает репозиторий, слово-состояние. Сеанс КП: 7 из 10 параметров референса совпали, только описательно; ослепление нарушено у 2 из 3; шансового базиса нет; Референс: Утверждения руководителя программы; отчётов SEM, XRF или гамма в репозитории нет; Итог ИИ: 0.98 это оценка обрезанного фото; полное фото даёт 0.89, внутри диапазона окаменелостей; аномальное происхождение не подтверждено и не исключено; Лаборатория: Рекомендован в отчёте контрольного теста; лабораторного результата в репозитории нет; Архивы 2, 3, 10: Свидетельства и интервью записаны как заявления; физического материала в открытом доступе нет; Узлы аутрича: Только в JSON графа; ни письма, ни ответа, ни даты в корпусе нет; Патент: README: заявки нет; онкологический текст это спекуляция из книги; Курс: Описан как разрабатываемый; не запущен, без даты и сертификата</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='1052' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Что заявлено и что показывает репозиторий</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Слева: README, референс или граф. Справа: что показывают файлы</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ЗАЯВЛЕНО И ПОКАЗАНО</text>
+<text x='24' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>ТЕМА</text>
+<text x='196' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>ЗАЯВЛЕНО</text>
+<text x='520' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>ПОКАЗАНО В РЕПОЗИТОРИИ</text>
+<text x='1000' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>СОСТОЯНИЕ</text>
+<text x='24' y='179.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Сеанс КП</text>
+<rect x='196' y='124' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Перципиенты назвали функцию,</text>
+<text x='210' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>принадлежность к системе, материал</text>
+<rect x='520' y='124' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='534' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>7 из 10 параметров референса совпали, только описательно;</text>
+<text x='534' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ослепление нарушено у 2 из 3; шансового базиса нет</text>
+<rect x='1000' y='124' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1088.0' y='181.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◧ ЧАСТИЧНО</text>
+<text x='24' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Референс</text>
+<rect x='196' y='232' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='279.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Навигационный маяк, биометалл,</text>
+<text x='210' y='299.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>переменная радиоактивность</text>
+<rect x='520' y='232' width='456' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='534' y='279.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Утверждения руководителя программы; отчётов SEM, XRF</text>
+<text x='534' y='299.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>или гамма в репозитории нет</text>
+<rect x='1000' y='232' width='176' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1088.0' y='279.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ ТОЛЬКО</text>
+<text x='1088.0' y='300.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>ЗАЯВЛЕНО</text>
+<text x='24' y='395.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Итог ИИ</text>
+<rect x='196' y='340' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='397.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Биологическое семейство, оценка 0.98</text>
+<rect x='520' y='340' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='534' y='377.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>0.98 это оценка обрезанного фото; полное фото даёт 0.89,</text>
+<text x='534' y='397.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>внутри диапазона окаменелостей; аномальное</text>
+<text x='534' y='417.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>происхождение не подтверждено и не исключено</text>
+<rect x='1000' y='340' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1088.0' y='397.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◧ ЧАСТИЧНО</text>
+<text x='24' y='503.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Лаборатория</text>
+<rect x='196' y='448' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='495.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Нужен, чтобы решить вопрос материала и</text>
+<text x='210' y='515.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>радиоактивности</text>
+<rect x='520' y='448' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='534' y='495.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Рекомендован в отчёте контрольного теста; лабораторного</text>
+<text x='534' y='515.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>результата в репозитории нет</text>
+<rect x='1000' y='448' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1088.0' y='505.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ ОТСУТСТВУЕТ</text>
+<text x='24' y='611.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Архивы 2, 3, 10</text>
+<rect x='196' y='556' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='603.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>S-4, гравитационная тяга, машина</text>
+<text x='210' y='623.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>времени, советские программы</text>
+<rect x='520' y='556' width='456' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='534' y='603.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Свидетельства и интервью записаны как заявления;</text>
+<text x='534' y='623.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>физического материала в открытом доступе нет</text>
+<rect x='1000' y='556' width='176' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1088.0' y='603.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ ТОЛЬКО</text>
+<text x='1088.0' y='624.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>ЗАЯВЛЕНО</text>
+<text x='24' y='719.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Узлы аутрича</text>
+<rect x='196' y='664' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='711.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>DoE/LANL первый читатель, Stanford,</text>
+<text x='210' y='731.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>NCI, Boeing, Cortical Labs</text>
+<rect x='520' y='664' width='456' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='534' y='711.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Только в JSON графа; ни письма, ни ответа, ни даты в корпусе</text>
+<text x='534' y='731.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>нет</text>
+<rect x='1000' y='664' width='176' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1088.0' y='711.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ ТОЛЬКО</text>
+<text x='1088.0' y='732.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>ЗАЯВЛЕНО</text>
+<text x='24' y='827.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Патент</text>
+<rect x='196' y='772' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='819.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Граф: патент FBHFS якорь для</text>
+<text x='210' y='839.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>UAP-смежной онкологической рамки</text>
+<rect x='520' y='772' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='534' y='819.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>README: заявки нет; онкологический текст это спекуляция из</text>
+<text x='534' y='839.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>книги</text>
+<rect x='1000' y='772' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1088.0' y='829.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ ОТСУТСТВУЕТ</text>
+<text x='24' y='935.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Курс</text>
+<rect x='196' y='880' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='937.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Курс по НАЯ на Arcanum-12</text>
+<rect x='520' y='880' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='534' y='927.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Описан как разрабатываемый; не запущен, без даты и</text>
+<text x='534' y='947.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>сертификата</text>
+<rect x='1000' y='880' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1088.0' y='937.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◌ НЕ ЗАПУЩЕНО</text>
+<text x='24' y='998' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Каждая строка называет состояние словом; план, протокол или узел</text>
+<text x='24' y='1018' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>графа не результат.</text>
+<text x='24' y='1038' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Источники: guide/EVIDENCE.ru.md называет файл за каждой строкой.</text>
+</svg>

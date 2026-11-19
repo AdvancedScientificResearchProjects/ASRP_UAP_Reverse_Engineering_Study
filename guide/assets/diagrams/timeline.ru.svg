@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d">
+<title id="t">2026 год в исследовании и даты из архивов</title>
+<desc id="d">Две полосы. Верхняя в масштабе, 2026-04-01 .. 2026-07-18: 2026-04-01 Первый коммит репозитория; 2026-04-04 Сеанс КП ECP-2026-04-04, три перципиента; 2026-04-06 Отчёт валидации: референс против ответов; 2026-04-07 ИИ-отчёт: сегментация, SigLIP2, аномалии, глубина; 2026-04-09 Контрольный тест ИИ: полное фото, 13 контролей; 2026-04-19 Заявление ФБР о консолидации (пересказ; не проверено); 2026-05-08 PURSUE Релиз 01: 161 запись; 2026-05-22 PURSUE Релиз 02: 64 записи; 2026-07-18 Последний коммит до витрины. Нижняя не в масштабе, даты, записанные архивами: 1989 Начало выступлений Лазара (корпус 1989-2026); 2004 Опубликован синтез 115 элемента ОИЯИ+LLNL (Phys. Rev. C); 2021-09-28 Интервью по Дубне записано; 2025-12-09 Интервью по Дубне опубликовано.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='800' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>2026 год в исследовании и даты из архивов</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Верхняя полоса в масштабе, апрель-июль 2026. Нижняя не в масштабе</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ХРОНОЛОГИЯ</text>
+<text x='24' y='104' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>ЭТО ИССЛЕДОВАНИЕ, 2026 (в масштабе)</text>
+<line x1='40' y1='300' x2='1160' y2='300' stroke='#2a3b78' stroke-width='2.4'/>
+<circle cx='60.0' cy='300' r='7' fill='#070b18' stroke='#4ecdc4' stroke-width='2'/>
+<path d='M60.0 308 L60.0 347 L166 347' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='176' y='352' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='700'>2026-04-01</text>
+<text x='286' y='352' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>Первый коммит репозитория</text>
+<circle cx='90.0' cy='300' r='7' fill='#070b18' stroke='#4ecdc4' stroke-width='2'/>
+<path d='M90.0 308 L90.0 385 L166 385' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='176' y='390' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='700'>2026-04-04</text>
+<text x='286' y='390' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>Сеанс КП ECP-2026-04-04, три перципиента</text>
+<circle cx='110.0' cy='300' r='7' fill='#070b18' stroke='#4ecdc4' stroke-width='2'/>
+<path d='M110.0 308 L110.0 423 L166 423' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='176' y='428' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='700'>2026-04-06</text>
+<text x='286' y='428' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>Отчёт валидации: референс против ответов</text>
+<circle cx='120.0' cy='300' r='7' fill='#070b18' stroke='#4ecdc4' stroke-width='2'/>
+<path d='M120.0 308 L120.0 461 L166 461' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='176' y='466' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='700'>2026-04-07</text>
+<text x='286' y='466' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>ИИ-отчёт: сегментация, SigLIP2, аномалии, глубина</text>
+<circle cx='140.0' cy='300' r='7' fill='#070b18' stroke='#4ecdc4' stroke-width='2'/>
+<path d='M140.0 308 L140.0 499 L166 499' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='176' y='504' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='700'>2026-04-09</text>
+<text x='286' y='504' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>Контрольный тест ИИ: полное фото, 13 контролей</text>
+<circle cx='240.0' cy='300' r='7' fill='#070b18' stroke='#ffcf5c' stroke-width='2'/>
+<path d='M240.0 292 L240.0 145 L248.0 145' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='254.0' y='150' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='600'>2026-04-19  Заявление ФБР о консолидации (пересказ; не проверено)</text>
+<circle cx='430.0' cy='300' r='7' fill='#070b18' stroke='#ffcf5c' stroke-width='2'/>
+<path d='M430.0 292 L430.0 179 L438.0 179' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='444.0' y='184' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='600'>2026-05-08  PURSUE Релиз 01: 161 запись</text>
+<circle cx='570.0' cy='300' r='7' fill='#070b18' stroke='#ffcf5c' stroke-width='2'/>
+<path d='M570.0 292 L570.0 213 L578.0 213' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='584.0' y='218' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='600'>2026-05-22  PURSUE Релиз 02: 64 записи</text>
+<circle cx='1140.0' cy='300' r='7' fill='#070b18' stroke='#ffcf5c' stroke-width='2'/>
+<path d='M1140.0 292 L1140.0 247 L1132.0 247' fill='none' stroke='#2a3b78' stroke-opacity='0.7'/>
+<text x='1126.0' y='252' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='end' font-weight='600'>2026-07-18  Последний коммит до витрины</text>
+<line x1='60.0' y1='294' x2='60.0' y2='306' stroke='#8ea0d6'/>
+<text x='64.0' y='322' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>апр</text>
+<line x1='360.0' y1='294' x2='360.0' y2='306' stroke='#8ea0d6'/>
+<text x='364.0' y='322' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>май</text>
+<line x1='670.0' y1='294' x2='670.0' y2='306' stroke='#8ea0d6'/>
+<text x='674.0' y='322' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>июн</text>
+<line x1='970.0' y1='294' x2='970.0' y2='306' stroke='#8ea0d6'/>
+<text x='974.0' y='322' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>июл</text>
+<text x='24' y='604' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#a78bfa' text-anchor='start' font-weight='700'>ДАТЫ, ЗАПИСАННЫЕ АРХИВАМИ (не в масштабе)</text>
+<rect x='24.0' y='624' width='277.5' height='112' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='38.0' y='655.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>1989</text>
+<text x='38.0' y='675.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Начало выступлений Лазара</text>
+<text x='38.0' y='695.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(корпус 1989-2026)</text>
+<rect x='315.5' y='624' width='277.5' height='112' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='329.5' y='655.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2004</text>
+<text x='329.5' y='675.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Опубликован синтез 115 элемента</text>
+<text x='329.5' y='695.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ОИЯИ+LLNL (Phys. Rev. C)</text>
+<rect x='607.0' y='624' width='277.5' height='112' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='621.0' y='655.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2021-09-28</text>
+<text x='621.0' y='675.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Интервью по Дубне записано</text>
+<rect x='898.5' y='624' width='277.5' height='112' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='912.5' y='655.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2025-12-09</text>
+<text x='912.5' y='675.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Интервью по Дубне опубликовано</text>
+<text x='24' y='766' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Даты верхней полосы взяты из указанных отчётов; дата ФБР из</text>
+<text x='24' y='786' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пересказа одного автора.</text>
+</svg>

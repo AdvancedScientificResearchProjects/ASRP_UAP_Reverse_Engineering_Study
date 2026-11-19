@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-labelledby="t d">
+<title id="t">Кто что слышал перед ответом</title>
+<desc id="d">Диаграмма последовательности одного группового звонка с модератором и тремя перципиентами P1, P2, P3, имена не приводятся. Модератор сначала запрашивает P1 и получает ответ без подсказок; запрашивает P2 после ответа P1, так что P2 слышала P1; запрашивает P3 после обоих, так что P3 слышала оба ответа. P1 частично слепой (видел объект раньше без пояснений); у P2 и P3 ослепление нарушено. Будущие сеансы нужно проводить индивидуально.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='600' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Кто что слышал перед ответом</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Один групповой звонок, вопросы по очереди; имена не приводятся</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ОСЛЕПЛЕНИЕ</text>
+<rect x='70' y='96' width='160' height='44' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='150.0' y='126.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Модератор</text>
+<line x1='150' y1='142' x2='150' y2='458' stroke='#2a3b78' stroke-width='1.4' stroke-dasharray='3 6' stroke-opacity='0.7'/>
+<rect x='370' y='96' width='160' height='44' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='450.0' y='126.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>P1</text>
+<line x1='450' y1='142' x2='450' y2='458' stroke='#2a3b78' stroke-width='1.4' stroke-dasharray='3 6' stroke-opacity='0.7'/>
+<rect x='670' y='96' width='160' height='44' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='750.0' y='126.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>P2</text>
+<line x1='750' y1='142' x2='750' y2='458' stroke='#2a3b78' stroke-width='1.4' stroke-dasharray='3 6' stroke-opacity='0.7'/>
+<rect x='970' y='96' width='160' height='44' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1050.0' y='126.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>P3</text>
+<line x1='1050' y1='142' x2='1050' y2='458' stroke='#2a3b78' stroke-width='1.4' stroke-dasharray='3 6' stroke-opacity='0.7'/>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M156.0,176.0 L444.0,176.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<text x='300.0' y='168.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Запрос первым</text>
+<defs><marker id='mffcf5c' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffcf5c'/></marker></defs>
+<path d='M444.0,222.0 L156.0,222.0' fill='none' stroke='#ffcf5c' stroke-width='2' marker-end='url(#mffcf5c)'></path>
+<text x='300.0' y='214.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Ответ без подсказок</text>
+<path d='M156.0,268.0 L744.0,268.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<text x='450.0' y='260.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Запрос после ответа P1</text>
+<path d='M744.0,314.0 L156.0,314.0' fill='none' stroke='#ffcf5c' stroke-width='2' marker-end='url(#mffcf5c)'></path>
+<text x='450.0' y='306.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Ответ, ответ P1 слышала</text>
+<path d='M156.0,360.0 L1044.0,360.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<text x='600.0' y='352.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Запрос после P1 и P2</text>
+<path d='M1044.0,406.0 L156.0,406.0' fill='none' stroke='#ffcf5c' stroke-width='2' marker-end='url(#mffcf5c)'></path>
+<text x='600.0' y='398.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Ответ, оба ответа слышала</text>
+<rect x='315' y='474' width='270' height='82' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='450.0' y='500.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>◧ ЧАСТИЧНО СЛЕПОЙ</text>
+<text x='450.0' y='520.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>видел объект раньше без пояснений</text>
+<rect x='615' y='474' width='270' height='82' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='750.0' y='500.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>✕ НАРУШЕНО</text>
+<text x='750.0' y='520.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>слышала P1 до ответа</text>
+<rect x='915' y='474' width='270' height='82' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1050.0' y='500.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>✕ НАРУШЕНО</text>
+<text x='1050.0' y='520.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>слышала P1 и P2 до ответа</text>
+<text x='24' y='572' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Будущие сеансы нужно проводить индивидуально (отчёт валидации,</text>
+<text x='24' y='592' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>раздел 6).</text>
+</svg>
