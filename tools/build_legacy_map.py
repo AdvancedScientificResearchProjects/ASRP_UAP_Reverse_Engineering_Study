@@ -20,10 +20,12 @@ ARCHIVE = "archive/README_2026-11-19_pre-showcase.md"
 MARK = "<!-- legacy-anchors -->"
 # (first line, last line) of the archived README -> heading of the README.md section that covers it
 RANGES = [
-    (1, 57, "## At a glance"), (58, 92, "## What this study is"), (93, 191, "## Research tracks"),
-    (192, 207, "## Research team"), (208, 262, "## Navigation and structure"), (263, 275, "## Ethics, IP and security"),
-    (276, 287, "## Publications, patent and copyright"), (288, 320, "## ASRP ecosystem"),
-    (321, 335, "## Publications, patent and copyright"), (336, 365, "## Contact"), (366, 400, "## Disclaimer"),
+    (1, 69, "## At a glance"), (70, 89, "## What this study is"), (90, 111, "## Research tracks"),
+    (112, 210, "## Track 1: the experiment"), (211, 231, "## The AI result: a crop score, not the headline"),
+    (232, 387, "## Research tracks"), (388, 413, "## ASRP ecosystem, IP and course"), (414, 438, "## Research team"),
+    (439, 519, "## Navigation and structure"), (520, 532, "## Ethics, IP and security"),
+    (533, 542, "## Track 1: the experiment"), (543, 603, "## ASRP ecosystem, IP and course"),
+    (604, 627, "## Contact"), (628, 658, "## Disclaimer"), (659, 661, "## At a glance"),
 ]
 
 
