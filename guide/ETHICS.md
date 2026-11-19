@@ -47,4 +47,4 @@ This research operates at the boundary of known science, experimental methodolog
 
 **ASRP RESEARCH STANDARD v2.1**
 
-This repository is private and exploratory. Nothing on these pages is a validated result, a granted patent, a medical or engineering claim, or a statement that any named person or company took part in UAP reverse engineering.
+This repository is public and exploratory. Nothing on these pages is a validated result, a granted patent, a medical or engineering claim, or a statement that any named person or company took part in UAP reverse engineering.

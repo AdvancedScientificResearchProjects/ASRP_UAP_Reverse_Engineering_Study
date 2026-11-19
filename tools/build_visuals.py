@@ -73,7 +73,7 @@ TRACK_KIND = {1: "exp", 2: "arch", 3: "arch", 4: "arch", 5: "layer", 6: "layer",
 
 BANNER = {
     "en": {"title": "UAP Reverse Engineering", "kicker": "REVERSE ENGINEERING HUB",
-           "tag": "PRIVATE · EXPLORATORY · FINDINGS PRELIMINARY",
+           "tag": "PUBLIC · EXPLORATORY · FINDINGS PRELIMINARY",
            "sub": ["One small experiment, ten archives and layers:", "what is recorded, what is only claimed"],
            "chips": ["{tracks} tracks · {files_total} files", "1 session · {percipient_reports} percipients", "blinding broken: {blinded_compromised_n} of {percipient_reports}"],
            "foot": "gold experiment · teal archive · violet analysis · blue catalog",
@@ -82,7 +82,7 @@ BANNER = {
                     "Title, and three figures computed from the repository: {tracks} tracks and {files_total} files, one percipient session "
                     "with {percipient_reports} percipients, blinding compromised for {blinded_compromised_n} of {percipient_reports}.")},
     "ru": {"title": "Реверс-инжиниринг НАЯ", "kicker": "ХАБ РЕВЕРС-ИНЖИНИРИНГА",
-           "tag": "ПРИВАТНО · ПОИСКОВОЕ · ВЫВОДЫ ПРЕДВАРИТЕЛЬНЫЕ",
+           "tag": "ПУБЛИЧНО · ПОИСКОВОЕ · ВЫВОДЫ ПРЕДВАРИТЕЛЬНЫЕ",
            "sub": ["Один небольшой эксперимент, десять архивов и слоёв:", "что записано и что только заявлено"],
            "chips": ["{tracks} треков · {files_ru}", "1 сеанс · {percipient_reports} перципиента", "ослепление: {blinded_compromised_n} из {percipient_reports} нарушено"],
            "foot": "золото эксперимент · бирюза архив · фиолет анализ · синий каталог",

@@ -20,7 +20,7 @@ The README of this repository used to be a single navigation hub with every trac
 
 **The question it asks.** Can an unusual object be studied by combining percipient reports, machine vision and archives, and which UAP origin narratives survive an evidence filter?
 
-**What it is, in short.** A private, exploratory research hub of <!--n:tracks-->11<!--/n--> tracks and <!--n:files_total-->1517<!--/n--> tracked files. Its one experiment is a single Extended Cognitive Perception (ECP) session on one object, `UAP-FRAG-001`: <!--n:percipient_reports-->3<!--/n--> percipients described it before a later-disclosed <!--n:ref_params-->10<!--/n-->-parameter reference was compared with their answers. <!--n:ref_exact-->7<!--/n--> of <!--n:ref_params-->10<!--/n--> parameters match exactly, but the study's own report says the counts do not show independent convergence, because blinding was compromised for <!--n:blinded_compromised_n-->2<!--/n--> of <!--n:percipient_reports-->3<!--/n--> percipients. The other ten tracks are curated archives of public material (testimony, interviews, declassified records, literature) and a methodology layer; they record claims without validating them.
+**What it is, in short.** An exploratory research hub of <!--n:tracks-->11<!--/n--> tracks and <!--n:files_total-->1517<!--/n--> tracked files. Its one experiment is a single Extended Cognitive Perception (ECP) session on one object, `UAP-FRAG-001`: <!--n:percipient_reports-->3<!--/n--> percipients described it before a later-disclosed <!--n:ref_params-->10<!--/n-->-parameter reference was compared with their answers. <!--n:ref_exact-->7<!--/n--> of <!--n:ref_params-->10<!--/n--> parameters match exactly, but the study's own report says the counts do not show independent convergence, because blinding was compromised for <!--n:blinded_compromised_n-->2<!--/n--> of <!--n:percipient_reports-->3<!--/n--> percipients. The other ten tracks are curated archives of public material (testimony, interviews, declassified records, literature) and a methodology layer; they record claims without validating them.
 
 ## What it is not
 
@@ -47,7 +47,7 @@ The README names six team members; roles and responsibilities are as the previou
 
 HSP group (high-sensitivity cognitive percipients) involved in object-based psychometric information acquisition protocols.
 
-Three percipients took part in the one recorded session. Their names are not given on these pages (PII, memory-policy); the primary reports in the repository are linked from [Track 1](EXPERIMENT.md).
+Three percipients took part in the one recorded session. Their names are not given on these pages (personal data); the primary reports in the repository are linked from [Track 1](EXPERIMENT.md).
 
 ## Version and status
 
@@ -61,4 +61,4 @@ Three percipients took part in the one recorded session. Their names are not giv
 | Standard | ASRP RESEARCH STANDARD v2.1 |
 | History | <!--n:commits_main-->85<!--/n--> commits on `main`, from <!--n:first_commit-->2026-04-01<!--/n--> to <!--n:last_commit-->2026-07-18<!--/n-->; two archive branches are earlier snapshots ([Navigation](NAVIGATION.md#archive-branches)) |
 
-Repository visibility is private. All findings are preliminary and subject to validation.
+Repository visibility is public. All findings are preliminary and subject to validation.

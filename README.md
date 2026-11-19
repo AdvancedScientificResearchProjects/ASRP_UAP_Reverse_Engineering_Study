@@ -36,12 +36,12 @@
 
 </div>
 
-> This is a private, exploratory research hub. All findings are preliminary and subject to validation. One experiment, one session, three percipients, blinding compromised: the results are descriptive and are not a validation. No patent filing exists for this study.
+> This is an exploratory research hub. All findings are preliminary and subject to validation. One experiment, one session, three percipients, blinding compromised: the results are descriptive and are not a validation. No patent filing exists for this study.
 
 <!-- legacy-anchors --><a name="uap-reverse-engineering-study"></a><a name="исследование-по-реверс-инжинирингу-ная"></a><a name="table-of-contents--содержание"></a><a name="navigation-index--навигационный-индекс"></a>
 ## At a glance
 
-- **What it is.** A private multi-track hub of <!--n:tracks-->11<!--/n--> tracks and <!--n:files_total-->1517<!--/n--> tracked files that asks whether an unusual object (`UAP-FRAG-001`) can be studied by combining percipient reports, machine vision and archives, and which UAP origin narratives survive an evidence filter.
+- **What it is.** A multi-track hub of <!--n:tracks-->11<!--/n--> tracks and <!--n:files_total-->1517<!--/n--> tracked files that asks whether an unusual object (`UAP-FRAG-001`) can be studied by combining percipient reports, machine vision and archives, and which UAP origin narratives survive an evidence filter.
 - **What it measured.** One Extended Cognitive Perception session (<!--n:session_id-->ECP-2026-04-04<!--/n-->) with <!--n:percipient_reports-->3<!--/n--> percipients: <!--n:ref_exact-->7<!--/n--> of <!--n:ref_params-->10<!--/n--> reference parameters match, <!--n:ref_partial-->2<!--/n--> partly, <!--n:ref_miss-->1<!--/n--> not at all. Blinding was compromised for <!--n:blinded_compromised_n-->2<!--/n--> of <!--n:percipient_reports-->3<!--/n-->, so the study itself says the counts do not show independent convergence.
 - **What the AI said.** A <!--n:pipeline_stages-->10<!--/n-->-stage vision pipeline calls the object fossil-like. The headline SigLIP2 **<!--n:score_crop-->0.98<!--/n--> is a score on the cropped image; the full photograph scores <!--n:score_full-->0.89<!--/n-->**, inside the range of real echinoid fossils. The control test neither confirms nor excludes anomalous origin.
 - **What the other ten tracks are.** Archives of public material (Lazar, Chernobrov, the JINR interview, Gershtein, PURSUE releases), an OSINT method layer, people and corporate layers, a synthesis and a literature catalog. They record claims; they do not validate them.
@@ -59,6 +59,7 @@
 | <img src="guide/assets/icons/ecosystem.svg" width="44" alt="ecosystem icon"> | **[ASRP ecosystem, IP and course](guide/ECOSYSTEM.md)** | the stated loop, patent connection, OSF, sibling repositories and patents |
 | <img src="guide/assets/icons/navigation.svg" width="44" alt="navigation icon"> | **[Navigation and structure](guide/NAVIGATION.md)** | where things are, reading routes, archive branches, the folder tree |
 | <img src="guide/assets/icons/open.svg" width="44" alt="open icon"> | **[Open questions](guide/OPEN.md)** | inconsistencies and what would settle the main questions |
+| <img src="guide/assets/icons/archive.svg" width="44" alt="figures icon"> | **[Figure gallery](guide/FIGURES.md)** | every figure the repository tracks, one row each, with the redrawn diagrams |
 | <img src="guide/assets/icons/ethics.svg" width="44" alt="ethics icon"> | **[Ethics, IP and security](guide/ETHICS.md)** | classification, what is withheld, contact, disclaimer |
 
 Full list: [guide index](guide/README.md).
@@ -81,7 +82,7 @@ The README of this repository used to be a single navigation hub with every trac
 
 **The question it asks.** Can an unusual object be studied by combining percipient reports, machine vision and archives, and which UAP origin narratives survive an evidence filter?
 
-**What it is, in short.** A private, exploratory research hub of <!--n:tracks-->11<!--/n--> tracks and <!--n:files_total-->1517<!--/n--> tracked files. Its one experiment is a single Extended Cognitive Perception (ECP) session on one object, `UAP-FRAG-001`: <!--n:percipient_reports-->3<!--/n--> percipients described it before a later-disclosed <!--n:ref_params-->10<!--/n-->-parameter reference was compared with their answers. <!--n:ref_exact-->7<!--/n--> of <!--n:ref_params-->10<!--/n--> parameters match exactly, but the study's own report says the counts do not show independent convergence, because blinding was compromised for <!--n:blinded_compromised_n-->2<!--/n--> of <!--n:percipient_reports-->3<!--/n--> percipients. The other ten tracks are curated archives of public material (testimony, interviews, declassified records, literature) and a methodology layer; they record claims without validating them.
+**What it is, in short.** An exploratory research hub of <!--n:tracks-->11<!--/n--> tracks and <!--n:files_total-->1517<!--/n--> tracked files. Its one experiment is a single Extended Cognitive Perception (ECP) session on one object, `UAP-FRAG-001`: <!--n:percipient_reports-->3<!--/n--> percipients described it before a later-disclosed <!--n:ref_params-->10<!--/n-->-parameter reference was compared with their answers. <!--n:ref_exact-->7<!--/n--> of <!--n:ref_params-->10<!--/n--> parameters match exactly, but the study's own report says the counts do not show independent convergence, because blinding was compromised for <!--n:blinded_compromised_n-->2<!--/n--> of <!--n:percipient_reports-->3<!--/n--> percipients. The other ten tracks are curated archives of public material (testimony, interviews, declassified records, literature) and a methodology layer; they record claims without validating them.
 <!-- /excerpt -->
 
 Full page: [The study](guide/STUDY.md)
@@ -251,7 +252,7 @@ The README names six team members; roles and responsibilities are as the previou
 
 HSP group (high-sensitivity cognitive percipients) involved in object-based psychometric information acquisition protocols.
 
-Three percipients took part in the one recorded session. Their names are not given on these pages (PII, memory-policy); the primary reports in the repository are linked from [Track 1](guide/EXPERIMENT.md).
+Three percipients took part in the one recorded session. Their names are not given on these pages (personal data); the primary reports in the repository are linked from [Track 1](guide/EXPERIMENT.md).
 <!-- /excerpt -->
 
 Full page: [The study](guide/STUDY.md)
@@ -400,7 +401,7 @@ This research operates at the boundary of known science, experimental methodolog
 
 **ASRP RESEARCH STANDARD v2.1**
 
-This repository is private and exploratory. Nothing on these pages is a validated result, a granted patent, a medical or engineering claim, or a statement that any named person or company took part in UAP reverse engineering.
+This repository is public and exploratory. Nothing on these pages is a validated result, a granted patent, a medical or engineering claim, or a statement that any named person or company took part in UAP reverse engineering.
 <!-- /excerpt -->
 
 Full page: [Ethics, IP and security](guide/ETHICS.md)
