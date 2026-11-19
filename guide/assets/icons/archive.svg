@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>archive</title>
+<desc>Navigation icon: archive.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#8ea0d6" stroke-width="3"/>
+<g fill='none' stroke='#8ea0d6' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><rect x='12' y='14' width='40' height='11' rx='3'/><path d='M16 25v25h32V25M26 34h12'/></g>
+</svg>

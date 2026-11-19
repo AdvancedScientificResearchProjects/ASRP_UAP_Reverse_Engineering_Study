@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-labelledby="t d">
+<title id="t">Stated loop, siblings, and claims only in the graph</title>
+<desc id="d">Three blocks. Top: the stated commercialization loop in the README as five connected boxes: research, repository, UAP course in development, engineering-education license, patron and investment income; the course is not live. Bottom left: sibling studies and patents listed as ecosystem references, with no patent filing for this study. Bottom right, dashed: claims that exist only in the graph JSON (DoE and Los Alamos first reader, Stanford admin handoff, NCI SBIR submission, Cortical Labs negotiations, Boeing about 40 million dollars a year, labelled illustrative) with no letter, reply or date in the corpus.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='640' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Stated loop, siblings, and claims only in the graph</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Solid: in the README. Dashed: stated or graph-only, not shown</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ECOSYSTEM</text>
+<rect x='24' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='124.0' y='157.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Research</text>
+<rect x='249' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='349.0' y='157.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Repository</text>
+<defs><marker id='m34d399' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#34d399'/></marker></defs>
+<path d='M226.0,149.0 L246.0,149.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<rect x='474' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='574.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>UAP course (in</text>
+<text x='574.0' y='168.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>development)</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M451.0,149.0 L471.0,149.0' fill='none' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'></path>
+<rect x='699' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='799.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Engineering-education</text>
+<text x='799.0' y='168.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>license</text>
+<path d='M676.0,149.0 L696.0,149.0' fill='none' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'></path>
+<rect x='924' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1024.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Patron and</text>
+<text x='1024.0' y='168.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>investment income</text>
+<path d='M901.0,149.0 L921.0,149.0' fill='none' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'></path>
+<text x='24' y='220' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>README: the course belongs to the commercialization model; not live.</text>
+<rect x='24' y='252' width='540' height='140' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='38' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Sibling studies and patents</text>
+<text x='38' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>4 Hyperbolic Field studies and ASRP.art as repositories</text>
+<text x='38' y='324.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>4 sibling patent applications listed as references</text>
+<text x='38' y='344.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>No patent filing for this study (README)</text>
+<rect x='600' y='252' width='576' height='210' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='614' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Claimed in graph JSON only</text>
+<text x='614' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>DoE / Los Alamos first-reader event</text>
+<text x='614' y='324.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Stanford admin handoff</text>
+<text x='614' y='344.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>NCI SBIR submission</text>
+<text x='614' y='364.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Cortical Labs negotiations</text>
+<text x='614' y='384.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Boeing, about $40M a year, labelled illustrative</text>
+<text x='614' y='404.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Each is a node with a description and no source: no letter, reply or</text>
+<text x='614' y='424.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>date in the corpus.</text>
+<line x1='24' y1='542' x2='64' y2='542' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'/>
+<text x='74' y='546' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>written in the README</text>
+<line x1='256.62' y1='542' x2='296.62' y2='542' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'/>
+<text x='306.62' y='546' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>claimed, not shown</text>
+<text x='24' y='606' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Source: README (loop, siblings), graph/uap_kumu.json (outreach nodes</text>
+<text x='24' y='626' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>or-doe, or-stanford, or-nci, or-cortical; inst-boeing).</text>
+</svg>

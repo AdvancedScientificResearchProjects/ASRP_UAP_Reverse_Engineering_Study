@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1052" width="1200" height="1052" role="img" aria-labelledby="t d">
+<title id="t">What is claimed and what the repository shows</title>
+<desc id="d">Eight rows, left to right: topic, what is claimed, what the repository shows, a state word. ECP session: 7 of 10 reference parameters match, descriptive only; blinding compromised for 2 of 3; no chance baseline; Reference object: Reference statements of the Program Director; no SEM, XRF or gamma report is committed; AI visual result: 0.98 is a crop score; the full photo scores 0.89, inside the fossil range; neither confirms nor excludes anomalous origin; Lab analysis: Recommended in the control-test report; no laboratory result in the repository; Archives 2, 3, 10: Testimony and interviews recorded as claims; no physical material in public hands; Outreach nodes: Only in the graph JSON; no letter, reply or date in the corpus; Patent: README: no patent filing; the oncology text is a book speculation; Course: Described as in development; not live, no date, no credential</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='1052' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>What is claimed and what the repository shows</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Left: README, reference or graph. Right: what the files show</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>CLAIMED VS SHOWN</text>
+<text x='24' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>TOPIC</text>
+<text x='196' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>CLAIMED</text>
+<text x='520' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>SHOWN IN THE REPOSITORY</text>
+<text x='1000' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>STATE</text>
+<text x='24' y='179.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>ECP session</text>
+<rect x='196' y='124' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Percipients identified function, system</text>
+<text x='210' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>membership, material</text>
+<rect x='520' y='124' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='534' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>7 of 10 reference parameters match, descriptive only; blinding</text>
+<text x='534' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>compromised for 2 of 3; no chance baseline</text>
+<rect x='1000' y='124' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1088.0' y='181.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◧ PARTLY</text>
+<text x='24' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Reference object</text>
+<rect x='196' y='232' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='279.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Navigation beacon, biometal, variable</text>
+<text x='210' y='299.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>radioactivity</text>
+<rect x='520' y='232' width='456' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='534' y='279.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Reference statements of the Program Director; no SEM, XRF or</text>
+<text x='534' y='299.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>gamma report is committed</text>
+<rect x='1000' y='232' width='176' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1088.0' y='289.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ CLAIMED ONLY</text>
+<text x='24' y='395.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>AI visual result</text>
+<rect x='196' y='340' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='397.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Biological family, score 0.98</text>
+<rect x='520' y='340' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='534' y='387.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>0.98 is a crop score; the full photo scores 0.89, inside the fossil</text>
+<text x='534' y='407.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>range; neither confirms nor excludes anomalous origin</text>
+<rect x='1000' y='340' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1088.0' y='397.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◧ PARTLY</text>
+<text x='24' y='503.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Lab analysis</text>
+<rect x='196' y='448' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='505.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Needed to settle material and radioactivity</text>
+<rect x='520' y='448' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='534' y='495.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Recommended in the control-test report; no laboratory result in</text>
+<text x='534' y='515.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the repository</text>
+<rect x='1000' y='448' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1088.0' y='505.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ ABSENT</text>
+<text x='24' y='611.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Archives 2, 3, 10</text>
+<rect x='196' y='556' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='603.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>S-4, gravity propulsion, time machine,</text>
+<text x='210' y='623.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Soviet programs</text>
+<rect x='520' y='556' width='456' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='534' y='603.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Testimony and interviews recorded as claims; no physical</text>
+<text x='534' y='623.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>material in public hands</text>
+<rect x='1000' y='556' width='176' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1088.0' y='613.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ CLAIMED ONLY</text>
+<text x='24' y='719.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Outreach nodes</text>
+<rect x='196' y='664' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='711.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>DoE/LANL first reader, Stanford, NCI,</text>
+<text x='210' y='731.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Boeing, Cortical Labs</text>
+<rect x='520' y='664' width='456' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='534' y='721.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Only in the graph JSON; no letter, reply or date in the corpus</text>
+<rect x='1000' y='664' width='176' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='1088.0' y='721.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ CLAIMED ONLY</text>
+<text x='24' y='827.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Patent</text>
+<rect x='196' y='772' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='819.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Graph: FBHFS patent anchors a</text>
+<text x='210' y='839.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>UAP-adjacent oncology frame</text>
+<rect x='520' y='772' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='534' y='829.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>README: no patent filing; the oncology text is a book speculation</text>
+<rect x='1000' y='772' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1088.0' y='829.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ ABSENT</text>
+<text x='24' y='935.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='start' font-weight='700'>Course</text>
+<rect x='196' y='880' width='318' height='100' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='210' y='937.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>UAP course on Arcanum-12</text>
+<rect x='520' y='880' width='456' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='534' y='937.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Described as in development; not live, no date, no credential</text>
+<rect x='1000' y='880' width='176' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1088.0' y='937.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>◌ NOT LIVE</text>
+<text x='24' y='998' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Each row names a state in words; a plan, a protocol or a graph node</text>
+<text x='24' y='1018' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>is not a result.</text>
+<text x='24' y='1038' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Sources: guide/EVIDENCE.md lists the file behind every row.</text>
+</svg>

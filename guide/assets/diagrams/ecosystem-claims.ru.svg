@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-labelledby="t d">
+<title id="t">Контур, родственные работы, утверждения графа</title>
+<desc id="d">Три блока. Сверху: заявленный в README контур коммерциализации из пяти связанных блоков: исследование, репозиторий, курс по НАЯ в разработке, инженерная образовательная лицензия, доход от меценатов и инвестиций; курс не запущен. Внизу слева: родственные работы и патенты как ссылки экосистемы, заявки по этому исследованию нет. Внизу справа, пунктиром: утверждения, существующие только в JSON графа (первый читатель DoE и Лос-Аламос, admin-передача Stanford, подача NCI SBIR, переговоры Cortical Labs, Boeing около 40 млн долларов в год, помечено иллюстративным) без письма, ответа или даты в корпусе.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='640' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Контур, родственные работы, утверждения графа</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Сплошное: в README. Пунктир: заявлено или только в графе</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ЭКОСИСТЕМА</text>
+<rect x='24' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='124.0' y='157.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Исследование</text>
+<rect x='249' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='349.0' y='157.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Репозиторий</text>
+<defs><marker id='m34d399' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#34d399'/></marker></defs>
+<path d='M226.0,149.0 L246.0,149.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<rect x='474' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='574.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Курс по НАЯ (в</text>
+<text x='574.0' y='168.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>разработке)</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M451.0,149.0 L471.0,149.0' fill='none' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'></path>
+<rect x='699' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='799.0' y='135.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Инженерная</text>
+<text x='799.0' y='157.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>образовательная</text>
+<text x='799.0' y='179.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>лицензия</text>
+<path d='M676.0,149.0 L696.0,149.0' fill='none' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'></path>
+<rect x='924' y='106' width='200' height='86' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1024.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Доход от меценатов</text>
+<text x='1024.0' y='168.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>и инвестиций</text>
+<path d='M901.0,149.0 L921.0,149.0' fill='none' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'></path>
+<text x='24' y='220' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>README: курс часть модели коммерциализации; не запущен.</text>
+<rect x='24' y='252' width='540' height='140' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='38' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Родственные работы и патенты</text>
+<text x='38' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>4 исследования Hyperbolic Field и ASRP.art как репозитории</text>
+<text x='38' y='324.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>4 заявки родственных патентов даны как ссылки</text>
+<text x='38' y='344.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Заявки по этому исследованию нет (README)</text>
+<rect x='600' y='252' width='576' height='210' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='614' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Заявлено только в JSON графа</text>
+<text x='614' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Событие первого читателя DoE / Лос-Аламос</text>
+<text x='614' y='324.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Admin-передача Stanford</text>
+<text x='614' y='344.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Подача NCI SBIR</text>
+<text x='614' y='364.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Переговоры Cortical Labs</text>
+<text x='614' y='384.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Boeing, около $40 млн в год, помечено иллюстративным</text>
+<text x='614' y='404.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Каждый это узел с описанием без источника: ни письма, ни ответа, ни</text>
+<text x='614' y='424.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>даты в корпусе нет.</text>
+<line x1='24' y1='542' x2='64' y2='542' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'/>
+<text x='74' y='546' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>написано в README</text>
+<line x1='237.89999999999998' y1='542' x2='277.9' y2='542' stroke='#ffa657' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffa657)'/>
+<text x='287.9' y='546' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>заявлено, не показано</text>
+<text x='24' y='606' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Источник: README (контур, родственные), graph/uap_kumu.json (узлы</text>
+<text x='24' y='626' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>or-doe, or-stanford, or-nci, or-cortical; inst-boeing).</text>
+</svg>

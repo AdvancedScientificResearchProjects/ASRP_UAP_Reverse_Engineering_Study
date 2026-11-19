@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>tracks</title>
+<desc>Navigation icon: tracks.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#ffcf5c" stroke-width="3"/>
+<g fill='none' stroke='#ffcf5c' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><rect x='13' y='14' width='16' height='16' rx='3'/><rect x='35' y='14' width='16' height='16' rx='3'/><rect x='13' y='36' width='38' height='14' rx='3'/><path d='M21 30v6M43 30v6'/></g>
+</svg>

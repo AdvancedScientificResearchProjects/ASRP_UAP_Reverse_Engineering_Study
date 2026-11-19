@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>navigation</title>
+<desc>Navigation icon: navigation.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#34d399" stroke-width="3"/>
+<g fill='none' stroke='#34d399' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><path d='M20 14v36M20 22h10M20 34h10M20 46h10'/><rect x='30' y='17' width='20' height='10' rx='2'/><rect x='30' y='29' width='20' height='10' rx='2'/><rect x='30' y='41' width='20' height='10' rx='2'/></g>
+</svg>

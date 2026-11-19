@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 664" width="1200" height="664" role="img" aria-labelledby="t d">
+<title id="t">Одиннадцать треков четырёх видов</title>
+<desc id="d">Одиннадцать карточек треков четырёх видов. Эксперимент (золото): трек 1, артефакт UAP-FRAG-001, один сеанс с 3 перципиентами, 3 ИИ-отчёта и конвейер из 10 стадий зрения. Архивы внешнего материала (бирюза): трек 2 Лазар (26 транскриптов), трек 3 Чернобров (22), трек 4 Дубна, трек 10 Герштейн (62), трек 11 PURSUE (225 записей, 284 транскриптов). Слои анализа (фиолет): трек 5 метод OSINT, трек 6 люди, трек 7 корпорации, трек 8 синтез. Каталог (синий): трек 9 литература. Каждая карточка кончается словом-состоянием.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='664' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Одиннадцать треков четырёх видов</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Эксперимент только трек 1; остальные фиксируют или анализируют</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ТРЕКИ</text>
+<rect x='24' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='38' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>1 · Артефакт + сеанс КП</text>
+<text x='38' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Один объект, один сеанс с 3</text>
+<text x='38' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>перципиентами, 3 ИИ-отчёта, 10</text>
+<text x='38' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>стадий CV</text>
+<text x='38' y='212.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='start' font-weight='800'>◧ ПРЕДВАРИТЕЛЬНО</text>
+<rect x='318' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='332' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2 · Архив Боба Лазара</text>
+<text x='332' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>26 транскриптов 1989-2026: S-4,</text>
+<text x='332' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>элемент 115. Заявления одного</text>
+<text x='332' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>свидетеля</text>
+<text x='332' y='212.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>◇ ЗАЯВЛЕНИЯ ЗАПИСАНЫ</text>
+<rect x='612' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='626' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>3 · Архив Черноброва</text>
+<text x='626' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>22 транскриптов 1988-2017:</text>
+<text x='626' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>машина времени, аномальные</text>
+<text x='626' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>зоны. Записанные заявления</text>
+<text x='626' y='212.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>◇ ЗАЯВЛЕНИЯ ЗАПИСАНЫ</text>
+<rect x='906' y='100' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='920' y='131.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>4 · Дубна / Элемент 115</text>
+<text x='920' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Интервью ОИЯИ, 9 схем; синтез</text>
+<text x='920' y='171.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>2004 года опубликованный</text>
+<text x='920' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>результат</text>
+<text x='920' y='212.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>✓ В РЕПОЗИТОРИИ</text>
+<rect x='24' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='38' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>5 · Метод OSINT</text>
+<text x='38' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>5 страниц: как отделить обычную</text>
+<text x='38' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>физику от новизны</text>
+<text x='38' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>✓ В РЕПОЗИТОРИИ</text>
+<rect x='318' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='332' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>6 · Анализ людей</text>
+<text x='332' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>11 профилей по открытым</text>
+<text x='332' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>источникам; без причин смерти и</text>
+<text x='332' y='347.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>атрибуции</text>
+<text x='332' y='368.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>✓ В РЕПОЗИТОРИИ</text>
+<rect x='612' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='626' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>7 · Корпоративный анализ</text>
+<text x='626' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Линия EG&amp;G до Amentum; топливная</text>
+<text x='626' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>петля карта гипотез, не конвейер</text>
+<text x='626' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ КАРТА ГИПОТЕЗ</text>
+<rect x='906' y='256' width='270' height='142' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='920' y='287.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>8 · Кросс-архивный синтез</text>
+<text x='920' y='307.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>3 страницы в корне: пересечения,</text>
+<text x='920' y='327.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>таксономия, подкасты</text>
+<text x='920' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>✓ В РЕПОЗИТОРИИ</text>
+<rect x='24' y='412' width='270' height='142' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='38' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>9 · Каталог литературы</text>
+<text x='38' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>49 страницы провенанса по</text>
+<text x='38' y='483.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>открытым источникам; заявления</text>
+<text x='38' y='503.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>не валидируются</text>
+<text x='38' y='524.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='start' font-weight='800'>✓ В РЕПОЗИТОРИИ</text>
+<rect x='318' y='412' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='332' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>10 · Архив Герштейна</text>
+<text x='332' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>62 интервью: советские</text>
+<text x='332' y='483.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>программы, плазма, NDE</text>
+<text x='332' y='504.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>◇ ЗАЯВЛЕНИЯ ЗАПИСАНЫ</text>
+<rect x='612' y='412' width='270' height='142' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='626' y='443.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>11 · Релизы PURSUE</text>
+<text x='626' y='463.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>225 рассекреченных записей, 222</text>
+<text x='626' y='483.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>карточки; заявления не</text>
+<text x='626' y='503.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>импортируются</text>
+<text x='626' y='524.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='start' font-weight='800'>✓ В РЕПОЗИТОРИИ</text>
+<text x='906' y='434' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700'>ВИДЫ</text>
+<rect x='906' y='452' width='16' height='16' rx='4' fill='#ffcf5c'/>
+<text x='932' y='466' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>эксперимент</text>
+<rect x='906' y='478' width='16' height='16' rx='4' fill='#4ecdc4'/>
+<text x='932' y='492' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>архив внешнего материала</text>
+<rect x='906' y='504' width='16' height='16' rx='4' fill='#a78bfa'/>
+<text x='932' y='518' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>слой анализа</text>
+<rect x='906' y='530' width='16' height='16' rx='4' fill='#6f9bff'/>
+<text x='932' y='544' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='400'>каталог</text>
+<text x='24' y='630' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Восемь треков это архивы внешнего материала; единственный</text>
+<text x='24' y='650' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>эксперимент это трек 1.</text>
+</svg>
