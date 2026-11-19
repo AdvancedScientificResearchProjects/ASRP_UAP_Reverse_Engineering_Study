@@ -23,6 +23,7 @@ Detail pages behind the [front-page README](../README.md). Numbers on these page
 | <img src="assets/icons/ecosystem.svg" width="30" alt="ecosystem icon"> | [ASRP ecosystem, IP and course](ECOSYSTEM.md) | the stated loop, patent connection, OSF, sibling repositories and patents |
 | <img src="assets/icons/navigation.svg" width="30" alt="navigation icon"> | [Navigation and structure](NAVIGATION.md) | where things are, reading routes, archive branches, the folder tree |
 | <img src="assets/icons/open.svg" width="30" alt="open icon"> | [Open questions](OPEN.md) | inconsistencies and what would settle the main questions |
+| <img src="assets/icons/archive.svg" width="30" alt="figures icon"> | [Figure gallery](FIGURES.md) | every figure the repository tracks, one row each |
 | <img src="assets/icons/ethics.svg" width="30" alt="ethics icon"> | [Ethics, IP and security](ETHICS.md) | classification, what is withheld, contact, disclaimer |
 
 ## Related material
