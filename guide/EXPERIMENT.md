@@ -111,23 +111,31 @@ The previous README states the visual finding as "Biological/coral material fami
 
 ## Original diagrams
 
-The previous README drew four Mermaid diagrams for Track 1; they are kept as rendered.
+The previous README drew four Mermaid diagrams for Track 1; each is redrawn below as an SVG, with a link to the original PNG.
 
 **Research overview** (end-to-end pipeline map):
 
-![Diagram 1](../charts/mermaid/root_1.png)
+<img src="assets/diagrams/overview-pipeline.en.svg" width="100%" alt="overview pipeline">
+
+Original figure: [`charts/mermaid/root_1.png`](../charts/mermaid/root_1.png) (Mermaid: [`root_1.mmd`](../charts/mermaid/root_1.mmd))
 
 **Evidence synthesis flow:**
 
-![Diagram 3](../charts/mermaid/root_3.png)
+<img src="assets/diagrams/evidence-flow.en.svg" width="100%" alt="evidence flow">
+
+Original figure: [`charts/mermaid/root_3.png`](../charts/mermaid/root_3.png) (Mermaid: [`root_3.mmd`](../charts/mermaid/root_3.mmd))
 
 **AI pipeline summary:**
 
-![Diagram 4](../charts/mermaid/root_4.png)
+<img src="assets/diagrams/ai-pipeline.en.svg" width="100%" alt="ai pipeline">
+
+Original figure: [`charts/mermaid/root_4.png`](../charts/mermaid/root_4.png) (Mermaid: [`root_4.mmd`](../charts/mermaid/root_4.mmd))
 
 **Timeline:**
 
-![Diagram 5](../charts/mermaid/root_5.png)
+<img src="assets/diagrams/timeline-flow.en.svg" width="100%" alt="timeline flow">
+
+Original figure: [`charts/mermaid/root_5.png`](../charts/mermaid/root_5.png) (Mermaid: [`root_5.mmd`](../charts/mermaid/root_5.mmd))
 
 The fifth diagram of the previous README, the session blinding sequence (`charts/mermaid/retry_1.png`), names the percipients; it is redrawn above without names.
 

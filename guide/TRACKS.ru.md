@@ -66,7 +66,8 @@
 Интервью ASRP.media с неразглашённым высокопоставленным представителем **Объединённого института ядерных исследований (ОИЯИ)**, записанное **28 сентября 2021** и опубликованное **9 декабря 2025**. Трек включает сырой транскрипт аудио, дословный EN/RU опубликованный текст, мастер-таблицу утверждений, проверенную историю ОИЯИ, **связку равноправных партнёров Россия + США (ОИЯИ Дубна ↔ LLNL, *Phys. Rev. C* 69, 021601(R) 2004)**, данные Фабрики сверхтяжёлых элементов (2020), аналогию БН-800 / МОКС, гипотезную рамку геологии Казахстана, контекст советских UAP-исследований (SETKA-AN / SETKA-MO) и **9 визуальных схем** (разделение ролей, детективная доска, поток синтеза, хронология США, заявление vs. реальность, hotspots Казахстана, граф связей, хронология 1989–2026, карта аэрокосмоса СССР).
 
 <div align="center">
-<img src="../dubna-element-115-analysis/diagrams/rendered/detective_board.png" width="80%" alt="Превью детективной доски по 115 элементу">
+<img src="assets/diagrams/detective-board.ru.svg" width="100%" alt="Превью детективной доски по 115 элементу">
+<br><sub>Исходная схема: <a href="../dubna-element-115-analysis/diagrams/rendered/detective_board.png"><code>dubna-element-115-analysis/diagrams/rendered/detective_board.png</code></a></sub>
 </div>
 
 - Диаграмм: 9
@@ -112,7 +113,8 @@
 **Главный файл:** [`osint-intelligence-analysis/README.md`](../osint-intelligence-analysis/README.md)
 
 <div align="center">
-<img src="../osint-intelligence-analysis/diagrams/rendered/validation_pipeline.png" width="80%" alt="Конвейер валидации OSINT">
+<img src="assets/diagrams/validation-pipeline.ru.svg" width="100%" alt="Конвейер валидации OSINT">
+<br><sub>Исходная схема: <a href="../osint-intelligence-analysis/diagrams/rendered/validation_pipeline.png"><code>osint-intelligence-analysis/diagrams/rendered/validation_pipeline.png</code></a></sub>
 </div>
 
 Применённый к нарративам Лазара, метод находит, что конвейер валидации проходит только Элемент 115, и как стандартная физика: синтез ОИЯИ+LLNL — опубликованный внешний результат (`osint-intelligence-analysis/analysis/uap-application.md`).
@@ -131,7 +133,8 @@
 **Главный файл:** [`people-analysis/README.md`](../people-analysis/README.md). Файлы по отдельным людям на этих страницах не пересказываются (содержание о частных лицах). Дата ФБР взята из пересказа одного автора на YouTube; README самого трека оценивает уровень этого провенанса и не относит ни один из случаев к UAP-деятельности.
 
 <div align="center">
-<img src="../people-analysis/diagrams/rendered/institutional_cluster_map.png" width="80%" alt="Анализ людей, карта институциональных кластеров">
+<img src="assets/diagrams/cluster-map.ru.svg" width="100%" alt="Анализ людей, карта институциональных кластеров">
+<br><sub>Исходная схема: <a href="../people-analysis/diagrams/rendered/institutional_cluster_map.png"><code>people-analysis/diagrams/rendered/institutional_cluster_map.png</code></a></sub>
 </div>
 
 ### Трек 7: корпоративный / экономический анализ
@@ -143,7 +146,8 @@
 **Главный файл:** [`corporate-economic-analysis/README.md`](../corporate-economic-analysis/README.md)
 
 <div align="center">
-<img src="../corporate-economic-analysis/diagrams/rendered/lazar_s4_contractor_bridge.png" width="80%" alt="Мост подрядчика Lazar S-4">
+<img src="assets/diagrams/s4-contractor-bridge.ru.svg" width="100%" alt="Мост подрядчика Lazar S-4">
+<br><sub>Исходная схема: <a href="../corporate-economic-analysis/diagrams/rendered/lazar_s4_contractor_bridge.png"><code>corporate-economic-analysis/diagrams/rendered/lazar_s4_contractor_bridge.png</code></a></sub>
 </div>
 
 Трек не утверждает, что какая-либо названная компания занималась реверс-инжинирингом НАЯ (`corporate-economic-analysis/README.md`). HSP-сканы публичных руководителей описаны в протоколе как субъективные наблюдения перципиентов; здесь они не пересказываются.
@@ -153,7 +157,8 @@
 v4 вводит явное кросс-архивное **замкнутое прочтение** — Лазар (Трек 2) → утверждение про Элемент 115 как топливо → синтез JINR-LLNL (Трек 4) → операторский консорциум LLNL → Amentum (Трек 7) → EG&G (заявленный работодатель Лазара). Прочтение — отображение пространства гипотез, а не утверждение об институциональном конвейере.
 
 <div align="center">
-<img src="../corporate-economic-analysis/diagrams/rendered/dubna_lazar_amentum_llnl_fuel_loop.png" width="80%" alt="Замкнутый контур цепочки топливоснабжения">
+<img src="assets/diagrams/fuel-loop.ru.svg" width="100%" alt="Замкнутый контур цепочки топливоснабжения">
+<br><sub>Исходная схема: <a href="../corporate-economic-analysis/diagrams/rendered/dubna_lazar_amentum_llnl_fuel_loop.png"><code>corporate-economic-analysis/diagrams/rendered/dubna_lazar_amentum_llnl_fuel_loop.png</code></a></sub>
 </div>
 
 ### Трек 8: кросс-архивный синтез

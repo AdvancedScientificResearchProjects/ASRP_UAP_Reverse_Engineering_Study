@@ -111,23 +111,31 @@
 
 ## Исходные диаграммы
 
-Прежний README рисовал для Трека 1 четыре диаграммы Mermaid; они сохранены как отрендерены.
+Прежний README рисовал для Трека 1 четыре диаграммы Mermaid; каждая перерисована ниже в SVG со ссылкой на исходный PNG.
 
 **Обзор исследования** (сквозная схема конвейеров):
 
-![Diagram 1](../charts/mermaid/root_1.png)
+<img src="assets/diagrams/overview-pipeline.ru.svg" width="100%" alt="overview pipeline">
+
+Исходная схема: [`charts/mermaid/root_1.png`](../charts/mermaid/root_1.png) (Mermaid: [`root_1.mmd`](../charts/mermaid/root_1.mmd))
 
 **Схема синтеза доказательств:**
 
-![Diagram 3](../charts/mermaid/root_3.png)
+<img src="assets/diagrams/evidence-flow.ru.svg" width="100%" alt="evidence flow">
+
+Исходная схема: [`charts/mermaid/root_3.png`](../charts/mermaid/root_3.png) (Mermaid: [`root_3.mmd`](../charts/mermaid/root_3.mmd))
 
 **Сводка конвейера ИИ:**
 
-![Diagram 4](../charts/mermaid/root_4.png)
+<img src="assets/diagrams/ai-pipeline.ru.svg" width="100%" alt="ai pipeline">
+
+Исходная схема: [`charts/mermaid/root_4.png`](../charts/mermaid/root_4.png) (Mermaid: [`root_4.mmd`](../charts/mermaid/root_4.mmd))
 
 **Временная шкала:**
 
-![Diagram 5](../charts/mermaid/root_5.png)
+<img src="assets/diagrams/timeline-flow.ru.svg" width="100%" alt="timeline flow">
+
+Исходная схема: [`charts/mermaid/root_5.png`](../charts/mermaid/root_5.png) (Mermaid: [`root_5.mmd`](../charts/mermaid/root_5.mmd))
 
 Пятая диаграмма прежнего README, схема ослепления сеанса (`charts/mermaid/retry_1.png`), называет перципиентов; выше она перерисована без имён.
 

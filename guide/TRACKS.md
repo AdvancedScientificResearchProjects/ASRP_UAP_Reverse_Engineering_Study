@@ -66,7 +66,8 @@ Research corpus of **Vadim Chernobrov** (Kosmopoisk) on **time-machine experimen
 ASRP.media interview with an anonymised high-ranking representative of the **Joint Institute for Nuclear Research (JINR)**, recorded **28 September 2021** and published **9 December 2025**. The track contains the raw audio transcript, verbatim EN/RU published text, a master claims table, fact-checked JINR history, the **Russia + USA equal-partner collaboration line (JINR Dubna ↔ LLNL, *Phys. Rev. C* 69, 021601(R) 2004)**, Superheavy Elements Factory (2020) data, the BN-800 / MOX analogy, the Kazakhstan-geology hypothesis framing, the Soviet-era UAP-research context (SETKA-AN / SETKA-MO), and **9 visual diagrams** (role split, detective board, synthesis flow, USA timeline, claim vs. reality, Kazakhstan hotspots, connection graph, 1989–2026 timeline, USSR aerospace map).
 
 <div align="center">
-<img src="../dubna-element-115-analysis/diagrams/rendered/detective_board.png" width="80%" alt="Element 115 detective board preview">
+<img src="assets/diagrams/detective-board.en.svg" width="100%" alt="Element 115 detective board preview">
+<br><sub>Original figure: <a href="../dubna-element-115-analysis/diagrams/rendered/detective_board.png"><code>dubna-element-115-analysis/diagrams/rendered/detective_board.png</code></a></sub>
 </div>
 
 - Diagrams: 9
@@ -112,7 +113,8 @@ US Department of War **PURSUE Release 01** (8 May 2026, war.gov/UFO) — 161 dec
 **Lead file:** [`osint-intelligence-analysis/README.md`](../osint-intelligence-analysis/README.md)
 
 <div align="center">
-<img src="../osint-intelligence-analysis/diagrams/rendered/validation_pipeline.png" width="80%" alt="OSINT validation pipeline">
+<img src="assets/diagrams/validation-pipeline.en.svg" width="100%" alt="OSINT validation pipeline">
+<br><sub>Original figure: <a href="../osint-intelligence-analysis/diagrams/rendered/validation_pipeline.png"><code>osint-intelligence-analysis/diagrams/rendered/validation_pipeline.png</code></a></sub>
 </div>
 
 Applied to the Lazar narratives, the method finds that only Element 115 passes the validation pipeline, and as standard physics: the JINR+LLNL synthesis is a published external result (`osint-intelligence-analysis/analysis/uap-application.md`).
@@ -131,7 +133,8 @@ Cluster of **eleven (11) US scientists** at top national laboratories — nuclea
 **Lead file:** [`people-analysis/README.md`](../people-analysis/README.md). The per-person files are not summarised on these pages (private-person content). The FBI date comes from a single-author YouTube recap; the track's own README grades that provenance and attributes none of the cases to UAP-related activity.
 
 <div align="center">
-<img src="../people-analysis/diagrams/rendered/institutional_cluster_map.png" width="80%" alt="People analysis, institutional cluster map">
+<img src="assets/diagrams/cluster-map.en.svg" width="100%" alt="People analysis, institutional cluster map">
+<br><sub>Original figure: <a href="../people-analysis/diagrams/rendered/institutional_cluster_map.png"><code>people-analysis/diagrams/rendered/institutional_cluster_map.png</code></a></sub>
 </div>
 
 ### Track 7: Corporate / economic analysis
@@ -143,7 +146,8 @@ Public-source corporate-economic analysis of the defense-prime contractor conste
 **Lead file:** [`corporate-economic-analysis/README.md`](../corporate-economic-analysis/README.md)
 
 <div align="center">
-<img src="../corporate-economic-analysis/diagrams/rendered/lazar_s4_contractor_bridge.png" width="80%" alt="Lazar S-4 contractor bridge">
+<img src="assets/diagrams/s4-contractor-bridge.en.svg" width="100%" alt="Lazar S-4 contractor bridge">
+<br><sub>Original figure: <a href="../corporate-economic-analysis/diagrams/rendered/lazar_s4_contractor_bridge.png"><code>corporate-economic-analysis/diagrams/rendered/lazar_s4_contractor_bridge.png</code></a></sub>
 </div>
 
 The track does not assert that any named company performed UAP reverse engineering (`corporate-economic-analysis/README.md`). Its HSP scans of public executives are described in the protocol as subjective percipient observations; they are not summarised here.
@@ -153,7 +157,8 @@ The track does not assert that any named company performed UAP reverse engineeri
 v4 introduces an explicit cross-archive **closed-loop reading** — Lazar (Track 2) → Element 115 fuel claim → JINR-LLNL synthesis (Track 4) → LLNL operator-consortium → Amentum (Track 7) → EG&G (Lazar's stated employer). The reading is a hypothesis-space mapping, not an institutional-pipeline claim. See [`corporate-economic-analysis/analysis/fuel-supply-chain-hypothesis.md`](../corporate-economic-analysis/analysis/fuel-supply-chain-hypothesis.md).
 
 <div align="center">
-<img src="../corporate-economic-analysis/diagrams/rendered/dubna_lazar_amentum_llnl_fuel_loop.png" width="80%" alt="Fuel-supply-chain closed loop">
+<img src="assets/diagrams/fuel-loop.en.svg" width="100%" alt="Fuel-supply-chain closed loop">
+<br><sub>Original figure: <a href="../corporate-economic-analysis/diagrams/rendered/dubna_lazar_amentum_llnl_fuel_loop.png"><code>corporate-economic-analysis/diagrams/rendered/dubna_lazar_amentum_llnl_fuel_loop.png</code></a></sub>
 </div>
 
 ### Track 8: Cross-archive synthesis
