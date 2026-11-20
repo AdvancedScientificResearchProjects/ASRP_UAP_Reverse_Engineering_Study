@@ -37,7 +37,9 @@
   },
   {
    "check": "S1_names_missing",
-   "match": "\"Belousova Ekaterina\"",
+   "match_sha256": [
+    "e3d2b81ca43ca85a7111d763a377eba39548b856f924dda1c227a6d49a0e2ded"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
@@ -47,7 +49,9 @@
   },
   {
    "check": "S1_names_missing",
-   "match": "\"Burilova Tatyana\"",
+   "match_sha256": [
+    "3aef7ce292016cbfb5217cfff667c9441e7fb246611b7e8171ed4a66966da3a1"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
@@ -202,7 +206,9 @@
   },
   {
    "check": "S1_names_missing",
-   "match": "\"Semiletov Vladislav\"",
+   "match_sha256": [
+    "d23a5976a64a2c2e72964be1feccc7066cba0004c5155d10346c5f178c0b008e"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
@@ -232,12 +238,16 @@
   },
   {
    "check": "S1_names_missing",
-   "match": "\"Белоусова Екатерина\"",
+   "match_sha256": [
+    "c4201ecb63964fab51b3112a52bb561aca525b8d9e9c7b2579e0278801dcfd3a"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S1_names_missing",
-   "match": "\"Бурилова Татьяна\"",
+   "match_sha256": [
+    "d9186b2f722c9082b9d737d67707fa3e3fe6d2b90851e5b920a2705d9cb7f9c1"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
@@ -332,7 +342,9 @@
   },
   {
    "check": "S1_names_missing",
-   "match": "\"Семилетов Владислав\"",
+   "match_sha256": [
+    "eb967f8ec8c69aca79d8fcd174c414388be5b715e9011dd30f1f2061ae63495a"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
@@ -507,7 +519,9 @@
   },
   {
    "check": "S2_low_coverage_segments",
-   "match": "Present only in Tatyana's wording / Присутствует только в фо",
+   "match_sha256": [
+    "f8769b8c4bf7a141806ebb5503369259099228dc3adb18136956606ff2f2f834"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3). The hypothesis is kept as 'one percipient's wording'."
   },
   {
@@ -547,7 +561,9 @@
   },
   {
    "check": "S2_low_coverage_segments",
-   "match": "Belousova Ekaterina / Белоусова Екатерина",
+   "match_sha256": [
+    "1f6edd1fdb91a0fd261bb4a959419c3a4e8039852ff8876e49960ee036ac8163"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
@@ -557,12 +573,16 @@
   },
   {
    "check": "S2_low_coverage_segments",
-   "match": "Semiletov Vladislav / Семилетов Владислав",
+   "match_sha256": [
+    "ddd9c93397cfb34ec2cf55226b3b8dbc0bab26f7f98319410f63a27111171974"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
    "check": "S2_low_coverage_segments",
-   "match": "Burilova Tatyana / Бурилова Татьяна",
+   "match_sha256": [
+    "0ace320ea60b95ba13c4fc86a784f009768f9a4f201ca0a83c88f84a1909c903"
+   ],
    "reason": "PII — privacy: participant names are not carried to the new pages (percipients appear as P1-P3)."
   },
   {
@@ -652,17 +672,23 @@
   },
   {
    "check": "S2_low_coverage_segments",
-   "match": "│   │   ├── ECP-2026-04-04-001-vladislav.md",
+   "match_sha256": [
+    "f55092a500056cae049bce1f5ddd694071776b65f2f42173724f31261b79c603"
+   ],
    "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
   },
   {
    "check": "S2_low_coverage_segments",
-   "match": "│   │   ├── ECP-2026-04-04-002-ekaterina.md",
+   "match_sha256": [
+    "0f94786d6258f027373abff0599143e808c13528aee00edd6e7a303d1261669e"
+   ],
    "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
   },
   {
    "check": "S2_low_coverage_segments",
-   "match": "│   │   └── ECP-2026-04-04-003-tatyana.md",
+   "match_sha256": [
+    "74b2fb3f7c912ce7112881901d568288f8ab2c48598d7e7df9bcc97c21100006"
+   ],
    "reason": "Old hand-written folder tree with bilingual comments: replaced by the tree generated from the real file list in guide/NAVIGATION*.md (percipient report file names, which contain names, are not listed; comments regenerated per language, counts computed)."
   },
   {
