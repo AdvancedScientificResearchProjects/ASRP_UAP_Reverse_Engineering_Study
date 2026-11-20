@@ -52,7 +52,7 @@ Every row below names the file it comes from (paths of the previous README point
 | The PURSUE 'Stage-9 QA' certifying 100 percent record coverage is the repository's own self-assessment. | `archive/README_2026-11-19_pre-showcase.md:378` |
 | Four outreach nodes appear only in graph/uap_kumu.json: a DoE / Los Alamos 'first-reader event', Stanford, NCI SBIR and Cortical Labs; no letter, reply or date exists in the corpus. | `graph/uap_kumu.json:361` |
 | The graph says the FBHFS patent anchors a 'UAP-adjacent oncology' frame, while the README says no patent underlies this study. | `graph/uap_kumu.json:202` |
-| The research, course, license, patron-income loop is a stated model; the course is not live. | `archive/README_2026-11-19_pre-showcase.md:390` |
+| The research, course, license, patron-income loop is a stated model; the repository does not claim the course is live (it states: in development, pending course-page confirmation). | `archive/README_2026-11-19_pre-showcase.md:390` |
 
 ## Not yet done
 
@@ -63,7 +63,7 @@ Every row below names the file it comes from (paths of the previous README point
 | A chance baseline for the response overlap is not computed; the protocol carries only a TP/FP template. | `experiments/protocol_ecp.md:154` |
 | OSF preregistration: status 'To be determined', no ID. | `archive/README_2026-11-19_pre-showcase.md:547` |
 | No patent filing exists for this study. | `archive/README_2026-11-19_pre-showcase.md:554` |
-| The UAP course on Arcanum-12 is in development, pending a course page: not live, no date, no credentials. | `archive/README_2026-11-19_pre-showcase.md:390` |
+| The UAP course on Arcanum-12 is in development, pending a course page: the repository does not claim it is live; no date, no credentials. | `archive/README_2026-11-19_pre-showcase.md:390` |
 | The source photograph data/raw/UAP-FRAG-001.jpg required by the pipeline is not in the repository (Issue #4). | `pipeline/README.md:32` |
 | The investment-inquiry URL is still pending. | `archive/README_2026-11-19_pre-showcase.md:37` |
 

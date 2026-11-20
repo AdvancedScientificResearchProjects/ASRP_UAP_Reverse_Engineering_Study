@@ -27,7 +27,7 @@ The README of this repository used to be a single navigation hub with every trac
 - **Not a validated finding.** Everything is preliminary; the study's own disclaimer says so (see [Ethics](ETHICS.md#disclaimer)).
 - **Not a patented method.** There is no patent filing for this study; the patents named in the repository belong to sibling studies or are third-party patents under study ([Ecosystem](ECOSYSTEM.md#patent-connection)).
 - **Not preregistered.** The OSF preregistration status reads "To be determined" and no ID is recorded ([Ecosystem](ECOSYSTEM.md#osf-preregistration)).
-- **Not a taught course.** A UAP course is described as in development; it is not live ([Ecosystem](ECOSYSTEM.md#educational-program-and-the-commercialization-model)).
+- **Not a taught course.** A UAP course is described as in development; the repository does not claim it is live ([Ecosystem](ECOSYSTEM.md#educational-program-and-the-commercialization-model)).
 - **Not a verdict on the archives.** Lazar, Chernobrov, the JINR interview, Gershtein and the PURSUE releases are recorded as claims or as external records, not as verified facts ([Evidence](EVIDENCE.md)).
 
 ## Research team

@@ -51,6 +51,20 @@ EXTRA_PAIRS = []  # no other page was split into language twins in this reposito
 WORD_RE = re.compile(r"[^\W_]+", re.UNICODE)
 
 
+def waiver_hits(w, item):
+    """A waiver matches by literal substring ("match") or, for items that name private persons /
+    carry private data, by the sha256 of the item's JSON form ("match_sha256": [..]) so the
+    literal text never appears in this file or in waivers.json."""
+    s = json.dumps(item, ensure_ascii=False)
+    if "match_sha256" in w:
+        return hashlib.sha256(s.encode("utf-8")).hexdigest() in w["match_sha256"]
+    return w["match"] in s
+
+
+def waiver_label(w):
+    return w["match"] if "match" in w else "sha256:" + ",".join(h[:10] for h in w["match_sha256"])
+
+
 def read(p):
     return open(p, encoding="utf-8").read()
 
@@ -319,9 +333,9 @@ def main():
                 items = res[kind].get(w["check"])
                 if not items:
                     continue
-                keep = [i for i in items if w["match"] not in json.dumps(i, ensure_ascii=False)]
+                keep = [i for i in items if not waiver_hits(w, i)]
                 if len(keep) != len(items):
-                    res["waived"].append({"check": w["check"], "match": w["match"], "reason": w["reason"],
+                    res["waived"].append({"check": w["check"], "match": waiver_label(w), "reason": w["reason"],
                                           "items": len(items) - len(keep)})
                     res[kind][w["check"]] = keep
     hard_fail = {k: v for k, v in res["hard"].items() if v}
@@ -350,7 +364,7 @@ def main():
     if res["waived"]:
         lines += ["## Waived (recorded decisions)", ""]
         for w in res["waived"]:
-            lines.append("- `%s` · `%s` · %d item(s): %s" % (w["check"], w["match"], w["items"], w["reason"]))
+            lines.append("- `%s` · `%s` · %d item(s): %s" % (w["check"], waiver_label(w), w["items"], w["reason"]))
         lines.append("")
     if a.md:
         open(a.md, "w", encoding="utf-8").write("\n".join(lines) + "\n")

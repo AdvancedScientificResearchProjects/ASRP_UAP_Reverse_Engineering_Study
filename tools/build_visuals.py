@@ -41,10 +41,10 @@ def fmt(s):
 
 STATE = {
     "en": {"built": ("■ BUILT / RUNS", GREEN), "partly": ("◧ PARTLY", GOLD), "absent": ("✕ ABSENT", AMBER),
-           "claimed": ("◇ CLAIMED ONLY", VIOLET), "avail": ("✓ COMMITTED", GREEN), "pending": ("◌ NOT LIVE", AMBER),
+           "claimed": ("◇ CLAIMED ONLY", VIOLET), "avail": ("✓ COMMITTED", GREEN), "pending": ("◌ IN DEVELOPMENT", AMBER),
            "prelim": ("◧ PRELIMINARY", GOLD), "recorded": ("◇ CLAIMS RECORDED", VIOLET), "hyp": ("◇ HYPOTHESIS MAP", VIOLET)},
     "ru": {"built": ("■ ЕСТЬ / РАБОТАЕТ", GREEN), "partly": ("◧ ЧАСТИЧНО", GOLD), "absent": ("✕ ОТСУТСТВУЕТ", AMBER),
-           "claimed": ("◇ ТОЛЬКО ЗАЯВЛЕНО", VIOLET), "avail": ("✓ В РЕПОЗИТОРИИ", GREEN), "pending": ("◌ НЕ ЗАПУЩЕНО", AMBER),
+           "claimed": ("◇ ТОЛЬКО ЗАЯВЛЕНО", VIOLET), "avail": ("✓ В РЕПОЗИТОРИИ", GREEN), "pending": ("◌ В РАЗРАБОТКЕ", AMBER),
            "prelim": ("◧ ПРЕДВАРИТЕЛЬНО", GOLD), "recorded": ("◇ ЗАЯВЛЕНИЯ ЗАПИСАНЫ", VIOLET), "hyp": ("◇ КАРТА ГИПОТЕЗ", VIOLET)},
 }
 
@@ -235,7 +235,7 @@ CLAIM = {
             ("Outreach nodes", "DoE/LANL first reader, Stanford, NCI, Boeing, Cortical Labs",
              "Only in the graph JSON; no letter, reply or date in the corpus", "claimed"),
             ("Patent", "Graph: FBHFS patent anchors a UAP-adjacent oncology frame", "README: no patent filing; the oncology text is a book speculation", "absent"),
-            ("Course", "UAP course on Arcanum-12", "Described as in development; not live, no date, no credential", "pending"),
+            ("Course", "UAP course on Arcanum-12", "Described as in development, pending course-page confirmation; no date, no credential", "pending"),
         ],
         "foot": ["Each row names a state in words; a plan, a protocol or a graph node is not a result.", "Sources: guide/EVIDENCE.md lists the file behind every row."],
     },
@@ -257,7 +257,7 @@ CLAIM = {
             ("Узлы аутрича", "DoE/LANL первый читатель, Stanford, NCI, Boeing, Cortical Labs",
              "Только в JSON графа; ни письма, ни ответа, ни даты в корпусе нет", "claimed"),
             ("Патент", "Граф: патент FBHFS якорь для UAP-смежной онкологической рамки", "README: заявки нет; онкологический текст это спекуляция из книги", "absent"),
-            ("Курс", "Курс по НАЯ на Arcanum-12", "Описан как разрабатываемый; не запущен, без даты и сертификата", "pending"),
+            ("Курс", "Курс по НАЯ на Arcanum-12", "Описан как разрабатываемый, ожидает подтверждения страницы курса; без даты и сертификата", "pending"),
         ],
         "foot": ["Каждая строка называет состояние словом; план, протокол или узел графа не результат.", "Источники: guide/EVIDENCE.ru.md называет файл за каждой строкой."],
     },
@@ -601,27 +601,27 @@ def timeline(lang):
 ECO = {
     "en": {"title": "Stated loop, siblings, and claims only in the graph", "sub": "Solid: in the README. Dashed: stated or graph-only, not shown", "tag": "ECOSYSTEM",
            "loop": ["Research", "Repository", "UAP course (in development)", "Engineering-education license", "Patron and investment income"],
-           "loop_note": "README: the course belongs to the commercialization model; not live.",
+           "loop_note": "README: course in development, pending course-page confirmation.",
            "sib": ("Sibling studies and patents", ["4 Hyperbolic Field studies and ASRP.art as repositories", "4 sibling patent applications listed as references", "No patent filing for this study (README)"]),
            "graph": ("Claimed in graph JSON only", ["DoE / Los Alamos first-reader event", "Stanford admin handoff", "NCI SBIR submission", "Cortical Labs negotiations",
                                                     "Boeing, about $40M a year, labelled illustrative"]),
            "graph_note": "Each is a node with a description and no source: no letter, reply or date in the corpus.",
            "legend": [("solid", GREEN, "written in the README"), ("dashed", AMBER, "claimed, not shown")],
            "desc": ("Three blocks. Top: the stated commercialization loop in the README as five connected boxes: research, repository, UAP course in development, "
-                    "engineering-education license, patron and investment income; the course is not live. Bottom left: sibling studies and patents listed as ecosystem "
+                    "engineering-education license, patron and investment income; the repository does not claim the course is live (it states: in development, pending course-page confirmation). Bottom left: sibling studies and patents listed as ecosystem "
                     "references, with no patent filing for this study. Bottom right, dashed: claims that exist only in the graph JSON (DoE and Los Alamos first reader, "
                     "Stanford admin handoff, NCI SBIR submission, Cortical Labs negotiations, Boeing about 40 million dollars a year, labelled illustrative) with no letter, "
                     "reply or date in the corpus.")},
     "ru": {"title": "Контур, родственные работы, утверждения графа", "sub": "Сплошное: в README. Пунктир: заявлено или только в графе", "tag": "ЭКОСИСТЕМА",
            "loop": ["Исследование", "Репозиторий", "Курс по НАЯ (в разработке)", "Инженерная образовательная лицензия", "Доход от меценатов и инвестиций"],
-           "loop_note": "README: курс часть модели коммерциализации; не запущен.",
+           "loop_note": "README: курс в разработке, ожидает подтверждения страницы курса.",
            "sib": ("Родственные работы и патенты", ["4 исследования Hyperbolic Field и ASRP.art как репозитории", "4 заявки родственных патентов даны как ссылки", "Заявки по этому исследованию нет (README)"]),
            "graph": ("Заявлено только в JSON графа", ["Событие первого читателя DoE / Лос-Аламос", "Admin-передача Stanford", "Подача NCI SBIR", "Переговоры Cortical Labs",
                                                       "Boeing, около $40 млн в год, помечено иллюстративным"]),
            "graph_note": "Каждый это узел с описанием без источника: ни письма, ни ответа, ни даты в корпусе нет.",
            "legend": [("solid", GREEN, "написано в README"), ("dashed", AMBER, "заявлено, не показано")],
            "desc": ("Три блока. Сверху: заявленный в README контур коммерциализации из пяти связанных блоков: исследование, репозиторий, курс по НАЯ в разработке, "
-                    "инженерная образовательная лицензия, доход от меценатов и инвестиций; курс не запущен. Внизу слева: родственные работы и патенты как ссылки "
+                    "инженерная образовательная лицензия, доход от меценатов и инвестиций; репозиторий не утверждает, что курс запущен (указано: в разработке, ожидает подтверждения страницы курса). Внизу слева: родственные работы и патенты как ссылки "
                     "экосистемы, заявки по этому исследованию нет. Внизу справа, пунктиром: утверждения, существующие только в JSON графа (первый читатель DoE и "
                     "Лос-Аламос, admin-передача Stanford, подача NCI SBIR, переговоры Cortical Labs, Boeing около 40 млн долларов в год, помечено иллюстративным) "
                     "без письма, ответа или даты в корпусе.")},
