@@ -1,0 +1,230 @@
+{
+  "generator": "scripts/fetch_literature.py",
+  "user_agent": "literature-fetcher/1.0",
+  "updated_at": "2026-11-20T18:57:27+00:00",
+  "files": [
+    {
+      "id": "bruehl2025",
+      "doi": "10.1038/s41598-025-21620-3",
+      "url": "https://www.nature.com/articles/s41598-025-21620-3.pdf",
+      "status": "ok",
+      "message": "1555024 bytes",
+      "file": "bruehl2025.pdf",
+      "bytes": 1555024,
+      "sha256": "a270662914e6d59d5a680172743a4f62a2b33d7c48e33498988b73a0d5ce8ae1",
+      "checked_at": "2026-11-20T18:57:07+00:00"
+    },
+    {
+      "id": "coplen2002",
+      "doi": "10.3133/wri014222",
+      "url": "https://pubs.usgs.gov/wri/wri014222/pdf/wri01-4222.pdf",
+      "status": "ok",
+      "message": "1251240 bytes",
+      "file": "coplen2002.pdf",
+      "bytes": 1251240,
+      "sha256": "915f31b179390e5bb607a5d5e06ce56ba0e0ead541305fc8a59814ac28b47192",
+      "checked_at": "2026-11-20T18:57:15+00:00"
+    },
+    {
+      "id": "domine2025",
+      "doi": "10.3390/s25030783",
+      "url": "https://www.mdpi.com/1424-8220/25/3/783/pdf",
+      "status": "failed",
+      "message": "HTTP 403"
+    },
+    {
+      "id": "eurachem2014",
+      "doi": null,
+      "url": "https://www.eurachem.org/images/stories/Guides/pdf/MV_guide_2nd_ed_EN.pdf",
+      "status": "ok",
+      "message": "1171213 bytes",
+      "file": "eurachem2014.pdf",
+      "bytes": 1171213,
+      "sha256": "9f7d0d600a545f1b73b46e919e0b992a62f22b9127154cd09d674470d6f4ae60",
+      "checked_at": "2026-11-20T18:57:21+00:00"
+    },
+    {
+      "id": "gates2018",
+      "doi": "10.1103/PhysRevLett.121.222501",
+      "url": "https://www.osti.gov/servlets/purl/1492331",
+      "status": "ok",
+      "message": "531833 bytes",
+      "file": "gates2018.pdf",
+      "bytes": 531833,
+      "sha256": "20e6c88651b34dd20edc50f96d3ec476ef699608e2e4d95248693ff0b26048e7",
+      "checked_at": "2026-11-20T18:55:12+00:00"
+    },
+    {
+      "id": "giuliani2019",
+      "doi": "10.1103/RevModPhys.91.011001",
+      "url": "https://www.osti.gov/servlets/purl/1513128",
+      "status": "ok",
+      "message": "8070930 bytes",
+      "file": "giuliani2019.pdf",
+      "bytes": 8070930,
+      "sha256": "cca2e2cabade1f1fd62e5d7cbbee0a4f3881ccdb93f03387eb111e0e50089545",
+      "checked_at": "2026-11-20T18:56:21+00:00"
+    },
+    {
+      "id": "iaea2015",
+      "doi": null,
+      "url": "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1687web-74206224.pdf",
+      "status": "ok",
+      "message": "790380 bytes",
+      "file": "iaea2015.pdf",
+      "bytes": 790380,
+      "sha256": "b1023463a2c957c8eaddea816a8bcbf1df613d8e121d47dcfdb6e6ee65547902",
+      "checked_at": "2026-11-20T18:57:26+00:00"
+    },
+    {
+      "id": "jcgm2008",
+      "doi": null,
+      "url": "https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf",
+      "status": "ok",
+      "message": "1888806 bytes",
+      "file": "jcgm2008.pdf",
+      "bytes": 1888806,
+      "sha256": "41bbf068fbc0d7986c98691b2d1af6680cb3044f6a1a89b3560933ed9ef9626c",
+      "checked_at": "2026-11-20T18:57:18+00:00"
+    },
+    {
+      "id": "knuth2019",
+      "doi": "10.3390/e21100939",
+      "url": "https://www.mdpi.com/1099-4300/21/10/939/pdf",
+      "status": "failed",
+      "message": "HTTP 403"
+    },
+    {
+      "id": "knuth2025",
+      "doi": "10.1016/j.paerosci.2025.101097",
+      "url": "https://arxiv.org/pdf/2502.06794",
+      "status": "ok",
+      "message": "24266423 bytes",
+      "file": "knuth2025.pdf",
+      "bytes": 24266423,
+      "sha256": "f8b4a7af2ea56c0c5ad83afa98de3db4caad9d371e601a3c867f10b787ee8d42",
+      "checked_at": "2026-11-20T18:56:59+00:00"
+    },
+    {
+      "id": "medina2023",
+      "doi": "10.1038/s41598-023-49527-x",
+      "url": "https://www.nature.com/articles/s41598-023-49527-x.pdf",
+      "status": "ok",
+      "message": "1670516 bytes",
+      "file": "medina2023.pdf",
+      "bytes": 1670516,
+      "sha256": "60345dae95c1f6c1e4f70a8ace82157c076db1f2de32fd810e910ec1bb32ac63",
+      "checked_at": "2026-11-20T18:57:03+00:00"
+    },
+    {
+      "id": "morse2022",
+      "doi": "10.1016/j.nds.2022.05.003",
+      "url": "https://www.osti.gov/servlets/purl/1870401",
+      "status": "ok",
+      "message": "749063 bytes",
+      "file": "morse2022.pdf",
+      "bytes": 749063,
+      "sha256": "1c5c949471aa5bfd6e248d64cfdedded7b5f24c115664ee5c5aa754e1aeda2b2",
+      "checked_at": "2026-11-20T18:55:25+00:00"
+    },
+    {
+      "id": "nasa2023",
+      "doi": null,
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+      "status": "ok",
+      "message": "9637265 bytes",
+      "file": "nasa2023.pdf",
+      "bytes": 9637265,
+      "sha256": "52487de0c36317b728c6d4aece9fb82040e4fae2b19bda8d9b9d69c06d5a123c",
+      "checked_at": "2026-11-20T18:56:42+00:00"
+    },
+    {
+      "id": "nubase2020",
+      "doi": "10.1088/1674-1137/abddae",
+      "url": "https://www-nds.iaea.org/amdc/ame2020/NUBASE2020.pdf",
+      "status": "ok",
+      "message": "1879605 bytes",
+      "file": "nubase2020.pdf",
+      "bytes": 1879605,
+      "sha256": "e60a8dc17c96e443c394d8cbc5906e8be689c435300eed1fd215cdc9647148d2",
+      "checked_at": "2026-11-20T18:55:17+00:00"
+    },
+    {
+      "id": "odni2021",
+      "doi": null,
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "status": "ok",
+      "message": "385812 bytes",
+      "file": "odni2021.pdf",
+      "bytes": 385812,
+      "sha256": "3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9",
+      "checked_at": "2026-11-20T18:56:34+00:00"
+    },
+    {
+      "id": "odni2022",
+      "doi": null,
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+      "status": "ok",
+      "message": "563980 bytes",
+      "file": "odni2022.pdf",
+      "bytes": 563980,
+      "sha256": "46c4b7688641eab83e46500497ea69935e39097efec8ae80724784f6a67604f9",
+      "checked_at": "2026-11-20T18:56:39+00:00"
+    },
+    {
+      "id": "powell2022",
+      "doi": "10.31275/20222415",
+      "url": "https://journalofscientificexploration.org/index.php/jse/article/download/2415/1565",
+      "status": "ok",
+      "message": "634738 bytes",
+      "file": "powell2022.pdf",
+      "bytes": 634738,
+      "sha256": "7a7d1caf18283d35f84340f026dad74772fa96671ff0484c470dfd257871f8b7",
+      "checked_at": "2026-11-20T18:57:10+00:00"
+    },
+    {
+      "id": "roberto2017",
+      "doi": "10.1080/01496395.2017.1290658",
+      "url": "https://www.osti.gov/servlets/purl/1408011",
+      "status": "ok",
+      "message": "1094763 bytes",
+      "file": "roberto2017.pdf",
+      "bytes": 1094763,
+      "sha256": "67323217a8fb1e5f8499783e3be40de7e095e93175d7e907ad596c6d6c9885a2",
+      "checked_at": "2026-11-20T18:56:30+00:00"
+    },
+    {
+      "id": "szydagis2025",
+      "doi": "10.1016/j.paerosci.2025.101099",
+      "url": "https://arxiv.org/pdf/2312.00558",
+      "status": "ok",
+      "message": "22480188 bytes",
+      "file": "szydagis2025.pdf",
+      "bytes": 22480188,
+      "sha256": "657001c6dea877dd20df0385654eab22e46b547bd861eea59b7fbc046e7f3197",
+      "checked_at": "2026-11-20T18:56:54+00:00"
+    },
+    {
+      "id": "unodc2009",
+      "doi": null,
+      "url": "https://www.unodc.org/documents/scientific/Crime_scene_awareness__Ebook.pdf",
+      "status": "ok",
+      "message": "650835 bytes",
+      "file": "unodc2009.pdf",
+      "bytes": 650835,
+      "sha256": "09bd0600721375f3d61596dfdefd36ed3f6610f49197f796caf1bdecb5901435",
+      "checked_at": "2026-11-20T18:57:27+00:00"
+    },
+    {
+      "id": "watters2023",
+      "doi": "10.1142/S2251171723400068",
+      "url": "https://arxiv.org/pdf/2305.18566",
+      "status": "ok",
+      "message": "8674739 bytes",
+      "file": "watters2023.pdf",
+      "bytes": 8674739,
+      "sha256": "c3d6b33496297d328cab178c1c6c40992030bb5414f35b3b8488640236393aeb",
+      "checked_at": "2026-11-20T18:56:48+00:00"
+    }
+  ]
+}

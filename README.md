@@ -302,7 +302,10 @@ ASRP_UAP_Reverse_Engineering_Study/
 │   ├── build_blueprint.py          # builds the JSON from fragments
 │   ├── fragments/                  # per-track entity extractions
 │   ├── uap_kumu.json               # generated graph
-│   └── preview.html                # browser viewer
+│   ├── preview.html                # browser viewer
+│   └── REFERENCES-LAYER.md         # references and campaign layer: sources, claims, experiments (separate builder and viewer)
+├── references/                     # literature base: sources.json, bibliography.bib, reading notes
+├── scripts/                        # fetch_literature.py: downloads open-access PDFs into references/pdf/ (not tracked)
 ├── docs/                           # placeholder (empty)
 └── hardware/                       # placeholder (empty)
 ```

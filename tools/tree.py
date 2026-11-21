@@ -49,7 +49,10 @@ SPEC = [
         ("graph/fragments/", "per-track entity extractions", "поэтрековые извлечения сущностей"),
         ("graph/uap_kumu.json", "generated graph", "сгенерированный граф"),
         ("graph/preview.html", "browser viewer", "браузерный просмотр"),
+        ("graph/REFERENCES-LAYER.md", "references and campaign layer: sources, claims, experiments (separate builder and viewer)", "слой ссылок и кампании: источники, утверждения, эксперименты (отдельный сборщик и просмотр)"),
     ]),
+    ("references/", "literature base: sources.json, bibliography.bib, reading notes", "база литературы: sources.json, bibliography.bib, заметки о прочитанном"),
+    ("scripts/", "fetch_literature.py: downloads open-access PDFs into references/pdf/ (not tracked)", "fetch_literature.py: скачивает PDF открытого доступа в references/pdf/ (не отслеживается)"),
     ("docs/", "placeholder (empty)", "заглушка (пусто)"),
     ("hardware/", "placeholder (empty)", "заглушка (пусто)"),
 ]

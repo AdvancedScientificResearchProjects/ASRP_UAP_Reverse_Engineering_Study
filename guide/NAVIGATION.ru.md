@@ -49,7 +49,10 @@ ASRP_UAP_Reverse_Engineering_Study/
 │   ├── build_blueprint.py          # собирает JSON из фрагментов
 │   ├── fragments/                  # поэтрековые извлечения сущностей
 │   ├── uap_kumu.json               # сгенерированный граф
-│   └── preview.html                # браузерный просмотр
+│   ├── preview.html                # браузерный просмотр
+│   └── REFERENCES-LAYER.md         # слой ссылок и кампании: источники, утверждения, эксперименты (отдельный сборщик и просмотр)
+├── references/                     # база литературы: sources.json, bibliography.bib, заметки о прочитанном
+├── scripts/                        # fetch_literature.py: скачивает PDF открытого доступа в references/pdf/ (не отслеживается)
 ├── docs/                           # заглушка (пусто)
 └── hardware/                       # заглушка (пусто)
 ```
